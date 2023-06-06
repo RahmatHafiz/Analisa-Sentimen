@@ -1,0 +1,1354 @@
+Komentar,Sentimen
+"['ketakutan', 'wall', 'street', 'lanjutkan', 'penurunan']",Negatif
+"['ketahanan', 'pangan', 'desa', 'kekuatan', 'menghadapai', 'global']",Positif
+"['semoga', 'tumbuh', 'tahan', 'terhada', 'terpaan', 'angin', 'dunia', 'kemandirian', 'kedalautan', 'pangan', 'energi', 'faktor', 'utama', 'lolos', 'ancaman']",Positif
+"['caffe', 'type', 'ukm', 'ramping', 'penyelamat']",Positif
+"['kepala', 'bkkbn', 'seks']",Negatif
+"['bebas', 'sadar', 'kali', 'januari', 'tanggal', 'merahnya', 'minggu']",Positif
+"['kebal', 'tren', 'ipo', 'prospektif']",Negatif
+"['tanda', 'kekayaan', 'alamnya', 'kayak', 'gas', 'dibutuhin', 'triliunan', 'kubik', 'perlulah', 'sewa', 'pulau', 'tar', 'macem', 'mesti']",Positif
+"['sebentar', 'memasuki', 'kalabendu', 'diramalkan', 'anak', 'bangsa', 'gesekan', 'gesekan', 'politik', 'ekses', 'tahapan', 'pemilu', 'kampanye', 'gesekan', 'dampak', 'global', 'maraknya', 'phk']",Negatif
+"['amerika', 'serikat', 'bahaya', 'tahan', 'ekspor', 'kenegaraan', 'manapun', 'jong', 'kirim', 'ekspor', 'kaya', 'uang', 'kaya', 'utang', 'kagak', 'paham', 'politik']",Negatif
+"['dunia', 'mengalami', 'insya', 'allah', 'perisai']",Negatif
+"['lanyalla', 'peluang', 'menjaga', 'pertumbuhan', 'stabilitas', 'nasional', 'otomatis', 'menghadapi', 'gejolak', 'memiliki', 'fundamental', 'kuat', 'lanyalla']",Positif
+"['ketua', 'dpd', 'lanyalla', 'mahmud', 'mattalitti', 'menilai', 'ancaman', 'tantangan', 'peluang', 'lanyalla']",Positif
+"['ketua', 'dpd', 'nilai', 'dunia', 'peluang', 'lanyalla', 'nyallaindonesia', 'beranibangkit', 'dpdri']",Positif
+"['pcaya', 'juara', 'piala', 'dunia', 'pda', 'sex']",Positif
+"['mengarungi', 'ombak']",Positif
+"['semoga', 'terhindar', 'dampak']",Positif
+"['perekonomian', 'stabil']",Positif
+"['sampe', 'deh', 'kena']",Negatif
+"['judul', 'ngawur', 'kelahiran', 'gitu', 'santun']",Positif
+"['uji', 'taji', 'prospek', 'bisnis', 'fintech', 'dibayangi']",Positif
+"['oktober', 'isu', 'global', 'kabar', 'baiknya', 'berhasil', 'mencatatkan', 'pertumbuhan', 'yoy', 'kuartal', 'pertumbuhan', 'tahunan', 'tertinggi', 'kuartal']",Positif
+"['pemerintah', 'pastikan', 'apbn', 'menjaga', 'ancaman', 'penyelesaian', 'proyek', 'strategis', 'nasional', 'jokowipresidenku', 'pembangunanuntukrakyat', 'presidenjokowihebat', 'jokowimembangunnegeri', 'jokowimajubersamaindonesia', 'jokowibapakinfrastruktur']",Positif
+"['langkah', 'menghadapi', 'indonesiatanparesesi', 'ekonomiindonesia']",Positif
+"['dibayangi', 'seks', 'terkait', 'turunnya', 'kelahiran', 'bkkbn', 'potensi', 'laporannya']",Positif
+"['bebas', 'risiko', 'seks', 'pasalnya', 'kabupaten', 'kota', 'dilaporkan', 'mencatat', 'nihil', 'kelahiran']",Positif
+"['dipotong', 'dicari', 'celah']",Positif
+"['dunia', 'terancam', 'bahlil', 'waspada', 'investasi', 'seret']",Positif
+"['semoga', 'siaga', 'upaya', 'mmenghadapi', 'inflasi']",Positif
+"['pemerintah', 'sigap', 'menghadapi', 'tantangan']",Positif
+"['ancaman', 'mayora', 'beberkan', 'rencana', 'ekspansi']",Positif
+"['euro', 'menyadari', 'kesalahannya', 'prakiraan', 'data', 'menguat', 'investor', 'ragu', 'pasar', 'kesalahan', 'percaya', 'fed', 'memangkas', 'suku', 'bunga', 'memengaruhi', 'eur']",Positif
+"['menparekraf', 'sandiaga', 'uno', 'kiat', 'pelaku', 'usaha', 'optimis', 'menghadapi', 'tantangan', 'perekonomian']",Positif
+"['hadapi', 'hantu', 'bertahan', 'stabilitas', 'sektor', 'jasa', 'keuangan']",Negatif
+"['proses', 'mengalami', 'seks', 'dinilai']",Positif
+"['pertumbuhan', 'dunia', 'gelap', 'global', 'perusahaan', 'inovasi', 'menghadapi', 'tantangan', 'global', 'berdampak', 'media', 'network', 'menggelar', 'acara', 'selular', 'digital', 'telco']",Positif
+"['sepatu', 'asli', 'buatan', 'keluarin', 'produk', 'harga', 'udah', 'preorder', 'nresesi']",Negatif
+"['semoga', 'growth', 'terhindar', 'god', 'bless']",Negatif
+"['negara', 'mengatasi']",Positif
+"['dampak', 'global']",Positif
+"['ngga', 'terdampak', 'beneran', 'pemgusaha', 'faktanya', 'analis', 'emang', 'terdampak']",Positif
+"['terjemahannya', 'orang', 'kaya', 'terkena', 'dampak', 'negatif', 'global', 'orang', 'menengah', 'hidupnya', 'susah']",Positif
+"['menghadapi', 'indonesiatanparesesi', 'ekonomiindonesia']",Positif
+"['langkah', 'menghadapi', 'indonesiatanparesesi', 'ekonomiindonesia']",Positif
+"['maraknya', 'phk', 'imbas', 'pelemahan', 'eropa', 'airlangga', 'hartarto', 'airlangga', 'pemersatu', 'airlangga', 'partai', 'golkar', 'golkar', 'pedia', 'golkar', 'solid', 'airlangga', 'presiden']",Positif
+"['langkah', 'menghadapi', 'indonesiatanparesesi', 'ekonomiindonesia']",Positif
+"['eropa', 'terancam', 'kena', 'dampak']",Positif
+"['survive', 'hadapi', 'pengusaha', 'fmcg', 'butuh', 'modal']",Negatif
+"['langkah', 'hadapi', 'fokus', 'pemerintah', 'menghadapi', 'meningkatkan', 'nilai', 'ekspor', 'investasi', 'reformasi', 'struktural', 'menjaga', 'produksi', 'rumah', 'tangga', 'berdampak', 'pdb', 'indonesiatanparesesi', 'ekonomiindonesia']",Positif
+"['langkah', 'hadapi', 'indonesiatanparesesi', 'ekonomiindonesia']",Positif
+"['langkah', 'menghadapi', 'indonesiatanparesesi', 'ekonomiindonesia']",Positif
+"['buka', 'bukaan', 'pengusaha', 'industri', 'fmcg', 'hadapi', 'ancaman']",Positif
+"['penasaran', 'ide', 'bisnis', 'hasilkan', 'cuan', 'jawabannya', 'yuk', 'langsung', 'simak', 'postingan', 'resesiglobal', 'resesiekonomi', 'ekonomiglobal', 'umkm', 'kontrakhukum', 'legal', 'hukum', 'legalitas', 'idebisnis']",Positif
+"['prediksi', 'ahli', 'negara', 'negara', 'amerika', 'serikat', 'eropa', 'terdampak']",Positif
+"['tanti', 'perekonomian', 'global', 'kondisi', 'ketidakpastian', 'ipb', 'university', 'gelar', 'seminar', 'outlook', 'antisipasi']",Positif
+"['eks', 'menkeu', 'wajib', 'kena', 'lho', 'gitu']",Positif
+"['menteri', 'bumn', 'erick', 'thohir', 'optimistis', 'melewati', 'mendorong', 'ekspor', 'sumber', 'daya', 'alam', 'bentuk', 'produk', 'membangun', 'optimisme', 'perekonomian', 'tumbuh', 'angka', 'bangkitbersamaet']",Positif
+"['optimistis', 'waspada', 'strategi', 'hadapi', 'isu', 'inflasi', 'global']",Positif
+"['dpr', 'optimistis', 'mengalami']",Positif
+"['indef', 'terbebas', 'mengalami', 'perlambatan', 'pertumbuhan', 'tempo', 'bisnis']",Positif
+"['industri', 'digital', 'pusat', 'data', 'tulang', 'punggung', 'hadapi']",Positif
+"['erick', 'thohir', 'optimistis', 'lewati', 'indonesiamaju', 'indonesiamerdeka', 'bumnuntuknegeri', 'bumnuntukindonesia', 'bumnuntuknegeri', 'bumn', 'bumnuntukindonesia', 'erickthohirsolusirakyat']",Positif
+"['sumber', 'bencana', 'alam', 'mengancam', 'siapkah']",Positif
+"['bangkitbersamaet', 'optimis', 'dibangun', 'dimasa', 'gejolak', 'global', 'dorong', 'ekspor', 'sda', 'produk', 'optimistis', 'lewati']",Positif
+"['langkah', 'hadapi', 'indonesiatanparesesi', 'ekonomiindonesia']",Positif
+"['ekspor', 'perikanan', 'berpotensi', 'terkoreksi', 'upaya', 'mendorong', 'ekspor', 'menghadapi', 'kelanjutan', 'global', 'adadikompas']",Positif
+"['erick', 'thohir', 'optimistis', 'lewati', 'indonesiamaju', 'indonesiamerdeka', 'bumnuntuknegeri', 'bumnuntukindonesia', 'bumn', 'bumnuntuknegeri', 'bumnuntukindonesia', 'erthoforwapres', 'erickthohir', 'erickthohirwapres', 'erickthohirsolusirakyat']",Positif
+"['erick', 'thohir', 'optimis', 'ditangani', 'modal', 'kuat', 'lolos', 'ancaman', 'global', 'bangkitbersamaet']",Positif
+"['menteri', 'bumn', 'erick', 'thohir', 'ungkapkan', 'optimisitas', 'lewati', 'bangkitbersamaet']",Positif
+"['komisi', 'dpr', 'nilai', 'alami']",Positif
+"['masyarakat', 'pastinya', 'berharap', 'bri', 'melanjutkan', 'kinerja', 'positifnya', 'situasi', 'perekonomian', 'dunia', 'dihantui', 'ketidakpastian', 'bayang', 'bayang', 'kinerjabriq']",Positif
+"['kinerja', 'positif', 'bri', 'pertanda', 'perekonomian', 'dunia', 'berupaya', 'pulih', 'pasca', 'pandemi', 'kinerjabriq', 'nsemoga', 'dampak', 'parah']",Positif
+"['assalammualaikum', 'yuk', 'join', 'silahkan', 'daftar', 'gratis', 'resiko', 'nabung', 'emas', 'sesuai', 'syari', 'insyaallah', 'profit', 'panen', 'emas', 'segeralah', 'nabungemas', 'quantum', 'metal', 'njoin']",Positif
+"['dpr', 'alami', 'tumbuh', 'positif']",Positif
+"['menumbuhkan', 'perekonomian', 'rakyat', 'bangkit', 'pandemi', 'menaikkan', 'volume', 'transaksi', 'dimana', 'perputaran', 'uang', 'transaksinya', 'sehat', 'stabil', 'ditengah', 'inflasi', 'jurang', 'kinerjabriq']",Positif
+"['optimis', 'menghadapi', 'bangkitbersamaet']",Negatif
+"['menteri', 'bumn', 'optimis', 'lewati', 'erick', 'bertahan', 'gejolak', 'global', 'erick', 'thohir', 'mendorong', 'ekspor', 'sda', 'bentuk', 'produk', 'bangkitbersamaet']",Positif
+"['anggota', 'dpr', 'klaim', 'alami', 'alasannya']",Positif
+"['menurutnya', 'peluang', 'menjaga', 'pertumbuhan', 'stabilitas', 'nasional', 'otomatis', 'menghadapi', 'gejolak', 'memiliki', 'fundamental', 'kuat', 'lanyalla', 'lanyalla']",Positif
+"['diprediksi', 'akut', 'dibandingkan', 'nnamun', 'ketua', 'dpd', 'lanyalla', 'mahmud', 'mattalitti', 'menilai', 'ancaman', 'tantangan', 'peluang', 'lanyalla']",Positif
+"['ketua', 'dpd', 'nilai', 'dunia', 'peluang', 'nsurabaya', 'dunia', 'ketidakpastian', 'global', 'ancaman', 'muncul', 'tingginya', 'inflasi', 'pelambatan', 'pelemahan', 'lanyalla', 'lanyalla']",Positif
+"['perekonomian', 'bertahan', 'global', 'gelombang', 'phk']",Positif
+"['optimis', 'nisa', 'melewati', 'bangkitbersamaet']",Positif
+['mengalami'],Negatif
+"['mendorong', 'ekspor', 'sda', 'bentuk', 'optimis', 'lewati', 'bangkitbersamaet']",Positif
+"['politisi', 'golkar', 'maraknya', 'phk', 'imbas', 'pelemahan', 'eropa', 'indonesiabelumresesi', 'phk', 'politisigolkar']",Positif
+"['menteri', 'bumn', 'agresif', 'melawan', 'diprediksi', 'pemerintah', 'memprioritaskan', 'mengatasi', 'ketergantungan', 'rantai', 'pasokan', 'pangan', 'energi', 'dunia', 'swasembada', 'pangan', 'energi', 'bangkitbersamaet']",Positif
+"['baca', 'belajar', 'indikasi', 'global', 'berdampak', 'layoff', 'karyawan', 'goto', 'shoppee', 'buruh', 'pabrik', 'dikurangi', 'jam', 'kerjanya', 'krisis', 'energi', 'eropa', 'zero', 'covid', 'policy', 'china', 'fed', 'rate']",Positif
+['alami'],Positif
+"['menteri', 'badan', 'usaha', 'milik', 'negara', 'bumn', 'erick', 'thohir', 'optimis', 'lewati', 'nasional', 'tumbuh', 'angka', 'persen', 'mendorong', 'ekspor', 'sda', 'bentuk', 'produk', 'bangkitbersamaet']",Positif
+"['negara', 'mewaspadai', 'dlm', 'skala', 'erick', 'thohir', 'optimis', 'bertahan', 'kuat', 'menghadapi', 'guncangan', 'global', 'nasional', 'tumbuh', 'angka', 'bangkitbersamaet']",Negatif
+"['optimis', 'hadapi', 'bismillah', 'kuat']",Positif
+"['ancaman', 'global', 'east', 'ventures', 'digital', 'positif']",Positif
+"['menteri', 'bumn', 'optimis', 'melewati', 'nsumber', 'daya', 'alam', 'didorong', 'ekspor', 'bentuk', 'produk', 'olahan', 'bangkitbersamaet']",Positif
+"['semoga', 'berkaca', 'pandemi', 'dinilai', 'hadapi', 'ancaman']",Positif
+"['menteri', 'bumn', 'erick', 'thohir', 'noptimis', 'lewati', 'bertahan', 'gejolak', 'global', 'npastii', 'bisaa', 'bangkitbersamaet']",Positif
+"['bayang', 'global', 'menghantui', 'negara', 'dunia', 'terkecuali', 'nnamun', 'menanamkan', 'optimisme', 'melewatinya', 'sda', 'sdm', 'melimpah', 'ekspor', 'sda', 'dlm', 'bentuk', 'meningkatkan', 'nilai', 'bangkitbersamaet']",Positif
+"['berharap', 'bangeett', 'bri', 'melanjutkan', 'kinerja', 'positifnya', 'kinerjabriq']",Positif
+"['erick', 'thohir', 'optimistis', 'lewati', 'nmenteri', 'bumn', 'bertahan', 'gejolak', 'global', 'beliau', 'mendorong', 'ekspor', 'sda', 'bentuk', 'produk', 'mentah', 'yuk', 'yuk', 'bangkitbersamaet']",Positif
+"['relatif', 'aman', 'global', 'diwaspadai', 'namannya', 'global', 'kuatnya', 'konsumsi', 'rumah', 'tangga', 'domestik', 'trenasia', 'ump', 'gaji', 'inflasi']",Positif
+"['naiknya', 'ump', 'dianggap', 'menahan', 'global', 'trenasia', 'ump', 'gaji', 'inflasi']",Positif
+"['klean', 'perekominian', 'nbahkan', 'kabarnya', 'menghadap', 'kinerjabriq']",Negatif
+"['aman', 'hadapi', 'ancaman', 'global', 'ketum', 'apindo', 'pemerintah', 'tidur', 'tumbuh', 'persen']",Positif
+"['melewati', 'keyakinan', 'menteri', 'bumn', 'optimis', 'pertumbuhan', 'mendorong', 'ekspor', 'sda', 'bentuk', 'produk', 'bangkitbersamaet']",Positif
+"['ditengah', 'kondisi', 'perekonomian', 'dunia', 'penuh', 'tantangan', 'isu', 'bank', 'rakyat', 'persero', 'tbk', 'menjaga', 'fundamental', 'kinerja', 'keuangan', 'fokus', 'core', 'business', 'segmen', 'umkm', 'kinerjabriq']",Positif
+"['ditengah', 'kondisi', 'perekonomian', 'dunia', 'penuh', 'tantangan', 'isu', 'bank', 'rakyat', 'persero', 'tbk', 'menjaga', 'fundamental', 'kinerja', 'keuangan', 'fokus', 'core', 'business', 'segmen', 'umkm']",Positif
+"['optimis', 'lewati', 'menteri', 'bumn', 'bertahan', 'gejolak', 'global', 'mendorong', 'ekspor', 'sda', 'bentuk', 'produk', 'bangkitbersamaet']",Negatif
+"['menteri', 'bumn', 'erick', 'thohir', 'tumbuh', 'situasi', 'global', 'penuh', 'gejolak', 'tantangan', 'optimis', 'tangguh', 'melewati', 'bangkitbersamaet']",Positif
+"['gempuran', 'berita', 'bank', 'rakyat', 'persero', 'tbk', 'menjaga', 'fundamental', 'kinerja', 'keuangan', 'positif', 'kinerjabriq']",Positif
+"['berkaca', 'pandemi', 'dinilai', 'hadapi', 'ancaman']",Positif
+"['optimis', 'melewati', 'bertahan', 'gejolak', 'global', 'mendorong', 'ekspor', 'sda', 'bentuk', 'produk', 'noptimisme', 'dibangun', 'nasional', 'tumbuh', 'angka', 'bangkitbersamaet']",Positif
+"['menteri', 'bumn', 'erick', 'thohir', 'optimis', 'lewati', 'noptimisme', 'bangun', 'dorong', 'ekspor', 'sda', 'bentuk', 'nasional', 'tumbuh', 'erick', 'thohir', 'nyes', 'bangkitbersamaet']",Positif
+"['menteri', 'bumn', 'optimistis', 'lewati', 'bangkitbersamaet']",Positif
+"['karna', 'umkm', 'tulang', 'punggung', 'perekonomian', 'menghadapi', 'ditingkatkan', 'narsjad', 'rasjid', 'umkm', 'inklusifkolaboratif']",Positif
+"['ojk', 'dialami', 'negara', 'maju']",Positif
+"['menteri', 'bumn', 'erick', 'thohir', 'optimis', 'lewati', 'bangkitbersamaet']",Positif
+"['jokowi', 'sdm', 'sda', 'berlimpah', 'melewati', 'global', 'bangunoptimisme']",Positif
+"['jokowi', 'memiliki', 'tangguh', 'melewati', 'global', 'bangunoptimisme']",Positif
+"['jokowi', 'optimis', 'melewati', 'global', 'bangunoptimisme']",Positif
+"['jokowi', 'pengarahan', 'masyarakat', 'melewati', 'bayang', 'sdm', 'sda', 'bangunoptimisme', 'nindonesia']",Positif
+"['sdm', 'melimpah', 'menghadapi', 'bangunoptimisme']",Positif
+"['kondisi', 'perekonomian', 'global', 'jokowi', 'optimis', 'melewati', 'bayangan', 'bangunoptimisme']",Positif
+"['menghadapi', 'ayo', 'bangunoptimisme']",Positif
+"['ditengah', 'gempuran', 'dimana', 'melewatinya', 'memiliki', 'sda', 'melimpah', 'bangunoptimisme', 'nindonesia']",Positif
+"['optimis', 'jokowi', 'melewati', 'bayangan', 'kaya', 'akansda', 'bangunoptimisme']",Positif
+"['optimis', 'hadapi', 'perekonomian', 'global', 'ditengah', 'gempuran', 'inflasi', 'mimpi', 'buruk', 'percaya', 'xaa', 'bangunoptimisme', 'nindonesia']",Positif
+"['umkm', 'selamatkan', 'jokowipresidenku', 'pembangunanuntukrakyat', 'presidenjokowihebat', 'jokowimembangunnegeri', 'jokowimajubersamaindonesia', 'jokowibapakinfrastruktur']",Positif
+"['takut', 'menghadapi', 'sdm', 'sda', 'bangunoptimisme', 'nindonesia']",Positif
+"['global', 'jokowi', 'optimis', 'melewati', 'bayangan', 'kelimpahan', 'alam', 'bangunoptimisme']",Positif
+"['letak', 'geografis', 'jalur', 'perdagangan', 'dunia', 'optimis', 'menghadapi', 'bangunoptimisme', 'nindonesia']",Negatif
+"['jokowi', 'melewati', 'bayangan', 'memiliki', 'bekal', 'sda', 'bangunoptimisme', 'nindonesia']",Positif
+"['penuturan', 'jokowi', 'menghadapi', 'optimis', 'tanah', 'air', 'sda', 'melimpah', 'bangunoptimisme']",Positif
+"['hadapi', 'sdm', 'unggul', 'bersaing', 'bangunoptimisme', 'nindonesia']",Positif
+"['bayangan', 'mengerikan', 'orang', 'khawatir', 'pemerintah', 'optimis', 'melewati', 'percaya', 'bangunoptimisme', 'nindonesia']",Positif
+"['bayangan', 'mata', 'jokowi', 'melewatinya', 'memiliki', 'bekal', 'sda', 'melimpah', 'bangunoptimisme']",Positif
+"['melewati', 'bayangan', 'memiliki', 'bekal', 'sda', 'melimpah', 'bangunoptimisme']",Positif
+"['potensi', 'kekuatan', 'sda', 'sdm', 'melimpah', 'ruah', 'dimiliki', 'dasar', 'optimisme', 'menghadapi', 'bangunoptimisme']",Positif
+"['perekonomian', 'global', 'mengalami', 'gejolak', 'jokowi', 'optimis', 'melewati', 'berbekal', 'sda', 'sdm', 'dimiliki']",Positif
+"['optimis', 'menghadapi', 'sda', 'sdm', 'melimpah', 'jalur', 'perdagangan', 'dunia', 'bangunoptimisme', 'nindonesia']",Positif
+"['optimis', 'melewati', 'bayangan', 'memiliki', 'bekal', 'sda', 'melimpah', 'bangunoptimisme', 'nindonesia']",Positif
+"['perekonomian', 'global', 'menghantui', 'dunia', 'jokowi', 'optimis', 'melewati', 'sda', 'sdm', 'melimpah', 'bangunoptimisme', 'nindonesia']",Positif
+"['survive', 'era', 'perekonomian', 'taun', 'negara', 'mengalami', 'bangunoptimisme']",Positif
+"['jokowi', 'optimis', 'menghadapi', 'sda', 'sdm', 'berlimpah', 'bangunoptimisme', 'nindonesia']",Positif
+"['percaya', 'melewati', 'karna', 'alasan', 'menghadapi', 'perekonomian', 'global', 'bangunoptimisme', 'nindonesia']",Positif
+"['negara', 'bergantung', 'peran', 'global', 'jokowi', 'optimis', 'menghadapi', 'tantangan', 'bangunoptimisme', 'nindonesia']",Positif
+"['optimis', 'perekonomian', 'global', 'kaya', 'sdm', 'sda', 'melewati', 'bangunoptimisme', 'nindonesia']",Positif
+"['mari', 'jokowi', 'bersatu', 'menghadapi', 'bangunoptimisme', 'nindonesia']",Positif
+"['presiden', 'jokowi', 'melewati', 'bayangan', 'sda', 'sdm', 'melimpah', 'bangunoptimisme', 'nindonesia']",Positif
+"['dibayang', 'bayangi', 'optimis', 'bangunoptimisme', 'nindonesia']",Positif
+"['jokowi', 'melewati', 'bayangan', 'memiliki', 'bekal', 'sda', 'melimpah', 'ruah', 'bangunoptimisme']",Positif
+"['jokowi', 'optimis', 'mengahadapi', 'bayangan', 'bangunoptimisme', 'nindonesia']",Negatif
+"['perekonomian', 'global', 'menghantui', 'dunia', 'jokowi', 'optimis', 'melewati', 'bayangan', 'sdm', 'sda', 'melimpah', 'ruah', 'bangunoptimisme']",Negatif
+"['diterjang', 'optimis', 'bangunoptimisme', 'nindonesia']",Positif
+"['jokowi', 'cemas', 'sda', 'sdm', 'melimpah', 'bangunoptimisme', 'nindonesia']",Negatif
+"['indonesi', 'memiliki', 'bekal', 'sda', 'melimpah', 'jokowi', 'mempu', 'melewati', 'bayangan', 'bangunoptimisme', 'nindonesia']",Negatif
+"['mematikan', 'perekonomian', 'optimis', 'sdm', 'tangguh', 'sda', 'melimpah', 'bangunoptimisme', 'nindonesia']",Positif
+"['kekhawatiran', 'dunia', 'membangun', 'optimisme', 'menghadapi', 'perekonomian', 'global', 'pemain', 'global', 'sesungguhnya', 'nindonesia', 'bangunoptimisme']",Positif
+"['presiden', 'jokowi', 'memiliki', 'jurus', 'jitu', 'menghadapi', 'nindonesia', 'bangunoptimisme']",Positif
+"['perekonomian', 'global', 'mengantui', 'dunia', 'jokowi', 'optimis', 'melewati', 'bayangan', 'sdm', 'sda', 'melimpah', 'bangunoptimisme']",Positif
+"['hadapi', 'global', 'faktor', 'sda', 'sdm', 'bangunoptimisme']",Positif
+"['hilirisasi', 'sda', 'penghentian', 'ekspor', 'bahan', 'mentah', 'jokowi', 'tindakan', 'antisipasi', 'issue', 'nindonesia', 'bangunoptimisme']",Positif
+"['silih', 'berganti', 'konflik', 'rusia', 'jokowi', 'menyuarakan', 'optimisannya', 'menghapi', 'situasi', 'tsb', 'bangunoptimisme']",Positif
+"['pimpinan', 'presiden', 'jokowi', 'perekonomian', 'memiliki', 'ketahanan', 'kuat', 'menghadapi', 'global', 'nindonesia', 'bangunoptimisme']",Positif
+"['bosan', 'bosan', 'kali', 'jokowi', 'gaungkan', 'optimisme', 'hadapi', 'situasi', 'global', 'dibayang', 'bayangi', 'bangunoptimisme']",Positif
+"['sumber', 'daya', 'manusia', 'sumber', 'daya', 'alam', 'melimpah', 'penopang', 'aman', 'global', 'nindonesia', 'bangunoptimisme']",Negatif
+"['sumber', 'daya', 'alam', 'melimpah', 'potensial', 'optimis', 'aman', 'global', 'nindonesia', 'bangunoptimisme']",Positif
+"['presiden', 'jokowi', 'peka', 'peduli', 'penguatan', 'anak', 'anak', 'muda', 'potensial', 'membantu', 'menopang', 'pertahanan', 'global', 'nindonesia', 'bangunoptimisme']",Positif
+"['jokowi', 'melewati', 'bayangan', 'memiliki', 'bekal', 'sda', 'melimpah', 'bangunoptimisme']",Positif
+"['dunia', 'menyentuh', 'asia', 'tenggara', 'khawatir', 'memiliki', 'kesempatan', 'kekhawatiran', 'pesimistis', 'nindonesia', 'bangunoptimisme']",Positif
+"['semoga', 'menghadapi', 'perekonomian', 'global', 'nindonesia', 'bangunoptimisme']",Positif
+"['letak', 'geografisnya', 'jalur', 'perdagangan', 'dunia', 'aman', 'global', 'nindonesia', 'bangunoptimisme']",Negatif
+"['lokasi', 'geografis', 'strategis', 'menguntungkan', 'ancaman', 'global', 'nindonesia', 'bangunoptimisme']",Positif
+"['barang', 'mentah', 'perut', 'bumi', 'menyelamatkan', 'hindari', 'larangan', 'jokowi', 'menjual', 'barang', 'mentah', 'nindonesia', 'bangunoptimisme']",Positif
+"['kebijakan', 'hilirisasi', 'nikel', 'stop', 'ekspor', 'bahan', 'mentah', 'membantu', 'melawan', 'bangunoptimisme']",Positif
+"['situasi', 'ditakuti', 'negara', 'semoga', 'menghadapinya', 'nindonesia', 'bangunoptimisme']",Positif
+"['berdasarkan', 'proyeksi', 'world', 'bank', 'perekonomian', 'berpotensi', 'tumbuh', 'kisaran', 'persen', 'memiliki', 'peluang', 'global', 'nindonesia', 'bangunoptimisme']",Positif
+"['sumber', 'daya', 'alam', 'manusia', 'melimpah', 'potensi', 'selamat', 'terbuka', 'lebar', 'nindonesia', 'bangunoptimisme']",Positif
+"['kepemimpinan', 'presiden', 'jokowi', 'terjatuh', 'jurang', 'global', 'nindonesia', 'bangunoptimisme']",Positif
+"['bnyak', 'sda', 'kaya', 'sdm', 'hadapi', 'global', 'hantui', 'negara', 'nindonesia', 'bangunoptimisme']",Positif
+"['hadapi', 'global', 'bangunoptimisme']",Negatif
+"['memiliki', 'modal', 'kuat', 'optimis', 'menghadapo', 'menimbang', 'negara', 'bergantung', 'contohnya', 'ekspor', 'batu', 'bara', 'bangunoptimisme']",Positif
+"['ayo', 'menghadapi', 'global', 'kedepannya', 'bangunoptimisme']",Positif
+"['kenal', 'lelah', 'kenal', 'letih', 'jokowi', 'gaungkan', 'semangat', 'bangunoptimisme', 'menghadapi', 'dinamika', 'global', 'diramalkan', 'nindonesia', 'sda', 'sdm', 'melimpah', 'ruah', 'dimanfaatkan']",Positif
+"['sda', 'sdm', 'sumber', 'kekuatan', 'utama', 'dibalik', 'kesiapan', 'menghadapi', 'nindonesia', 'bangunoptimisme']",Positif
+"['sumber', 'daya', 'alam', 'melimpah', 'bonus', 'demografi', 'unggul', 'letak', 'geografis', 'unggul', 'aman', 'global', 'nindonesia', 'bangunoptimisme']",Positif
+"['jokowi', 'strategi', 'jitu', 'beliau', 'hadapi', 'nindonesia', 'bangunoptimisme']",Negatif
+"['takut', 'hadapi', 'dibawah', 'kepemimpinan', 'jokowi', 'hadapi', 'situasi', 'krisis', 'tsb', 'nindonesia', 'bangunoptimisme']",Positif
+"['kondisi', 'global', 'menentu', 'jatuh', 'jurang', 'kondisi', 'sumber', 'daya', 'alam', 'sumber', 'daya', 'manusia', 'melimpah', 'nindonesia', 'bangunoptimisme']",Positif
+"['pimpinan', 'presiden', 'jokowi', 'optimis', 'selamat', 'kondisi', 'global', 'menentu', 'nindonesia', 'bangunoptimisme']",Positif
+"['aman', 'global', 'pimpinan', 'presiden', 'jokowi', 'menjual', 'sumber', 'daya', 'alam', 'mentah', 'dikelola', 'baiknya', 'kebijakan', 'hilirisasi', 'nindonesia', 'bangunoptimisme']",Positif
+"['jokowi', 'bela', 'belain', 'pasang', 'badan', 'tekanan', 'wto', 'menghentikan', 'ekspor', 'barang', 'mentah', 'jaga', 'jaga', 'kondisi', 'perekonomian', 'global', 'nindonesia', 'bangunoptimisme']",Positif
+"['kondisi', 'perekonomian', 'global', 'menghantui', 'negara', 'negara', 'dunia', 'bayangan', 'menguat', 'presiden', 'jokowi', 'masyarakat', 'optimis', 'menghadapi', 'situasi']",Negatif
+"['kondisi', 'perekonomian', 'global', 'emang', 'masi', 'menghantui', 'jokowi', 'ngajarin', 'masyarakat', 'optimis', 'menghadapi', 'situasi', 'bangunoptimisme']",Positif
+"['bahwasannya', 'menghadapi', 'global', 'optimis', 'bangunoptimisme']",Negatif
+"['presiden', 'jokowi', 'masyarakat', 'optimis', 'menghadapi', 'situasi', 'nindonesia', 'bangunoptimisme']",Positif
+"['menguat', 'nindonesia', 'bangunoptimisme']",Positif
+"['dibayang', 'bayangi', 'presiden', 'jokowi', 'optimis', 'sumber', 'daya', 'alam', 'sumber', 'daya', 'manusia', 'melimpah', 'bangunoptimisme']",Negatif
+"['memiliki', 'pasar', 'asean', 'juta', 'produk', 'gue', 'gabakal', 'jokowi', 'menangi', 'bangunoptimisme']",Positif
+"['memanfaatkan', 'momentum', 'tumbuh', 'negara', 'mengalami', 'nindonesia', 'bangunoptimisme']",Positif
+"['salut', 'ditengah', 'influencer', 'gencar', 'menyuarakan', 'terkait', 'panik', 'presiden', 'menyuarakan', 'optimisme', 'bangunoptimisme']",Positif
+"['bayang', 'bayang', 'emang', 'khawatir', 'bangunoptimisme', 'melewati']",Positif
+"['wajib', 'bangunoptimisme', 'keyakinan', 'hadapi', 'bayang', 'bayang', 'sda', 'sdm', 'melimpah']",Negatif
+"['pangsa', 'pasar', 'dikapitalisasi', 'modal', 'dimanfaatkan', 'terpuruk', 'global', 'nindonesia', 'bangunoptimisme']",Positif
+"['penghentian', 'ekspor', 'bahan', 'mentah', 'membantu', 'menaikan', 'perekonomian', 'menghadapi', 'bayangan', 'bangunoptimisme']",Positif
+"['alasan', 'presiden', 'optimis', 'bayang', 'bayang', 'potensi', 'kekuatan', 'sumber', 'daya', 'alam', 'manusia', 'melimpah', 'nindonesia', 'bangunoptimisme']",Positif
+"['mengalami', 'perekonomian', 'tanah', 'air', 'nindonesia', 'bangunoptimisme']",Positif
+"['optimis', 'menghadapi', 'perekonomian', 'global', 'bayangan', 'menguat', 'jokowi', 'mendampingi', 'menghadapi', 'situasi', 'nindonesia', 'bangunoptimisme']",Positif
+"['episentrum', 'global', 'nindonesia', 'bangunoptimisme']",Positif
+"['kebijakan', 'tangan', 'terbaik', 'mengatasi', 'bangunoptimisme']",Positif
+"['isu', 'digembar', 'gemborkan', 'semenakutkan', 'btul', 'jokowi', 'udh', 'sda', 'sdm', 'melimpah', 'jni', 'dpt', 'dimanfaatkan', 'bangunoptimisme']",Positif
+"['bangunoptimisme', 'keyakinan', 'hadapi', 'mengancam', 'dunia', 'internasional']",Positif
+"['dihadapi', 'isu', 'takuti', 'pemimpin', 'negara', 'optimis', 'melewatinya', 'bangunoptimisme']",Positif
+"['mari', 'semangat', 'bangunoptimisme', 'kondisi', 'global', 'momok', 'negara', 'negara', 'dunia', 'jokowi', 'rakyat', 'optimis', 'menghadapi']",Positif
+"['berulang', 'kali', 'presiden', 'bangunoptimisme', 'hadapi', 'sda', 'sdm', 'melimpah', 'modal', 'utamanya']",Negatif
+"['sependapat', 'presiden', 'pokoknya', 'bangunoptimisme', 'kudu', 'menghadapi', 'bayang', 'bayang']",Positif
+"['ancaman', 'global', 'kabar', 'menghampiri', 'menjelang', 'pengujung', 'masuk', 'negara', 'terbesar', 'dunia', 'versi', 'dana', 'moneter', 'internasional', 'nindonesia', 'bangunoptimisme']",Positif
+"['dibayangkan', 'ygdiperkirakan', 'menguat', 'presiden', 'jokowi', 'masyarakat', 'optimis', 'menghadapi', 'situasi', 'bangunoptimisme']",Positif
+"['bertahan', 'ancaman', 'global', 'nindonesia', 'bangunoptimisme']",Positif
+"['pokoknya', 'semangat', 'bersatu', 'bangunoptisme', 'hadapi', 'lewati', 'bayang', 'bayang', 'optimis']",Positif
+"['negara', 'berkembang', 'cenderung', 'terhindar', 'nindonesia', 'bangunoptimisme']",Positif
+"['pembahasan', 'optimis', 'menghadapi', 'faktor', 'nindonesia', 'bangunoptimisme']",Positif
+"['presiden', 'seringkali', 'bangunoptimisme', 'hadapi', 'global']",Positif
+"['kondisi', 'perekonomian', 'global', 'menghantui', 'negara', 'negara', 'dunia', 'bayangan', 'menguat', 'presiden', 'jokowi', 'masyarakat', 'optimis', 'menghadapi', 'situasi', 'bangunoptimisme']",Positif
+"['episentrum', 'dunia', 'perekonomian', 'nasional', 'ditopang', 'kuat', 'permintaan', 'domestik', 'nindonesia', 'bangunoptimisme']",Positif
+"['kondisi', 'perekonomian', 'global', 'menghantui', 'negara', 'negara', 'dunia', 'bayangan', 'menguat', 'nindonesia', 'bangunoptimisme']",Positif
+"['global', 'mencari', 'peluang', 'sektor', 'moncer', 'nindonesia', 'bangunoptimisme']",Positif
+"['semangat', 'menghadapi', 'semoga', 'memiliki', 'peran', 'global', 'perekonomian', 'stok', 'sumberdaya', 'alam', 'melimpah', 'nindonesia', 'bangunoptimisme']",Positif
+"['kondisi', 'perekonomian', 'global', 'menajdi', 'kekhawatiran', 'orang', 'bayangan', 'bangunoptimisme']",Positif
+"['probabilitas', 'persen', 'nindonesia', 'bangunoptimisme']",Positif
+"['presiden', 'jokowi', 'bangunoptimisme', 'menghindari', 'menguat']",Positif
+"['memiliki', 'daya', 'tahan', 'menghadapi', 'ancaman', 'global', 'nindonesia', 'bangunoptimisme']",Positif
+"['global', 'xab', 'nmenteri', 'bumn', 'optimis', 'bertahan', 'krisis', 'geopolitik', 'berakibat', 'gejolak', 'global', 'nerick', 'thohir', 'nasional', 'tumbuh', 'bangkitbersamaet']",Positif
+"['menghadapi', 'ancaman', 'kadin', 'menggelar', 'rapimnas', 'perkuat', 'umkm', 'afterb', 'arsjadrasjid', 'kadinindonesia', 'inklusifkolaboratif']",Positif
+"['proyeksi', 'suram', 'bank', 'pertumbuhan', 'positif', 'mencapai', 'persen', 'kumparanbisnis', 'dailyupdate']",Positif
+"['menteri', 'bumn', 'erick', 'thohir', 'optimistis', 'bangsa', 'melewati', 'nmenurut', 'optimistis', 'dibangun', 'diyakini', 'nasional', 'tumbuh', 'angka', 'mendorong', 'ekspor', 'sda', 'bentuk', 'bangkitbersamaet']",Positif
+"['kadin', 'berusaha', 'menghadapi', 'ancaman', 'ditahun', 'arsjadrasjid', 'umkm', 'inklusifkolaboratif']",Positif
+"['bos', 'ojk', 'takut', 'jagoan']",Positif
+"['negara', 'tealh', 'merasakan', 'global', 'mas', 'melewati', 'didukun', 'goleh', 'sda', 'beliau', 'mendorong', 'ekspor', 'sda', 'dlm', 'bentuk', 'barang', 'produk', 'mentah', 'bangkitbersamaet']",Positif
+"['menteri', 'bumn', 'optimisme', 'bangun', 'nasional', 'tumbuh', 'angka', 'optimis', 'lewati', 'bangkitbersamaet']",Positif
+"['presiden', 'joko', 'widodo', 'jajaran', 'pimpinan', 'komisi', 'pemilihan', 'pusat', 'efisien', 'anggaran', 'pemilu', 'kondisi', 'global', 'kian', 'gelombang']",Positif
+"['menteri', 'badan', 'usaha', 'milik', 'negara', 'bumn', 'pengusaha', 'mal', 'ritel', 'tumbuh', 'ancaman', 'bangkitbersamaet']",Negatif
+"['erick', 'thohir', 'optimis', 'lewati', 'nmenurut', 'fondasi', 'menopang', 'perekonomian', 'nsalah', 'satunya', 'konsistensi', 'menjalankan', 'hilirisasi', 'produk', 'berasal', 'sda', 'bangkitbersamaet']",Positif
+"['ditopang', 'konsumsi', 'penduduknya', 'hutangnya', 'menggunung', 'bom', 'negri', 'paham']",Negatif
+"['menteri', 'bumn', 'optimismenya', 'menghadapi', 'ancaman', 'nasional', 'tumbuh', 'angka', 'persen', 'optimal', 'menggarap', 'sektor', 'sda', 'bangkitbersamaet']",Positif
+"['berjuang', 'stabilitas', 'politik', 'sosial', 'tetep', 'hasilnya', 'dimana', 'negara', 'dlm', 'lumayan', 'kelompok', 'merongrong']",Positif
+"['optimis', 'melewati', 'nbeliau', 'sngat', 'yakkn', 'bertahan', 'gejolak', 'global', 'nbeliau', 'mendorong', 'produk', 'ekspor', 'sda', 'bentuk', 'produk', 'bangkitbersamaet']",Positif
+"['krisis', 'global', 'nurunin', 'kepala', 'negara', 'opini', 'diperhatikan', 'bertahan', 'krisis', 'global', 'tuntutjokowimundur']",Negatif
+"['semoga', 'terbebas', 'arsjadrasjid', 'umkm', 'inklusifkolaboratif']",Negatif
+"['umkm', 'kuat', 'persiapan', 'emas', 'arsjadrasjid', 'umkm', 'inklusifkolaboratif']",Positif
+"['menteri', 'erick', 'thohir', 'piawai', 'menerka', 'prediksi', 'menteri', 'erick', 'thohir', 'terkait', 'bangsa', 'melewati', 'bangkitbersamaet']",Positif
+"['gejolak', 'global', 'berlanjut', 'nnamun', 'men', 'optimis', 'ancaman', 'bangkitbersamaet']",Positif
+"['menghadapi', 'ancaman', 'krisis', 'pangan', 'energi', 'keuangan', 'nmenteri', 'bumn', 'erick', 'thohir', 'kekuatan', 'dunia', 'bangkitbersamaet']",Positif
+"['spc', 'perusahaan', 'bergerak', 'bidang', 'jasa', 'konsultan', 'manajemen', 'mengadakan', 'gathering', 'mengangkat', 'tema', 'strategi', 'menghadapi', 'tantangan', 'ketidakpastian', 'global', 'kamis', 'hotel', 'aston', 'priority', 'jakarta']",Positif
+"['jakarta', 'pandemi', 'covid', 'melanda', 'tekanan', 'inflasi', 'global', 'ditambah', 'ketegangan', 'geopolitik', 'menghadapkan', 'dunia', 'ancaman', 'global', 'krisis', 'berdampak', 'perkembangan', 'perekonomian']",Positif
+"['kadin', 'mitra', 'strategis', 'pemerintah', 'berupaya', 'mengantisipasi', 'dampak', 'ancaman', 'salah', 'satunya', 'memperkuat', 'umkm', 'memperkuat', 'perekonomian', 'nasional', 'daerah', 'arsjadrasjid', 'umkm', 'inklusifkolaboratif']",Positif
+"['global', 'prediksi', 'berpengaruh', 'kpd', 'optimis', 'pertumbuhan', 'persen', 'ayo', 'xaa', 'xae', 'bangkitbersamaet']",Positif
+"['mentri', 'bumn', 'erick', 'thohir', 'mendorong', 'ekspor', 'sda', 'bentuk', 'produk', 'lewati', 'bertahan', 'gejolak', 'global', 'bangkitbersamaet']",Negatif
+"['menteri', 'badan', 'usaha', 'milik', 'negara', 'bumn', 'erick', 'thohir', 'terkena', 'lembaga', 'keuangan', 'internasional', 'dunia', 'mengalami', 'bangkitbersamaet']",Positif
+"['menteri', 'bumn', 'erick', 'thohir', 'terkena', 'lembaga', 'keuangan', 'internasional', 'dunia', 'mengalami', 'nsyukron', 'hamdallah', 'nbangkit', 'erick', 'thohir', 'bangkitbersamaet']",Negatif
+"['menteti', 'bumn', 'optimistis', 'data', 'indikator', 'tumbuh', 'kisaran', 'persen', 'lewati', 'optimis', 'bangkitbersamaet']",Positif
+"['optimis', 'lewati', 'bangkitbersamaet']",Positif
+"['optimis', 'terkena', 'bangkitbersamaet']",Positif
+"['insya', 'allah', 'semoga', 'pengsruh', 'global', 'minimal', 'aamiin']",Negatif
+"['kuatir', 'bayang', 'nnamun', 'menteri', 'bumn', 'optimis', 'melewatinya', 'bertahan', 'gejolak', 'global', 'salah', 'adlh', 'mendorong', 'ekspor', 'sda', 'dlm', 'bentuk', 'produk', 'bangkitbersamaet']",Negatif
+"['global', 'nnamun', 'berbeda', 'masmen', 'bumn', 'optimis', 'bertahan', 'krisis', 'geopolitik', 'berakibat', 'gejolak', 'global', 'nmas', 'erick', 'nasional', 'tumbuh', 'bangkitbersamaet']",Positif
+"['perekonomian', 'resilien', 'ketidakpastian', 'global', 'penurunan', 'kinerja', 'negara', 'ditopang', 'konsumsi', 'inflasi', 'news', 'trending']",Positif
+"['menteri', 'bumn', 'mendorong', 'ekspor', 'sda', 'bentuk', 'melewati', 'nbeliau', 'pemimpin', 'optimistis', 'bangkitbersamaet']",Positif
+"['keren', 'parahh', 'xbc', 'xef', 'aman', 'xea', 'xac', 'xeb', 'xec', 'xac', 'xec', 'xeb', 'xec', 'xac', 'xec', 'xeb', 'xec', 'xec', 'xec', 'xbc', 'hitcjakarta', 'nkelas', 'nlgbt', 'nsemeru', 'nhappy', 'birthday', 'love', 'nresesi', 'global']",Negatif
+"['menteri', 'bumn', 'erick', 'thohir', 'optimis', 'melewati', 'bertahan', 'gejolak', 'global', 'mendorong', 'export', 'sda', 'dlm', 'bentuk', 'produk', 'bangkitbersamaet']",Positif
+"['butuh', 'pemimpin', 'optimis', 'pemimpin', 'lemah', 'cengeng', 'nmenteri', 'bumn', 'erick', 'thohir', 'melewati', 'nerick', 'thohir', 'genjot', 'hilirisasi', 'mengekspor', 'bentuk', 'negara', 'untung', 'bangkitbersamaet']",Positif
+"['negara', 'berkembang', 'aman']",Negatif
+"['menteri', 'bumn', 'tumbuh', 'situasi', 'global', 'penuh', 'tantangan', 'nerick', 'thohir', 'optimis', 'tangguh', 'menghadapi', 'pelbagai', 'gejolak', 'lewati', 'bangkitbersamaet']",Positif
+"['bismillah', 'nkita', 'optimis', 'lewati', 'negara', 'tangguh', 'kuat', 'pejuang', 'bangkitbersamaet']",Positif
+"['optimis', 'dibangun', 'dimasa', 'gejolak', 'global', 'beliau', 'dorong', 'ekspor', 'sda', 'produk', 'optimistis', 'lewati', 'bangkitbersamaet']",Positif
+"['settingan', 'bahaya']",Positif
+"['erick', 'thohir', 'melewati', 'bumn', 'laba', 'meroket', 'erick', 'thohir', 'bertahan', 'gejolak', 'global', 'bangkitbersamaet']",Positif
+"['optimistis', 'hadapi', 'nmenteri', 'bumn', 'erick', 'thohir', 'keyakinannya', 'bertahan', 'geopolitik', 'berakibat', 'gejolak', 'global', 'erick', 'nasional', 'tumbuh', 'angka', 'bangkitbersamaet']",Positif
+"['penyesuaian', 'harga', 'bbm', 'faktor', 'selamat', 'inflasi', 'bbm', 'bltberkeadilan', 'subsidiharustepatsasaran', 'subsiditepat', 'subsidimilikrakyat', 'subsidibbmtepatsasaran', 'inflasi', 'ekonomikuat']",Positif
+"['ketua', 'dpd', 'nilai', 'dunia', 'peluang']",Positif
+"['rapimnas', 'kadin', 'tema', 'ckadin', 'kuat', 'umkm', 'kuat', 'daerah', 'nasional', 'kuat', 'maju', 'bertujuan', 'merespon', 'situasi', 'perekonomian', 'nasional', 'global', 'ancaman', 'kementerianinvestasi', 'investasitumbuhindonesiamaju']",Positif
+"['ketua', 'dpd', 'nilai', 'global', 'peluang']",Negatif
+"['percaya', 'konser', 'rame', 'mulu']",Positif
+"['ditengah', 'kepedihan', 'rakyat', 'melawan', 'soekarno', 'peduli', 'proyek', 'mercusuar', 'kehidupan', 'mewahnya', 'menghancurkan', 'kepercayaan', 'rakyat', 'sepenuhnya']",Positif
+"['can', 'wawasan', 'luas', 'ngobrol', 'menanak', 'nasi', 'ampek', 'ngomongin', 'iluminati', 'membahas', 'prediksi', 'perpolitikan']",Positif
+"['isu', 'pertumbuhan', 'negatif', 'kuartal', 'negara', 'ndan', 'faktor', 'mempengaruhinya', 'gdp', 'sektor', 'penyumbang', 'gdp', 'ekspor', 'impor', 'konsumsi', 'rumah', 'tangga']",Negatif
+"['alami', 'global', 'ekspor', 'lancar', 'permintaan']",Negatif
+"['temen', 'temenku', 'pake', 'udah', 'diskusi', 'kaya', 'memikirkan', 'solusi', 'menghadapi']",Positif
+"['arsjad', 'rasjid', 'dunia', 'menghadapi', 'ancaman', 'kadin', 'mitra', 'strategis', 'pemerintah', 'berupaya', 'mengantisipasi', 'dampak', 'ancaman', 'arsjadrasjid', 'inflasi', 'inklusifkolaboratif']",Positif
+"['ekspresi', 'bingung', 'ala', 'bang', 'menghadapi', 'kawananngelucutanpariset', 'tertawabiarwaras', 'sandangpanganpapanlawakan']",Negatif
+"['kondisi', 'dimana', 'melambatnya', 'memburuknya', 'perputaran', 'negara', 'nlalu', 'penjelasan', 'mengalami']",Negatif
+"['tolong', 'pastikan', 'pemerintah', 'kontigensi', 'plans', 'hadapi', 'depresi', 'ekon', 'dunia', 'harga', 'minyak', 'komoditi', 'mahal', 'untungkan', 'beras', 'pangan', 'mahal', 'pemerintah']",Positif
+"['bicara', 'efek', 'ppkm']",Positif
+"['jokowi', 'perekonomian', 'pemilu', 'serentak', 'tunda', 'dananya', 'biayai', 'ikn', 'urgent']",Negatif
+"['menurutnya', 'peluang', 'menjaga', 'pertumbuhan', 'stabilitas', 'nasional', 'otomatis', 'menghadapi', 'gejolak', 'memiliki', 'fundamental', 'kuat', 'lanyalla']",Positif
+"['situlah', 'potensi', 'negara', 'penyuplai', 'pangan', 'terbuka', 'lebar', 'npemerintah', 'serius', 'didukung', 'nkebijakan', 'makro', 'mikro', 'tukas', 'lanyalla', 'lanyalla']",Negatif
+"['tantangan', 'membentuk', 'kekuatan', 'komoditas', 'pangan', 'masuk', 'negara', 'negara', 'terdampak', 'tingginya', 'kebutuhan', 'pangan', 'npeluang', 'lanyalla', 'minggu', 'lanyalla']",Negatif
+"['ketua', 'dpd', 'lanyalla', 'mahmud', 'mattalitti', 'menilai', 'ancaman', 'tantangan', 'peluang', 'lanyalla']",Positif
+"['ketua', 'dpd', 'nilai', 'dunia', 'peluang', 'nsurabaya', 'dunia', 'ketidakpastian', 'global', 'ancaman', 'muncul', 'tingginya', 'inflasi', 'pelambatan', 'pelemahan', 'lanyalla', 'inflasi']",Positif
+"['muda', 'bersuara', 'bergerak', 'hadirkan', 'solusi', 'kuat', 'bayang', 'bayang', 'dpcpkbpacitan']",Positif
+"['ngaruh', 'global', 'sistem', 'perekonomian', 'terkoneksi', 'langsung', 'menghidupi', 'negeri', 'produk', 'lokal', 'ngajuin', 'utang', 'negeri', 'alesan', 'global']",Positif
+"['bahas', 'makro', 'ditengah', 'isu']",Positif
+"['bank', 'rakyat', 'persero', 'tbk', 'komitmennya', 'mendorong', 'pertumbuhan', 'domestik', 'ancaman', 'global', 'transformasibri']",Positif
+"['ndango', 'nikah', 'taun', 'ngarep', 'perang', 'xad']",Positif
+"['presiden', 'jokowi', 'dorong', 'umkm', 'cegah', 'jokowipresidenku', 'pembangunanuntukrakyat', 'presidenjokowihebat', 'jokowimembangunnegeri', 'jokowimajubersamaindonesia', 'jokowibapakinfrastruktur']",Positif
+"['adakah', 'mengalami', 'mengalami', 'disebabkan', 'pandemi', 'covid']",Positif
+"['reymond', 'chin', 'jualan', 'parah']",Positif
+"['lanjutan', 'nkebijakan', 'makro', 'mikro', 'tukas', 'lanyalla', 'nmenurutnya', 'peluang', 'menjaga', 'pertumbuhan', 'stabilitas', 'nasional', 'otomatis', 'menghadapi', 'gejolak', 'memiliki', 'fundamental', 'kuat', 'next']",Positif
+"['lanjutan', 'tantangan', 'peluang', 'tantangan', 'membentuk', 'kekuatan', 'komoditas', 'pangan', 'masuk', 'negara', 'negara', 'terdampak', 'tingginya', 'kebutuhan', 'pangan', 'next']",Positif
+"['siaran', 'pers', 'nketua', 'dpd', 'nminggu', 'desember', 'nketua', 'dpd', 'nilai', 'dunia', 'peluang', 'nsurabaya', 'dunia', 'ketidakpastian', 'global', 'ancaman', 'next', 'ketuadpdri', 'lanyalla', 'daridaerahuntukindonesia', 'spiritlanyalla']",Positif
+"['bengong', 'rumah', 'mending', 'ngobrolin', 'bank', 'rakyat', 'yuk', 'nbank', 'nasional', 'milik', 'bumn', 'memperoleh', 'laba', 'fantastis', 'dunia', 'mengalami', 'transformasibri']",Positif
+"['nyalla', 'dunia', 'untungkan', 'alasannya']",Positif
+"['ketua', 'dpd', 'dunia', 'ancaman', 'peluang']",Positif
+"['ditengah', 'gempuran', 'inflasi', 'prediksi', 'bri', 'berhasil', 'laba', 'berupaya', 'menumbuhan', 'perekonomian', 'transformasibri']",Positif
+"['lanyalla', 'nilai', 'dunia', 'peluang']",Positif
+"['bank', 'rakyat', 'tbk', 'komitmennya', 'untk', 'mendorong', 'pertumbuhan', 'domestik', 'ancaman', 'global', 'transformasibri']",Positif
+"['bank', 'rakyat', 'persero', 'tbk', 'komitmennya', 'untk', 'mendorong', 'pertumbuhan', 'domestik', 'ancaman', 'global', 'transformasibri']",Positif
+"['dunia', 'tantangan', 'peluang']",Positif
+"['dunia', 'tantangan', 'peluang']",Positif
+['takut'],Positif
+"['ketua', 'dpd', 'nilai', 'dunia', 'peluang', 'dpdri', 'nselengkapnya', 'ninstagram']",Negatif
+"['ketua', 'dpd', 'nilai', 'dunia', 'peluang', 'lanyalla']",Positif
+"['menurutnya', 'peluang', 'menjaga', 'pertumbuhan', 'stabilitas', 'nasional', 'otomatis', 'menghadapi', 'gejolak', 'memiliki', 'fundamental', 'kuat', 'lanyalla', 'dpd', 'surabaya', 'katalanyalla']",Positif
+"['prediksi', 'negara', 'negara', 'amerika', 'eropa', 'pelambatan', 'probabilitas', 'nmendekati', 'persen', 'eropa', 'lanyalla', 'dpd', 'surabaya', 'katalanyalla']",Positif
+"['ketua', 'dpd', 'lanyalla', 'mahmud', 'mattalitti', 'menilai', 'ancaman', 'tantangan', 'peluang', 'lanyalla', 'dpd', 'surabaya', 'katalanyalla']",Positif
+"['ketua', 'dpd', 'nilai', 'dunia', 'peluang', 'lanyalla', 'dpd', 'katalanyalla', 'surabaya']",Positif
+"['semoga', 'sehat', 'lancar', 'rejekinya', 'semoga', 'aman', 'dri', 'aamiin']",Positif
+"['keuntungan', 'sektor', 'umkm', 'berdaya', 'aman', 'perekonomian', 'meningkat', 'menghalau', 'ramalan', 'menghantui', 'transformasibri']",Positif
+"['komitmen', 'bank', 'bri', 'menjaga', 'sektor', 'umkm', 'mendorong', 'pemulihan', 'pertumbuhan', 'perekonomian', 'meloloskan', 'jurang', 'transformasibri']",Positif
+"['pengertian', 'dampak', 'penyebabnya']",Positif
+"['hadapi', 'global', 'industri', 'telco']",Positif
+"['menteri', 'keuangan', 'menkeu', 'sri', 'mulyani', 'optimistis', 'perekonomian', 'bebas', 'pertumbuhan', 'terjaga', 'persen', 'penghujung', 'indonesiatanparesesi', 'ekonomiindonesia']",Positif
+"['kemaren', 'ibox', 'sumarecoon', 'serpong', 'iphone', 'pro', 'promax', 'sold', 'out', 'minggu', 'nalhasil', 'gajadi', 'deh', 'beli', 'males', 'nunggu', 'seminggu', 'npadahal', 'uangnya', 'udah', 'rebu']",Positif
+"['terdampak', 'dunia', 'ngelombang', 'phk', 'wilayah', 'nsemoga', 'melewati', 'ancaman', 'salah', 'satunya', 'memperkuat', 'umkm', 'memperbanyak', 'industri', 'padat', 'karya']",Negatif
+"['negara', 'aman']",Positif
+"['overthinking', 'mikirin', 'mikirin']",Positif
+"['hitc', 'super', 'rame', 'ngantri', 'makan', 'ampe', 'jam', 'bukti', 'gabakal']",Positif
+"['prabowo', 'rakyat', 'mending', 'prabowo', 'dekade']",Positif
+"['meningkatkan', 'konsumsi', 'daya', 'beli', 'masyarakat', 'negeri', 'menyelamatkan', 'prediksi', 'global', 'indonesiatahanresesi', 'indonesiahebat', 'indonesiakuat']",Positif
+"['kgmngkinan', 'narasi', 'terbalik', 'dijadikan', 'alibi', 'menyangkal', 'kegagalannya', 'disaat', 'darurat', 'akibat', 'hutang', 'program', 'kebijakan', 'amburadul', 'global', 'kambing', 'hitamnya']",Positif
+"['bank', 'rakyat', 'persero', 'tbk', 'tegaskan', 'komitmen', 'mendorong', 'pertumbuhan', 'ancaman', 'global', 'transformasibri']",Positif
+"['perhatian', 'serius', 'umkm', 'selamatkan', 'global', 'jokowipresidenku', 'pembangunanuntukrakyat', 'presidenjokowihebat', 'jokowimembangunnegeri', 'jokowimajubersamaindonesia', 'jokowibapakinfrastruktur']",Negatif
+"['hadir', 'mendukung', 'xef', 'cegah', 'jokowipresidenku', 'pembangunanuntukrakyat', 'presidenjokowihebat', 'jokowimembangunnegeri', 'jokowimajubersamaindonesia', 'jokowibapakinfrastruktur']",Negatif
+"['pokoknya', 'dapet', 'follback', 'xad', 'nwalaupun', 'liat', 'muka', 'etmin', 'uifess', 'muka', 'etminnya', 'bercahaya', 'lampu', 'masjid', 'etminnya', 'ngebebasin', 'nyambung']",Negatif
+"['masyarakat', 'khawatir', 'molen', 'sumber', 'daya', 'alam', 'berlimpah']",Negatif
+"['dukung', 'umkm', 'selamatkan', 'global', 'jokowipresidenku', 'pembangunanuntukrakyat', 'presidenjokowihebat', 'jokowimembangunnegeri', 'jokowimajubersamaindonesia', 'jokowibapakinfrastruktur']",Positif
+"['jokowi', 'selamatkan', 'global', 'jokowipresidenku', 'pembangunanuntukrakyat', 'presidenjokowihebat', 'jokowimembangunnegeri', 'jokowimajubersamaindonesia', 'jokowibapakinfrastruktur']",Negatif
+"['ekonom', 'aman', 'ancaman', 'global', 'kinerjajokowiberhasil', 'indonesiaamanresesiglobal', 'ekonomikuat', 'indonesiatahanresesi', 'bbmamanapbnkuat', 'ekonomikuat', 'sukseskankebijakanpemerintah']",Positif
+"['percayalah', 'aman', 'ancaman', 'global', 'resesiglobal', 'via', 'indonesiaamanresesiglobal', 'ekonomikuat', 'indonesiatahanresesi', 'bbmamanapbnkuat', 'ekonomikuat', 'sukseskankebijakanpemerintah']",Negatif
+"['pengamat', 'aman', 'ancaman', 'global', 'kinerjajokowiberhasil', 'indonesiaamanresesiglobal', 'ekonomikuat', 'indonesiatahanresesi', 'bbmamanapbnkuat', 'ekonomikuat', 'sukseskankebijakanpemerintah']",Positif
+"['eks', 'wantimpres', 'aman', 'ancaman', 'global', 'indonesiaamanresesiglobal', 'ekonomikuat', 'indonesiatahanresesi', 'bbmamanapbnkuat', 'ekonomikuat', 'sukseskankebijakanpemerintah']",Positif
+"['aman', 'ancaman', 'global', 'indonesiaamanresesiglobal', 'ekonomikuat', 'indonesiatahanresesi', 'bbmamanapbnkuat', 'ekonomikuat', 'sukseskankebijakanpemerintah']",Positif
+"['pangsa', 'pasar', 'dinilai', 'aman', 'global', 'indonesiaamanresesiglobal', 'ekonomikuat', 'indonesiatahanresesi', 'bbmamanapbnkuat', 'ekonomikuat', 'sukseskankebijakanpemerintah']",Positif
+"['aman', 'ancaman', 'global', 'indonesiaamanresesiglobal', 'ekonomikuat', 'indonesiatahanresesi', 'bbmamanapbnkuat', 'ekonomikuat', 'sukseskankebijakanpemerintah']",Positif
+"['pangsa', 'pasar', 'dinilai', 'aman', 'ancaman', 'global', 'indonesiaamanresesiglobal', 'ekonomikuat', 'indonesiatahanresesi', 'bbmamanapbnkuat', 'ekonomikuat', 'sukseskankebijakanpemerintah']",Positif
+"['pengamat', 'aman', 'ancaman', 'global', 'indonesiaamanresesiglobal', 'ekonomikuat', 'indonesiatahanresesi', 'bbmamanapbnkuat', 'ekonomikuat', 'sukseskankebijakanpemerintah']",Positif
+"['umkm', 'sensitif', 'terkena', 'krisis', 'kenaikan', 'harga', 'pembatasan', 'mobilitas', 'ppkm', 'covid', 'nhal', 'diprediksi', 'imf']",Negatif
+"['ancaman', 'global', 'magnet', 'investasi']",Positif
+"['umkm', 'selamatkan', 'global', 'jokowipresidenku', 'pembangunanuntukrakyat', 'presidenjokowihebat', 'jokowimembangunnegeri', 'jokowimajubersamaindonesia', 'jokowibapakinfrastruktur']",Positif
+"['ancaman', 'global', 'magnet', 'investasi']",Positif
+"['global', 'menyongsong', 'politik', 'xae']",Positif
+"['terbebas', 'xbc', 'xef', 'xbc', 'xef', 'nstay', 'safe', 'wilayah', 'garut', 'jabar', 'karna', 'barusan', 'gempa', 'xba', 'xef', 'xae']",Positif
+"['umkm', 'selamatkan', 'global', 'jokowipresidenku', 'pembangunanuntukrakyat', 'presidenjokowihebat', 'jokowimembangunnegeri', 'jokowimajubersamaindonesia', 'jokowibapakinfrastruktur']",Positif
+"['pemerintah', 'selamatkan', 'global', 'jokowipresidenku', 'pembangunanuntukrakyat', 'presidenjokowihebat', 'jokowimembangunnegeri', 'jokowimajubersamaindonesia', 'jokowibapakinfrastruktur']",Positif
+"['perhatian', 'serius', 'pemerintah', 'umkm', 'selamatkan', 'jokowipresidenku', 'pembangunanuntukrakyat', 'presidenjokowihebat', 'jokowimembangunnegeri', 'jokowimajubersamaindonesia', 'jokowibapakinfrastruktur']",Positif
+"['perhatian', 'serius', 'daro', 'pemerintah', 'umkm', 'selamatkan', 'global', 'jokowipresidenku', 'pembangunanuntukrakyat', 'presidenjokowihebat', 'jokowimembangunnegeri', 'jokowimajubersamaindonesia', 'jokowibapakinfrastruktur']",Positif
+"['umkm', 'selamatkan', 'global', 'jokowipresidenku', 'pembangunanuntukrakyat', 'presidenjokowihebat', 'jokowimembangunnegeri', 'jokowimajubersamaindonesia', 'jokowibapakinfrastruktur']",Positif
+"['media', 'adakalanya', 'suka', 'ngarang', 'tergantung', 'negara', 'kaya', 'miskin', 'nindonesia', 'kaya', 'macem', 'sda', 'bejibun', 'laut', 'melimpah', 'njadi', 'takut', 'global', 'jokowi', 'kerja']",Positif
+"['presiden', 'dunia', 'pusing', 'hadapi', 'taun', 'rakyatnya', 'pusing']",Positif
+"['perhatian', 'serius', 'pemerintah', 'umkm', 'selamatkan', 'global', 'jokowipresidenku', 'pembangunanuntukrakyat', 'presidenjokowihebat', 'jokowimembangunnegeri', 'jokowimajubersamaindonesia', 'jokowibapakinfrastruktur']",Positif
+"['umkm', 'menyelamatkan', 'global', 'jokowipresidenku', 'pembangunanuntukrakyat', 'presidenjokowihebat', 'jokowimembangunnegeri', 'jokowimajubersamaindonesia', 'jokowibapakinfrastruktur']",Positif
+"['keren', 'semoga', 'lahan', 'pekerjaan', 'pemerataan', 'selamat', 'pemimpin', 'berani', 'mengambil', 'keputusan', 'populer', 'visi', 'kedepan', 'menyelamatkan', 'bangsa']",Positif
+"['perhatian', 'serius', 'umkm', 'selamatkan', 'global', 'jokowipresidenku', 'pembangunanuntukrakyat', 'presidenjokowihebat', 'jokowimembangunnegeri', 'jokowimajubersamaindonesia', 'jokowibapakinfrastruktur']",Positif
+"['toko', 'mas', 'penuh', 'ama']",Negatif
+"['umkm', 'mnjadi', 'penyelamat', 'global', 'jokowipresidenku', 'pembangunanuntukrakyat', 'presidenjokowihebat', 'jokowimembangunnegeri', 'jokowimajubersamaindonesia', 'jokowibapakinfrastruktur']",Positif
+"['umkm', 'selamatkan', 'global', 'jokowipresidenku', 'pembangunanuntukrakyat', 'presidenjokowihebat', 'jokowimembangunnegeri', 'jokowimajubersamaindonesia', 'jokowibapakinfrastruktur']",Positif
+"['pemerintah', 'dorong', 'umkm', 'selamatkan', 'global', 'jokowipresidenku', 'pembangunanuntukrakyat', 'presidenjokowihebat', 'jokowimembangunnegeri', 'jokowimajubersamaindonesia', 'jokowibapakinfrastruktur']",Positif
+"['mantap', 'umkm', 'selamatkan', 'global', 'jokowipresidenku', 'pembangunanuntukrakyat', 'presidenjokowihebat', 'jokowimembangunnegeri', 'jokowimajubersamaindonesia', 'jokowibapakinfrastruktur']",Positif
+"['transformasibri', 'berkelanjutan', 'bank', 'rakyat', 'persero', 'tbk', 'komitmennya', 'mendorong', 'pertumbuhan', 'domestik', 'ancaman', 'global', 'transformasibri']",Positif
+"['isu', 'global', 'umkm', 'menyelamatkan', 'jokowipresidenku', 'pembangunanuntukrakyat', 'presidenjokowihebat', 'jokowimembangunnegeri', 'jokowimajubersamaindonesia', 'jokowibapakinfrastruktur']",Positif
+"['selamatkan', 'global', 'jokowipresidenku', 'pembangunanuntukrakyat', 'presidenjokowihebat', 'jokowimembangunnegeri', 'jokowimajubersamaindonesia', 'jokowibapakinfrastruktur']",Positif
+"['umkm', 'selamatkan', 'global', 'jokowipresidenku', 'pembangunanuntukrakyat', 'presidenjokowihebat', 'jokowimembangunnegeri', 'jokowimajubersamaindonesia', 'jokowibapakinfrastruktur']",Positif
+"['pemerintah', 'positif', 'selamat', 'jokowipresidenku', 'pembangunanuntukrakyat', 'presidenjokowihebat', 'jokowimembangunnegeri', 'jokowimajubersamaindonesia', 'jokowibapakinfrastruktur']",Positif
+"['perhatian', 'serius', 'pemerintah', 'selmatkan', 'jokowipresidenku', 'pembangunanuntukrakyat', 'presidenjokowihebat', 'jokowimembangunnegeri', 'jokowimajubersamaindonesia', 'jokowibapakinfrastruktur']",Positif
+"['umkm', 'selamatkan', 'global', 'jokowipresidenku', 'pembangunanuntukrakyat', 'presidenjokowihebat', 'jokowimembangunnegeri', 'jokowimajubersamaindonesia', 'jokowibapakinfrastruktur']",Positif
+"['pemerintah', 'selamatkan', 'global', 'jokowipresidenku', 'pembangunanuntukrakyat', 'presidenjokowihebat', 'jokowimembangunnegeri', 'jokowimajubersamaindonesia', 'jokowibapakinfrastruktur']",Positif
+"['perhatian', 'serius', 'pemerintah', 'umkm', 'selamatkan', 'global', 'jokowipresidenku', 'pembangunanuntukrakyat', 'presidenjokowihebat', 'jokowimembangunnegeri', 'jokowimajubersamaindonesia', 'jokowibapakinfrastruktur']",Negatif
+"['iya', 'memiliki', 'otak', 'orisinal', 'dipakai', 'berpikir', 'pusing', 'memikirkan', 'nasib', 'rakyat', 'ambang', 'dunia']",Positif
+"['gubernur', 'jawa', 'barat', 'memuji', 'kinerja', 'menteri', 'koordinator', 'bidang', 'perekonomian', 'gubernur', 'jabar', 'airlangga', 'berhasil', 'meloloskan', 'ancaman', 'rekan', 'juara']",Negatif
+"['jokowi', 'selamatkan', 'global', 'jokowipresidenku', 'pembangunanuntukrakyat', 'presidenjokowihebat', 'jokowimembangunnegeri', 'jokowimajubersamaindonesia', 'jokowibapakinfrastruktur']",Positif
+"['peran', 'kadin', 'dibutuhkan', 'mengurangi', 'dampak', 'global', 'melanda', 'kedepan', 'arsrapimnaskadin', 'nindonesia', 'maju', 'nindonesia', 'emas']",Positif
+"['kepala', 'negara', 'dunia', 'pusing', 'hadapi', 'global', 'jokowi']",Positif
+"['presiden', 'jokowi', 'negara', 'tumbuh', 'jokowi']",Positif
+"['asbun', 'hebat', 'maju', 'dilain', 'susah', 'terancam', 'pendapatan', 'negara', 'minim', 'blablabla']",Positif
+"['menjaga', 'kestabilan', 'daya', 'beli', 'masyarakat', 'tahan', 'global', 'diprediksi', 'resesiekonomi', 'indonesiakuat', 'indonesiahebat']",Positif
+"['sulit', 'negara', 'masuk', 'global', 'jokowi', 'diorglobalambassadorsehun', 'resesiglobal', 'ekonomiglobal']",Positif
+"['negara', 'aman', 'strategi', 'pertumbuhan', 'jokowi']",Positif
+"['titik', 'terang', 'dunia', 'pertumbuhan', 'berhasil', 'capai', 'ancaman', 'global', 'indonesiamendunia', 'menujuindonesiamaju']",Positif
+"['presiden', 'jokowi', 'sri', 'mulyani', 'mahfud', 'airlangga', 'negeri', 'global']",Positif
+"['menghadapi', 'global', 'semangat', 'gotong', 'royong', 'teruji', 'menavigasi', 'krisis']",Positif
+"['perhatian', 'serius', 'pemerintah', 'umkm', 'selamatkan', 'xae', 'strategihadapikrisis', 'strategihadapikrisis']",Positif
+"['dampak', 'covid', 'berkepanjangan', 'ditambah', 'perang', 'rusia', 'ukraina', 'dunia', 'masuk', 'presiden', 'menteri', 'keuangan', 'dll', 'gelap', 'aman']",Positif
+"['pertumbuhan', 'bekal', 'pemerintah', 'atasi', 'global', 'strategihadapikrisis']",Positif
+"['gua', 'prince', 'emang', 'tipe', 'ambisius', 'gerak', 'bibirnya', 'permasalahan', 'teror', 'masyarakat', 'dunia']",Positif
+"['nyimak', 'retweetnya', 'taon', 'inshaaallah', 'nharum', 'man']",Positif
+"['maruf', 'amin', 'tanah', 'papua', 'majemuk', 'daerah', 'toleran', 'strategihadapikrisis', 'anti']",Positif
+"['tumbuhnya', 'bekal', 'menghadapi', 'global', 'strategihadapikrisis', 'indonesiaantiresesi']",Positif
+"['pertumbuhan', 'republik', 'tumbuh', 'bekal', 'pemerintah', 'atasi', 'global', 'strategihadapikrisis', 'mariberinvestadidiindonesia']",Positif
+"['strategihadapikrisis', 'perhatikan', 'serius', 'pemerintah', 'umkm', 'ndisebut', 'selamatkan', 'strategihadapikrisis']",Positif
+"['fikir', 'rakyat', 'reuni', 'doang', 'ngmna', 'pikirnya', 'reuni', 'dijadikan', 'acuan', 'tidaknya']",Positif
+"['tulisan', 'harian', 'probabilitas', 'relatif', 'pertumbuhan', 'melambat']",Positif
+"['waalaykumsalam', 'lek', 'nmau', 'inflasi', 'tim', 'jagoan', 'pildun', 'pulang', 'duluan', 'take', 'easy', 'man', 'dicontohkan', 'content', 'creator', 'lek']",Positif
+"['headline', 'mancing', 'ekonominya', 'kecipratan', 'dunia', 'umkm', 'kuat', 'belanja']",Negatif
+"['waspada', 'tips', 'kelola', 'portofolio', 'investasi']",Positif
+"['isu', 'jokes', 'doang', 'iyalah', 'coba', 'liat', 'ticket', 'konser', 'harga', 'jutaan', 'abis', 'dlm', 'menit', 'detik', 'dimana', 'resesinya']",Positif
+"['pagi', 'ngomong', 'negara', 'aman', 'dunia', 'nsekarang', 'ningin', 'periode', 'kayaknya']",Positif
+"['klau', 'sbg', 'nggak', 'pusing', 'koq', 'rkyt', 'ngomongnya', 'skrg', 'sulit', 'susah', 'acara', 'reunian', 'nggak', 'dikala', 'klau', 'reunian']",Positif
+"['syukurlah', 'mendoakan', 'amin']",Positif
+"['kepala', 'negara', 'pusing', 'memikirkan', 'bertahan', 'dll', 'paham', 'pusing']",Positif
+"['siapkah', 'menghadapi', 'xbb', 'vccfootballofc', 'vccfootballcryptobet', 'vccfootballworldcup', 'vccfootballqatar', 'cuan', 'olahraga', 'bola', 'investment', 'penghasilantambahan']",Positif
+"['umkm', 'selamatkan', 'perhatian', 'serius', 'pemerintah', 'umkm']",Positif
+"['negara', 'alami', 'bertahan']",Positif
+['kenal'],Positif
+"['presiden', 'jokowi', 'optimistis', 'hadapi', 'tempovideo']",Positif
+"['nyata', 'salah', 'mengatasi', 'krisis', 'pangan', 'ide', 'olly', 'dondokambey', 'berkebun']",Positif
+"['diramal', 'jokowi', 'optimis']",Positif
+"['otak', 'loe', 'cuci', 'cerdas', 'nkenapa', 'kena', 'nkrn', 'presiden', 'jkw', 'njelas', 'kerjanya', 'rakyat', 'hasilnya', 'negeri', 'terbebas', 'krisis', 'nkalau', 'presiden', 'loe', 'nmengelola', 'otak', 'loe', 'ngga', 'sanggup']",Positif
+"['komitmen', 'bank', 'bri', 'menjaga', 'sektor', 'umkm', 'mendorong', 'pemulihan', 'pertumbuhan', 'perekonomian', 'meloloskan', 'jurang', 'kinerjabriq']",Positif
+"['keuntungan', 'sektor', 'umkm', 'berdaya', 'aman', 'perekonomian', 'meningkat', 'menghalau', 'ramalan', 'menghantui', 'kinerjabriq']",Positif
+"['terdampak', 'penyesuaian', 'harga', 'bbm']",Positif
+"['asean', 'sri', 'mulyani', 'berpotensi']",Positif
+"['harapan', 'selamat', 'cnn', 'opsiin', 'omkamidi']",Negatif 
+"['awan', 'hitam', 'menyelimuti', 'dikatan', 'rezim', 'wdyt']",Positif
+"['sektor', 'umkm', 'pelindung', 'menghadapi', 'tekanan', 'fyi', 'serapan', 'tenaga', 'kerja', 'umkm', 'khususny', 'sektor', 'mikro', 'kinerjabriq']",Negatif 
+"['jokowi', 'salah', 'fokus', 'apbn', 'membangun', 'ikn', 'nusantara', 'jokowi', 'ikn', 'nusantara', 'apbn', 'fokus', 'anggaran', 'nasional', 'prmn', 'pikiranrakyat', 'prmnsahabatumkm', 'pikiranrakyatmedianetwork', 'potensilokalgonasional']",Positif
+"['prabowo', 'rakyat', 'dekade', 'mendingprabowo', 'pilpres', 'terusmajubersamaprabowo']",Negatif
+"['anggaran', 'ketahanan', 'pangan', 'apbn', 'pengamat', 'kelaparan']",Positif
+"['kenaikan', 'harga', 'bbm', 'selamatkan', 'ancaman', 'global']",Positif
+"['mengalami', 'diatasi', 'beliau', 'arsjadrasjid']",Negatif
+"['gelaran', 'expo', 'star', 'smeshub', 'solusi', 'umkm', 'menghadapi', 'umkm', 'desember', 'jumatberkah']",Positif
+"['masuk', 'zona', 'sandiagauno', 'sandiuno', 'kemenparekraf', 'twitter', 'trending', 'fyp', 'breakingnews', 'jumat', 'jumatberkah', 'jumamubarak', 'desember', 'spotifywrapped', 'mandiri', 'still', 'life', 'indonesiamendunia']",Positif
+"['lancarnya', 'pasokan', 'logistik', 'negeri', 'diakibatkan', 'pembangunan', 'infrastruktur', 'masif', 'membentengi', 'perekenomian', 'inflasi', 'meredam', 'kekacauan', 'pasar', 'lintas', 'dagang', 'lancar', 'relatif', 'kuat', 'dibanding', 'negara']",Negatif
+"['iya', 'kepala', 'negara', 'pusing', 'dunia', 'landa', 'rakyatnya', 'musing', 'mikir', 'presiden', 'mecla', 'mecle']",Positif
+"['dhuafa', 'segunung', 'hutang']",Positif
+"['semoga', 'terdampak', 'global']",Positif
+"['penyebab', 'kuat', 'badai']",Negatif
+"['harapan', 'selamat']",Positif
+"['dunia', 'ditakuti', 'diwaspadai', 'kesatuan', 'industri', 'kuat', 'sektor', 'tekstil', 'produk', 'tekstil', 'menjaga', 'sandang', 'maju', 'vice', 'ceo', 'pan', 'brothers', 'tbk', 'anne', 'patricia', 'sutanto', 'kompas', 'ceo', 'forum']",Negatif
+"['eropa', 'kena', 'inflasi', 'njd', 'mangkin', 'menggila', 'tingkah', 'orang', 'salah', 'trdampak', 'kesongong', 'sndiri', 'kasih', 'sanksi', 'rusia', 'mental', 'nbrsyukur', 'pny', 'jokowi', 'nkita', 'trlalu', 'kena', 'dampak']",Positif
+"['perhatian', 'serius', 'pemerintah', 'umkm', 'selamatkan']",Positif
+"['gelar', 'expo', 'star', 'smeshub', 'solusi', 'umkm', 'hadapi', 'nselengkapnya']",Positif
+"['dampak', 'global', 'industri', 'properti']",Positif
+"['semangaat', 'nperkembangan', 'ndinamika', 'global', 'nsemoga', 'pertumbuhan', 'thn', 'thn', 'njika', 'pertumbuhan', 'positif', 'meningkatkan', 'pengendalian', 'inflasi', 'nthn', 'smg', 'inflasi']",Positif
+"['menghadapi', 'tantangan', 'ditahun', 'nlogam', 'nikel', 'bangsa', 'ndiresmikan', 'mata', 'uang', 'kepemerintahan', 'uni', 'nusantara', 'nyang', 'disetarakan', 'pajak', 'perdagangan', 'ekspor', 'nsehingga', 'uang', 'logam', 'nikel', 'disetarakan', 'nilai', 'mata', 'uang', 'rupiah', 'negara']",Positif
+"['presiden', 'joko', 'widodo', 'jokowi', 'gubernur', 'bupati', 'wali', 'kota', 'memperhatikan', 'pergerakan', 'inflasi', 'koranjakarta', 'jokowidodo', 'domestik', 'global', 'inflasi', 'fiskal', 'moneter', 'krisis', 'infoterkini', 'news', 'update']",Positif
+"['peran', 'pemerintah', 'menjaga', 'stabilitas', 'ekonominya', 'menghadapi', 'tantangan', 'tersendiri']",Positif
+"['menghadapi', 'ancaman', 'global', 'ndiakibatkan', 'meningkatnya', 'harga', 'komoditas', 'pangan', 'energi', 'dampak', 'perang', 'nrusia', 'ukraina', 'pasca', 'pandemi', 'covid']",Positif
+"['subsidi', 'bbm', 'memberatkan', 'budget', 'pemerintah', 'tingkat', 'menyulitkan', 'pemerintah', 'neks', 'ketua', 'dewan', 'komisioner', 'ojk', 'muliaman', 'darmansyah', 'hadad', 'menilai', 'bhwa', 'kenaikan', 'harga', 'bbm', 'sbg', 'langkah', 'menyelamatkan', 'ancaman']",Positif
+"['versinya', 'rezim', 'rakyat', 'lihat', 'sejatinya', 'rezim', 'berbohong', 'delusi', 'jutaan', 'orang', 'korban', 'phk', 'kekhawatiran', 'rakyat', 'lapar', 'semoga', 'langit', 'hitam', 'menyelimuti']",Positif
+"['amerika', 'wall', 'street', 'anjlok']",Positif
+"['masuk', 'akal', 'terdampak', 'xae', 'xae', 'xae', 'buktinya', 'uang', 'tambang', 'ilegal', 'milyaran', 'perbulan', 'goreng', 'kelompok', 'negara', 'adikuasa', 'otak', 'menjalankan', 'roda', 'negara', 'cerdas', 'rakyat', 'bahagia']",Negatif
+"['perhatian', 'serius', 'pemerintah', 'umkm', 'selamatkan', 'iknbawankribangkit', 'iknuntukpemerataanekonomi']",Negatif
+"['perhatian', 'serius', 'pemerintah', 'umkm', 'selamatkan', 'airlangga', 'doring', 'standardisasi', 'produk', 'umkm', 'iknbawankribangkit', 'iknuntukpemerataanekonomi']",Negatif
+"['kayaknya', 'beneran', 'dah']",Positif
+"['badai', 'hantam', 'global', 'nasib']",Negatif
+"['potensi', 'negara', 'pensuplay', 'npangan', 'terbuka', 'lebar', 'pemerintah', 'serius', 'didukung', 'kebijakan', 'makro', 'mikro', 'peluang', 'mempercepat', 'laju', 'peertumbuhan', 'nasional', 'lanyalla', 'krisis']",Positif
+"['kondisi', 'ancaman', 'tantangan', 'terkait', 'tantangan', 'lnm', 'membentuk', 'kekuatan', 'komoditas', 'pangan', 'masuk', 'amerika', 'erofa', 'tingginya', 'pangan', 'npeluang', 'lanyalla', 'krisis']",Positif
+[],Negatif
+"['lucu', 'startup', 'ambruk', 'takut', 'faktanya', 'startup', 'menggantikan', 'bertumbangan']",Negatif
+"['faktor', 'pesimis', 'orang', 'berduit', 'aksi', 'tahan', 'duit', 'kemakan', 'issue', 'horor', 'horor', 'tidaka', 'perputaran', 'akibat', 'nahan', 'duut']",Negatif
+"['diprediksi', 'global', 'hilirisasi', 'dukungan', 'investasi', 'negeri', 'kunci', 'bertahan']",Positif
+"['erma', 'optimistis', 'penguatan', 'umkm', 'selamatkan', 'askara', 'penguatan', 'pemberdayaan', 'usaha', 'mikro', 'menengah', 'umkm', 'menyelamatkan', 'perekonomian', 'kekhawatiran', 'terpaan', 'ndemikian']",Positif
+"['wow', 'nbanyak', 'nkecil', 'dah', 'pintar', 'cari', 'duit', 'nartinya', 'nindonesia', 'aman', 'ndari', 'dunia', 'nindonesia', 'kyk', 'inggris', 'kelaparan', 'nmaka', 'jarang', 'bunuh', 'nindonesia', 'kereenn', 'nbisa', 'dikau', 'nbikin', 'nhah', 'hah', 'hah']",Negatif
+"['gpp', 'packk', 'anies', 'calon', 'sekjen', 'pbb', 'ntar', 'allah', 'menyelamatkan', 'anies']",Positif
+"['menghadapi', 'kondisi', 'sulit', 'tengan', 'isu', 'dipredisikan', 'kantor', 'perwakilan', 'bank', 'provinsi', 'jawa', 'optimis', 'perekonomian', 'jawa', 'tumbuh', 'yoy']",Positif
+"['peluang', 'investasi', 'terbuka', 'tantangan']",Negatif
+"['dear', 'risingwoman', 'nternyata', 'biang', 'kerok', 'ambruknya', 'global']",Negatif
+"['ekspansi', 'dilakukna', 'segar', 'kumala', 'tbk', 'buah', 'situasi', 'inflasi', 'menggerus', 'daya', 'beli', 'masyarakat', 'ancaman', 'global', 'nselengkapnya']",Negatif
+"['memantau', 'aman', 'global', 'terancam']",Positif
+"['global', 'menakutkan', 'indonesiatanparesesi', 'ekonomiindonesia']",Negatif
+"['hadapi', 'indonesiatanparesesi', 'ekonomiindonesia']",Negatif
+"['sulsel', 'dipengaruhi', 'bayang', 'bayang', 'nbaca', 'selengkapnya', 'media', 'online', 'news', 'breakingnews', 'sulsel', 'bayangbayang']",Positif
+"['ketidakpastian', 'ancaman', 'global', 'nasib', 'sektor', 'konstruksi']",Positif
+"['rencana', 'hadapai', 'global']",Positif
+"['global', 'menakutkan']",Positif
+"['hadapi', 'ancaman', 'global', 'menakutkan']",Positif
+"['ancaman', 'global', 'menakutkan', 'hadapi']",Positif
+"['bps', 'menilai', 'inddikator', 'makroekonomi', 'cenderung', 'membaik', 'ancaman']",Positif
+"['terpopuler', 'potensi', 'ancaman', 'global', 'atensi', 'operator', 'seluler', 'jurus', 'tangkisan']",Positif
+"['semoga', 'apbn', 'terjaga', 'menopang', 'terdampak', 'ancaman', 'global']",Positif
+"['bank', 'kencangkan', 'sabuk', 'pengaman', 'hadapi', 'ancaman']",Positif
+"['segar', 'kumala', 'tbk', 'emiten', 'importir', 'buah', 'sayuran', 'optimistis', 'isu', 'mengancam', 'perseroan', 'menargetkan', 'kenaikan', 'pendapatan', 'persen', 'dicapai', 'kartal', 'emiten', 'berkode']",Positif
+"['joko', 'widodo', 'jokowi', 'negara', 'negara', 'tumbuh', 'kuartal', 'ketiga']",Positif
+"['perekonomian', 'diharapkan', 'bertahan', 'terpaan', 'badai', 'global', 'ditunjang', 'fundamental', 'kuat']",Positif
+"['perayaan', 'ulang', 'indotelko', 'acara', 'diskusi', 'indotelko', 'forumbertema', 'strategi', 'industri', 'digital', 'hadapi', 'global', 'indotelkoforum', 'indotelko', 'ict', 'hutindotelko']",Positif
+"['pastikan', 'waspada']",Positif
+"['hadapi', 'tantangan', 'sandiaga', 'uno', 'desa', 'wisata', 'solusi', 'kebangkitan']",Positif
+"['top', 'plus', 'vietnam', 'economy', 'growth', 'thailand', 'rendah', 'tumbuh', 'dibawah', 'diatas', 'singapura', 'alasan', 'mengalami', 'penduduk', 'pertumbuhan', 'rendah', 'asia', 'tenggara', 'thailand']",Positif
+"['bayang', 'bayang', 'ancaman', 'global', 'sektor', 'keuangan', 'menghadapi', 'ancaman']",Positif
+"['bukti', 'pasar', 'modal', 'tangguh', 'melawan', 'ketidakpastian', 'global', 'stockmarket', 'tradingnews', 'marketnews', 'newsupdate', 'investing', 'financenews', 'ihsg']",Positif
+"['nilai', 'ekspor', 'terjaga', 'meningkat', 'prinsip', 'kehati', 'hatian', 'menurun', 'problem', 'tiongkok', 'policy', 'nol', 'covid', 'uni', 'eropa', 'imbas', 'pelemahan']",Positif
+"['liat', 'kayaknya', 'jkwi', 'dah', 'ngeliat', 'bahaya', 'java', 'supremacy', 'nge', 'wanti', 'insha', 'allah', 'ntapi', 'badai', 'berasa', 'daerah']",Positif
+"['presiden', 'jokowi', 'menghimbau', 'keras', 'menghadapi', 'ancaman', 'menurutnya', 'wajib', 'jokowi', 'berdampak', 'jokowi', 'bankindonesia', 'pemdadiy', 'qris', 'biaward']",Positif
+"['ekspektasi', 'tumbuh', 'bye']",Positif
+"['sah', 'the', 'fed', 'agresif', 'dunia']",Positif
+"['ekonom', 'bahana', 'bertahan']",Negatif
+"['bener', 'kuat', 'ngehadapin', 'badai', 'stagflasi', 'faktor', 'indo', 'bargain', 'energy', 'commodity', 'masyarakatnya', 'konsumtif', 'ketahanan', 'pangan', 'wlopun', 'impor', 'tanahnya', 'subur']",Positif
+"['jelang', 'pidato', 'powell', 'wall', 'street', 'bangkit']",Positif
+"['ekonom', 'senior', 'ancaman', 'global', 'menakutkan', 'tempobisnis']",Positif
+"['ngeri', 'elon', 'musk', 'kasih', 'warning', 'the', 'fed']",Positif
+"['slah', 'menteri', 'sdah', 'aman', 'dri']",Positif
+"['mah', 'kayaknya', 'aman', 'lewatin', 'gajian', 'langsung', 'belanja', 'perputaran', 'uang', 'jalan']",Positif
+"['dpr', 'nilai', 'penguatan', 'umkm', 'selamatkan']",Positif
+"['reply', 'lucuu', 'wkwkkwkw', 'membuktikan', 'emg', 'tahan', 'krna', 'selera', 'humor', 'masyarakatnya', 'gini']",Positif
+"['luhut', 'eropa', 'persen', 'gimana']",Positif
+"['loonie', 'melampaui', 'aturan', 'prakiraan', 'npenurunan', 'harga', 'minyak', 'permintaan', 'aset', 'safe', 'haven', 'china', 'ekspektasi', 'dunia', 'menekan', 'loonie', 'usdcad', 'menguat', 'situasi', 'membaik', 'mari']",Negatif
+"['koq', 'subsidi', 'motor', 'listrik', 'hmm']",Negatif
+"['buatan', 'bursa', 'eropa', 'menghijau']",Negatif
+"['ganjar', 'ikuti', 'arahan', 'jokowi', 'pastikan', 'layanan', 'investasi', 'mudah', 'cepat', 'antipungli', 'ngubernur', 'jawa', 'optimistis', 'menatap', 'investasi', 'ancaman', 'global']",Negatif
+"['strategi', 'bank', 'hadapi', 'risiko', 'resflasi']",Positif
+"['mambangkitkan', 'semoga', 'amiin', 'nmenangin', 'hadiah', 'jutaan', 'gabung', 'safurter', 'kuncicoin', 'serunya', 'bola', 'dunia', 'jhopexmama', 'nganjukkotaangin', 'jung', 'hoseok', 'xec', 'xeb', 'xec', 'xeb', 'xeb', 'xeb', 'xac', 'xeb', 'xea', 'xec', 'xec', 'xeb', 'xbc', 'hobi']",Positif
+"['tetangga', 'pening', 'seks', 'ancam']",Negatif
+"['ancaman', 'luhut', 'suka', 'eggak', 'suka', 'kena', 'dampaknya']",Positif
+"['ramalan', 'jokowi', 'ekspor', 'turun', 'eropa', 'tinggal', 'tunggu']",Positif
+"['presiden', 'galau', 'mulu', 'bok', 'tunjukkan', 'optimis', 'rakyat', 'ngubernur', 'optimis', 'nmau', 'lengser', 'galau', 'negra', 'perang', 'imbasnya', 'negara', 'galau', 'nindonesia', 'butuh', 'pemimpin', 'galau', 'boss']",Positif
+"['ancaman', 'global', 'diselimuti', 'kegelapan', 'proyeksi', 'bank', 'tumbuh', 'nselengkapnya']",Negatif
+"['anggota', 'komisi', 'dpr', 'siti', 'mukaromah', 'menilai', 'penguatan', 'pemberdayaan', 'usaha', 'mikro', 'menengah', 'umkm', 'menyelamatkan', 'perekonomian', 'kekhawatiran', 'ancaman', 'nselengkapnya']",Positif
+"['global', 'rintangan', 'ramal', 'tumbuh', 'persen']",Positif
+"['hati', 'sex', 'jebakan', 'negara', 'berkembang', 'ekonominya', 'luput', 'ancaman', 'declining', 'populasi', 'menunda', 'pernikahan', 'anak', 'faktor', 'tingginya', 'biaya', 'hidup', 'faktor', 'gaya', 'hidup']",Positif
+"['video', 'badai', 'bisnis', 'sektor', 'berisiko']",Positif
+"['jepang', 'korsel', 'seks', 'ancam', 'thailand']",Positif
+"['video', 'badai', 'bisnis', 'sektor', 'berisiko', 'cnbc']",Positif
+"['potensi', 'ancaman', 'global', 'atensi', 'operator', 'seluler', 'jurus', 'tangkisan']",Positif
+"['menghadiri', 'digital', 'economy', 'conference', 'diselenggarakan', 'ndalam', 'kesempatan', 'optimistis', 'perekonomian', 'digital', 'prediksi', 'dunia']",Positif
+"['amerika', 'deal', 'inggris', 'membayar', 'negara', 'dollar', 'rupiah', 'rupiah', 'dollar', 'selamat', 'bangkrut']",Negatif
+"['presiden', 'jokowi', 'permudah', 'investor', 'masuk', 'kurangi', 'dampak', 'ancaman', 'temponasional']",Negatif
+"['berita', 'bagus', 'klw', 'dilanda', 'phk', 'massal', 'blm', 'presidennya', 'nbuuahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaha']",Positif
+"['mendag', 'optimistis', 'digital', 'tumbuh']",Positif
+"['ngeri', 'jokowi', 'global', 'kejadian']",Positif
+"['korsel', 'seks', 'penyebabnya']",Positif
+"['strategi', 'industri', 'digital', 'hadapi', 'global', 'via']",Negatif
+"['salah', 'terkuat', 'menahan', 'dibanding', 'negara']",Positif
+"['dilanda', 'phk', 'massal']",Positif
+"['mendag', 'zulhas', 'optimistis', 'tumbuh', 'prediksi', 'global']",Positif
+"['isu', 'muncul', 'bursa', 'asia', 'dibuka', 'kebakaran']",Positif
+"['mengancam', 'ditjen', 'pajak', 'fokus', 'pelototi', 'harta', 'crazy', 'rizh']",Positif
+"['dunia', 'gelap']",Positif
+"['mendag', 'optimis', 'tumbuh', 'lengkapcepatberitanya', 'keuangan', 'ekonomiindonesia']",Positif
+"['ancaman', 'dunia', 'ditahun', 'aman', 'nmungkin', 'menikmati', 'nsalam', 'waras']",Positif
+"['bofa', 'perkirakan', 'paksa', 'fed', 'turunkan', 'suku', 'bunga']",Positif
+"['hadapi', 'ancaman', 'global', 'kadin', 'perkuat', 'umkm']",Positif
+"['mendag', 'zulkifli', 'hasan', 'optimis', 'tumbuh', 'prediksi']",Positif
+"['menteri', 'perdagangan', 'zulkifli', 'hasan', 'mengaku', 'optimistis', 'perekonomian', 'digital', 'tumbuh', 'prediksi', 'dunia', 'mengajak', 'berkolaborasi', 'menjaga', 'kondisi', 'positif', 'cbisnis', 'digital']",Positif
+"['global', 'ahli', 'dunia', 'bicara', 'sri', 'mulyani']",Positif
+"['mendag', 'pede', 'tumbuh', 'positif', 'dihantui']",Positif
+"['zulhas', 'tumbuh', 'prediksi']",Positif
+"['pasalnya', 'adian', 'mengaku', 'fokus', 'membantu', 'rakyat', 'kesulitan', 'pasca', 'pandemi', 'dihadapi', 'dunia']",Positif
+"['makasih', 'kak', 'berkontribusi', 'ketahanan', 'sulit']",Positif
+"['dihantui', 'zulhas', 'optimistis', 'tumbuh']",Positif
+"['npertama', 'flashback', 'konklusi', 'pertumbuhan', 'ekonominya', 'kuat', 'nresesi', 'pertumbuhan', 'minus', 'udah']",Positif
+"['kegiatan', 'salah', 'program', 'kerja', 'genbi', 'goes', 'campus', 'tujuannya', 'informasi', 'nterkait', 'beasiswa', 'bank', 'komunitas', 'genbi', 'pemahaman', 'mahasiswa', 'terkait', 'nresesi', 'literasi', 'keuangan', 'cinta', 'bangga', 'paham', 'rupiah']",Positif
+"['mendag', 'zulkifli', 'hasan', 'optimis', 'tumbuh', 'prediksi', 'via']",Positif
+"['zulhas', 'digital', 'tumbuh', 'dihantui']",Positif
+"['global', 'kambing', 'hitam', 'bisnis']",Positif
+['kebal'],Positif
+"['xab', 'npanik', 'nggak', 'panik', 'nggak', 'strategi', 'nsebenarnya', 'lakukan', 'menghadapi', 'nmau', 'jawabannya', 'simak', 'lengkapnya', 'link']",Positif
+"['legacy', 'cemerlang', 'presiden', 'jokowi', 'tumbuh', 'ekonominya', 'ditengah', 'hantaman', 'kondisi', 'global', 'nbismillah', 'stafsus', 'menteri', 'bumn']",Positif
+"['kemaren', 'ndak', 'berdampak', 'lmaaoo']",Negatif
+"['why', 'financial', 'management', 'important', 'cbagaimana', 'pengelolaan', 'keuangan', 'menghadapi', 'nlink', 'daftar', 'key', 'for', 'akeyodia', 'kikysaputri', 'tempur', 'dayak', 'fitritropica', 'webinarfree']",Positif
+"['dijamin', 'aman', 'ancaman', 'indonesiatanparesesi', 'ekonomiindonesia']",Negatif
+"['samsullbahr', 'hebat', 'tumbuh', 'global']",Negatif
+"['dunia', 'terancam', 'mengalami', 'reflasi', 'kondisi', 'disertai', 'tingkat', 'inflasi', 'sanggupkah', 'selamat', 'nsaksikan', 'economicchallengesmetrotv', 'episode', 'was', 'was', 'dampak', 'reflasi', 'selasa', 'wib']",Positif
+"['diprediksi', 'berdampak', 'pelaku', 'industri', 'otomotif']",Positif
+"['video', 'jurus', 'siapkan', 'dana', 'darurat', 'hadapi']",Positif
+"['aman', 'ancaman', 'indonesiatanparesesi', 'ekonomiindonesia']",Positif
+"['umkm', 'rakyat', 'terangkat', 'membantu', 'perekonomian', 'negara', 'terbebas', 'kinerjabriq']",Positif
+"['udah', 'hemat', 'takut']",Positif
+"['aman', 'ancaman', 'indonesiatanparesesi', 'ekonomiindonesia']",Positif
+"['status', 'karyawannya', 'kontrak', 'alasan', 'perusahaannya', 'portfolio', 'bisnisnya', 'nggak', 'sestabil', 'kantor', 'skrg', 'takut', 'cut', 'off', 'pindah', 'tawaran', 'gaji', 'lumayan']",Negatif
+"['xef', 'xbc', 'xaa', 'xaa', 'npresident', 'nekonomi', 'xae', 'tumbuh', 'global', 'bersamaperkuatnkri', 'bersamaperkuatnkri']",Negatif
+"['ancaman', 'serius', 'percepatanekonomimaju', 'jokowihebat']",Positif
+"['xef', 'xbc', 'xaa', 'xaa', 'npresident', 'negara', 'xae', 'tumbuh', 'bersamaperkuatnkri', 'bersamaperkuatnkri']",Negatif
+"['penasaran', 'umkm', 'penyelamat', 'menghadapi', 'nuntuk', 'jawabannya', 'langsung', 'cek', 'postingan', 'resesiglobal', 'resesiekonomi', 'ekonomiglobal', 'umkm', 'kontrakhukum', 'legal', 'hukum', 'legalitas']",Negatif
+"['prediksi', 'mengemukakan', 'muncul', 'gejala', 'radikalisme', 'terorisme', 'menyusul', 'dunia', 'prediksi', 'memicu', 'pemangku', 'kebijakan', 'meningkatkan', 'kewaspadaan', 'nselengkapnya']",Negatif
+"['video', 'mata', 'yuk', 'cek', 'kantongmu']",Positif
+"['optimis', 'aman', 'ancaman', 'hargabahanpokok', 'bahanpokokstabil', 'stockbahanpokok', 'bbmterkendali']",Positif
+"['eur', 'usd', 'terekspos', 'zona', 'euro', 'hadapi', 'pidato', 'the', 'fed', 'powell', 'fokus', 'eurusd', 'fed', 'ecb', 'seo', 'inflation']",Positif
+"['optimisme', 'sektor', 'pariwisata', 'bertumbuh', 'bayang', 'bayang', 'global', 'wisatawan', 'domestik', 'tembus', 'juta', 'orang', 'rekor', 'tertinggi', 'pandemi']",Negatif
+"['bersamaperkuatnkri', 'npresiden', 'negara', 'tumbuh']",Positif
+"['perekonomianindonesia', 'npengelolaan', 'anggaran', 'menjauh', 'resiko', 'kemenkeu', 'inflasi']",Positif
+"['optimistis', 'sektor', 'pariwisata', 'bertumbuh', 'bayang', 'bayang', 'global']",Positif
+"['presiden', 'negara', 'tumbuh', 'bersamaperkuatnkri']",Positif
+"['tumbuh', 'nsaat', 'global', 'bersamaperkuatnkri']",Positif
+"['hutang', 'sulit', 'deh', 'nilustrasi', 'dapet', 'update', 'terkini', 'utang', 'negeri', 'tekan', 'aman', 'nketaatan', 'bayar', 'pajak', 'kemandirian', 'pembiayaan', 'pembangunan']",Negatif
+"['pascapandemi', 'menghadapi', 'tantangan', 'ancaman', 'akibat', 'krisis', 'global', 'kondisi', 'peran', 'merek', 'asli', 'diharapkan', 'memenuhi', 'kebutuhan', 'masyarakat', 'menggerakkan', 'roda', 'tanah', 'air']",Positif
+"['menkeuangan', 'negara', 'spt', 'jepang', 'amerika', 'maju', 'utangnya', 'utang', 'dimiliki', 'bangsa', 'msh', 'dlm', 'taraf', 'aman', 'terkendali', 'mengalami', 'krisis']",Positif
+"['global', 'bank', 'ojk']",Negatif
+"['penjualan', 'tiket', 'early', 'bird', 'pestapora', 'september', 'udah', 'full', 'booked', 'anti']",Positif
+"['seks', 'hantu', 'ancam', 'korea', 'selatan']",Positif
+"['besok', 'libur', 'sewa', 'pacar', 'doyoung', 'nct', 'johnny', 'nct', 'diajak', 'ngobrol', 'kucing', 'lucu', 'sampe', 'bahas', 'dampak', 'dunia', 'cuss', 'rep', 'carrd', 'bfrent', 'zonauang']",Positif
+"['bukti', 'warga', 'doyan', 'belanja', 'dihantui']",Positif
+"['bodoh', 'dek', 'posisi', 'dimata', 'dunia', 'nmakanya', 'sekolah', 'baca', 'njadi', 'orang', 'bodoh', 'sampe', 'ngga', 'negara', 'ndan', 'ngga', 'negara', 'hormati', 'karna', 'aman']",Positif
+"['pemerintah', 'menjaga', 'kestbilan', 'perekonomian', 'ancaman', 'jokowipresidenku', 'pembangunanuntukrakyat', 'presidenjokowihebat', 'jokowimembangunnegeri', 'jokowimajubersamaindonesia', 'jokowibapakinfrastruktur', 'ganjarpilihanjokowi']",Positif
+"['bahas', 'mas', 'gimana', 'nasib', 'twitter', 'dibeli', 'elon', 'musk']",Positif
+"['orang', 'waras']",Positif
+"['kebijakan', 'fsikal', 'terapkan', 'pemerintah', 'menjaga', 'kestabilan', 'ancaman', 'gejolak']",Positif
+"['kang', 'emil', 'airlangga', 'hartarto', 'loloskan']",Negatif
+"['memasuki', 'danske', 'bank', 'unitedstates', 'fed', 'growth', 'inflation', 'banks']",Negatif
+"['isu', 'berjamaah', 'dunia', 'wejangan', 'pengendalian', 'inflasi', 'papua']",Positif
+"['disaat', 'negara', 'jokowi', 'tumbuh', 'jokowimajubersamaindonesia', 'nmusiala', 'relawan', 'ziyech', 'taekook', 'morn', 'wendy', 'the', 'ccp', 'balenciagagroomers']",Positif
+"['kebijakan', 'fsikal', 'terapkan', 'pemerintah', 'menjaga', 'kestabilan', 'ancaman', 'gejolak', 'jokowipresidenku', 'pembangunanuntukrakyat', 'presidenjokowihebat', 'jokowimembangunnegeri', 'jokowimajubersamaindonesia', 'jokowibapakinfrastruktur', 'ganjarpilihanjokowi']",Positif
+"['kazimir', 'ecb', 'risiko', 'zona', 'euro', 'meningkat', 'ecb', 'centralbanks', 'recession', 'eurusd']",Positif
+"['knot', 'ecb', 'kepastian', 'ecb', 'centralbanks', 'eurusd', 'interestrate', 'inflation']",Negatif
+"['menerapkan', 'fundamental', 'technical', 'analysis', 'historikal', 'covid', 'berinvestasi', 'aset', 'kripto', 'memiliki', 'peluang', 'inflasi', 'xbc', 'nbaca', 'selengkapnya', 'xef', 'kuncicoin']",Positif
+"['hebatnya', 'jokowi', 'kondisi', 'prekonomian', 'dunia', 'dri', 'pda', 'negara', 'sekelas', 'amerika', 'udah', 'liat', 'vdeo', 'mhsiswa', 'indo', 'amerika', 'indo', 'ditengah', 'pandemi']",Negatif
+"['dunia', 'mengalami', 'berdampak', 'sektor', 'industri', 'mengalami', 'pertumbuhan', 'mencapai', 'persen']",Positif
+"['zona', 'euro', 'danske', 'bank', 'eurozone', 'growth', 'inflation', 'banks']",Negatif
+"['tumbuh', 'persen', 'global']",Positif
+"['investasi', 'ditingkatkan', 'membangun', 'menguatkan', 'pasar', 'domestik', 'ancaman', 'krisis', 'global', 'diprediksi', 'memanas', 'afterb', 'arsjadrasjid', 'kadinindonesia', 'inklusifkolaboratif']",Positif
+"['negara', 'parah', 'njustru', 'salah', 'negara', 'ketahanan']",Positif
+"['tunggu', 'sampe', 'setahunn', 'nder', 'dpt', 'gaji', 'aman', 'setakut', 'cari', 'info', 'ttg', 'baca', 'seluk', 'beluk', 'berbagau', 'sumber', 'liat', 'tiktok', 'langsung', 'nyangkut', 'otak']",Negatif
+"['tumbuh', 'jokowi', 'waspada', 'global', 'sulit', 'dihitung', 'diprediksi', 'noleh', 'kerja', 'keras', 'menghindari', 'prankgbk']",Positif
+"['tumbuh', 'persen', 'kuartal', 'ketiga', 'badai', 'njokowi', 'negara', 'mengalami', 'kesulitan', 'beruntung', 'mengendalikan']",Positif
+"['sangka', 'nekonomi', 'tumbuh', 'global', 'nanya', 'forensik', 'penjilat', 'shopee', 'sonyejin', 'prankgbk', 'kasad', 'dudung', 'sibirubiru']",Positif
+"['selamat', 'tinggal', 'tumbuh']",Negatif
+"['yuk', 'join', 'indotelko', 'forum', 'strategi', 'indistri', 'digital', 'menghadapi', 'global', 'ndaftar', 'seat', 'terbatas', 'indotelko', 'ict', 'hutindotelko']",Positif
+"['kepala', 'negara', 'mengungkap', 'negara', 'kuat', 'menahan', 'gejala', 'global', 'kewaspadaan', 'bertahan', 'angka', 'pertumbuhan', 'persen', 'nglobal', 'leadership', 'award', 'apresiasijokowi']",Negatif
+"['gubernur', 'jawa', 'barat', 'ridwan', 'kamil', 'memuji', 'kinerja', 'menteri', 'koordinator', 'bidang', 'perekonomian', 'gubernur', 'jabar', 'airlangga', 'berhasil', 'meloloskan', 'ancaman', 'bersamajuara']",Positif
+"['presiden', 'jokowi', 'negara', 'mengalami', 'perekonomian', 'tumbuh', 'qatar']",Negatif
+"['khawatir', 'jokowi', 'optimis', 'tumbuh', 'persen', 'global', 'nnia', 'ramadhani', 'pidi', 'baiq', 'shopee', 'maroko', 'prankgbk', 'sibirubiru', 'directed', 'tempur', 'smtown', 'sonyejin', 'kapolres', 'taekook']",Negatif
+"['ihsg', 'bursa', 'efek', 'bei', 'senin', 'pagi', 'melemah', 'seiring', 'meningkatnya', 'risiko', 'global']",Negatif
+"['presiden', 'tumbuh', 'persen', 'global', 'jokowi', 'global']",Positif
+"['kondisi', 'keuangan', 'dunia', 'bagus', 'bagus', 'info', 'waspada', 'kondisi', 'keuangan', 'pribadi']",Positif
+['menerpa'],Positif
+"['rumus', 'gdp', 'growth', 'gdp', 'konsumsi', 'warganya', 'nselama', 'berputar', 'warga', 'kasih', 'makan', 'cepat', 'pulih']",Positif
+"['rakyat', 'pandai', 'bersyukur', 'kinerjanya', 'jokowi', 'membawa', 'dunia']",Positif
+"['cnbc', 'kabar', 'amerika', 'sinyal', 'dunia', 'batal']",Positif
+"['tahan', 'serangan', 'krisis']",Positif
+"['kebijakan', 'fiskal', 'pemerintah', 'menjaga', 'kestabilasasi', 'perekonomian', 'meredam', 'ancaman', 'gejolak', 'global', 'nrelawan', 'jerman', 'offside', 'nbelgia', 'muller', 'kroasia', 'germany', 'qatar', 'jokowipresidenku', 'jokowihebat', 'worldcupqatar']",Positif
+"['mudah', 'pertanda', 'cikal', 'kena']",Positif
+"['kayak', 'statement', 'sakti', 'kebal', 'nkayak', 'sapaa', 'gitu']",Positif
+"['xbb', 'xbb', 'menjauh', 'nutang', 'negeri', 'uln', 'turun', 'tahunan', 'kuartal', 'npemerintah', 'berkomitmen', 'menjaga', 'kredibilitas', 'mengelola', 'uln', 'hati', 'hati', 'kredibel', 'akuntabel']",Positif
+"['nikah', 'kawin', 'status', 'pernikahan']",Negatif
+"['masyarakat', 'mestinya', 'khawtir', 'potensi', 'nselengkapnya']",Positif
+"['horee', 'perekonomian', 'perkirakan', 'bagus', 'nmusiala', 'china', 'tidur', 'worldcup', 'germany', 'gavi', 'pemerintah']",Positif
+"['optimistis', 'jokowi', 'pertumbuhan', 'nmusiala', 'china', 'tidur', 'worldcup', 'germany', 'gavi', 'spain', 'pagi', 'senin', 'jokowi']",Positif
+"['analisa', 'nresesi', 'melanda']",Positif
+"['done', 'moga', 'jadikan', 'peluang', 'kuat']",Positif
+"['gelombang', 'phk', 'menerjang', 'rasakan', 'global', 'sindonews', 'bukanberitabiasa']",Positif
+"['support', 'umkm', 'anti', 'anti', 'suram']",Positif
+"['knp', 'wacana', 'taun', 'tenaga', 'kontrak', 'dihapuskan', 'pengangguran', 'huf']",Positif
+"['pertumbuhan', 'kuartal', 'negatif', 'persentase', 'malas', 'baca', 'kasih', 'bandingin', 'coba', 'negara']",Positif
+"['penduduk', 'nberapa', 'pdb', 'njika']",Positif
+"['bandar', 'bola', 'menyaup', 'uang', 'rakyat', 'malam']",Positif
+"['hebat', 'ngk', 'elu', 'kali', 'biang', 'kerok', 'berita', 'nsumber', 'berita', 'presiden', 'mecancel', 'tunggu', 'skrg']",Positif
+"['cobak', 'jaken', 'bahas', 'isi', 'dokumen', 'asli', 'supersemar', 'perseteruan', 'australia', 'bahas', 'keturunan', 'adipati', 'cepu', 'munggah', 'gunung', 'lawu', 'nek', 'areke', 'seneng', 'random', 'cobak', 'takono', 'bahan', 'bakar', 'ufo', 'iku', 'opo', 'wkwkk']",Positif
+"['dear', 'idelisteners', 'nresesi', 'berita', 'hangat', 'besarnya', 'atensi', 'financial', 'influencer', 'pemerintah', 'bertahan', 'ditengah', 'badai', 'global']",Positif
+"['lolos', 'kena', 'taper', 'tantrum', 'parah', 'pemerintah', 'persiapan']",Positif
+"['bri', 'berdampak', 'perekonomian', 'kinerjabriq']",Negatif
+"['allah', 'enak', 'gua', 'gigit', 'lgsg', 'pengen', 'peluk', 'abangnya', 'dri', 'trus', 'kecup', 'manja', 'ngomongin']",Positif
+"['negara', 'udah', 'maju', 'nsementara']",Negatif
+"['phk', 'dampak', 'global']",Negatif
+"['topik', 'bagus', 'dampak', 'global', 'oerekonomian']",Negatif
+"['mikir', 'positifnya', 'perputaran', 'uang', 'kebituhan', 'konsumsi', 'nalhamdulillah', 'rakyat', 'menghadapi']",Positif
+"['khawatir', 'jokowi', 'optimis', 'tumbuh', 'persen', 'global', 'kapolres', 'cianjur', 'bibble', 'lawson', 'sheeran', 'firstlove', 'mbappe', 'taekook', 'youth', 'kookie', 'joshua', 'jodohditanganantono', 'redvelvet']",Positif
+"['dampak', 'nsimak', 'info', 'sosmaling', 'episode', 'kali', 'nnarahubung', 'ndhissa', 'dhissaashila', 'nzidan']",Positif
+"['info', 'sosmaling', 'waspada', 'global', 'nhalo', 'fisika', 'nbeberapa', 'digemparkan', 'pernyataan', 'presiden', 'joko', 'widodo', 'kondisi', 'perekonomian', 'gelap']",Negatif
+"['kali', 'pemerintah', 'survei', 'vocal', 'kolega', 'capres', 'njika', 'berpotensi', 'alternatif', 'isu', 'tunda', 'pemilu', 'alasan', 'uang', 'gbk', 'superman']",Positif
+"['kayaknya', 'minim', 'deh', 'nikahan', 'mantep', 'betol', 'gue', 'yaa', 'nikahan']",Negatif
+"['industri', 'manufaktur', 'bergeliat', 'ancaman']",Positif
+[],Positif
+"['peran', 'umkm', 'juru', 'selamat', 'mengatasi']",Negatif
+"['semoga', 'ngga', 'kena', 'dampak', 'amin', 'amin']",Positif
+"['pembangunan', 'infrastruktur', 'kontribusi', 'pemulihan', 'umkm', 'udah', 'kerasa', 'dampaknya', 'negara', 'aman', 'nusantarabersatu', 'infrastrukturuntuknegeri', 'indonesiamaju']",Negatif
+"['pemerintah', 'memikirkan', 'solusi', 'holistik', 'sektor', 'industri', 'terjaga', 'ancaman', 'dunia', 'hadapi']",Positif
+"['kayak', 'nobar', 'world', 'cup', 'gbk', 'party', 'buzzer', 'nkeliatan', 'brand', 'ambassador', 'udah', 'produk', 'partai', 'kepala', 'negara', 'modelnya', 'nlook', 'this', 'nkelakuan', 'suporternya', 'suporter', 'jepang']",Positif
+"['rasakan', 'dampak', 'global', 'buktinya']",Positif
+"['narasi', 'tolol', 'bin', 'goblok', 'loe', 'bandingin', 'negara', 'duni', 'dibawah', 'kepemimpinan', 'jokowi', 'sgt', 'stabil', 'tumbuh', 'negara', 'tolol', 'pelihara', 'dasar', 'kadrun']",Positif
+"['kemampuan', 'bertahan', 'menunjukan', 'kemampuan', 'bangsa']",Negatif
+"['jokowi', 'negara', 'tumbuh']",Negatif
+"['phk', 'dampak', 'global', 'lengkapcepatberitanya', 'keuangan', 'ekonomiindonesia']",Positif
+"['mengenal', 'sexs', 'buktinya', 'orang', 'hajatan']",Positif
+"['syariah', 'daya', 'tarik', 'isu', 'depresi', 'kapitalisme', 'memiliki', 'potensi', 'berkembangnya', 'syariah']",Positif
+"['negaranya', 'kena', 'dampak', 'global', 'beruntung', 'tinggal', 'dampak']",Negatif
+"['syariah', 'daya', 'tarik', 'isu', 'depresi', 'kapitalisme', 'memiliki', 'potensi', 'berkembangnya', 'syariah', 'islamkaffah', 'simak', 'videonya', 'serba', 'serbi', 'mmc']",Positif
+"['orang', 'usahakan', 'tambahan', 'penghasilan', 'njadi', 'ndunia', 'ntdk', 'nsemoga', 'bermanfaat']",Positif
+"['google', 'wapres', 'saksi', 'memberatkan', 'ahok', 'sesumbar', 'bebas', 'covid', 'doa', 'qunut', 'kemarin', 'kebal', 'wali', 'doa', 'wirid']",Positif
+"['ngiritiknya', 'mas', 'rizal', 'berkurang', 'bobotnya', 'skrg', 'pertumbuhan', 'disaat', 'dunia', 'coba', 'masukan', 'bgmn', 'pertumbuhan', 'ditunggu', 'komennya', 'mas']",Positif
+"['hayoo', 'gass', 'jajannyaa', 'disimpen', 'takkut', 'mati', 'pade', 'zinah', 'bangga']",Negatif
+"['pemerintah', 'memikirkan', 'solusi', 'holistik', 'sektor', 'industri', 'terjaga', 'ancaman', 'dunia', 'hadapi', 'arsjadrasjid', 'uuciptaker', 'inklusifkolaboratif']",Negatif
+"['klaim', 'tumbuh', 'negara', 'jokowi', 'sombong', 'dipuji']",Positif
+"['dihadapan', 'relawan', 'jokowi', 'negara', 'tumbuh']",Positif
+"['ekonom', 'iaei', 'atasi', 'ancaman']",Positif
+"['berkacalah', 'dunia', 'notabene', 'negara', 'mengalami', 'akibat', 'krisis', 'global', 'nbersyukurlah', 'bertahan', 'nsaya', 'memenang', 'bodoh', 'sekolah', 'sepintar']",Positif
+"['keberhasilan', 'kesuksesan', 'tolak', 'ukurnya', 'dunia', 'mengajui', 'role', 'model', 'dunia', 'lolos', 'njangan', 'terpengaruh', 'orang', 'bernarasi', 'textbook', 'terpengaruh', 'perasaannya']",Positif
+"['pamer', 'keberhasilan', 'jokowi', 'negara', 'tumbuh', 'persen', 'beritajogja', 'jogja', 'jogjaistimewa']",Negatif
+"['rusia', 'resmi', 'hati', 'hati']",Positif
+"['takut', 'kolaps', 'keterjang', 'dunia', 'bubar', 'ruu', 'kuhp']",Negatif
+"['elo', 'mkn', 'idup', 'nyuk']",Positif
+"['berharap', 'kuartal', 'indeks', 'umkm', 'meningkat', 'perekonomian', 'meningkat', 'terhindar', 'kinerjabriq']",Negatif
+"['gelap', 'lho', 'ndi', 'emang', 'udah', 'kejadian', 'kondisinya', 'gimana', 'nso', 'far', 'aman', 'salahnya', 'prepare', 'emang', 'kejadian']",Negatif
+['selamat'],Negatif
+"['negara', 'mengalami', 'dibawah', 'kepemimpinan', 'presiden', 'jokowi', 'bertumbuh', 'tekanan', 'berat', 'pandemi', 'perang', 'rusia', 'ukraina', 'hadapi', 'nhasil', 'mengkhianati', 'kerja', 'keras', 'nyata']",Positif
+"['arsjad', 'rasjid', 'menyebut', 'membutuhkan', 'solusi', 'holistik', 'pemerintah', 'pendekatan', 'menghadapi', 'gelombang', 'phk', 'menggerus', 'optimisme', 'dal', 'menghadapi', 'ancaman', 'afterb', 'arsjadrasjid', 'upahminimum', 'inklusifkolaboratif']",Positif
+"['global', 'presiden', 'tumbuh', 'persen']",Positif
+"['presiden', 'jokowi', 'tumbuh', 'persen', 'global']",Positif
+"['anti', 'kebal', 'bps', 'menyebut', 'anti', 'san', 'pertumbuhan', 'triwulan']",Positif
+"['negara', 'mengalami', 'ancaman', 'anak', 'muda', 'terbaik']",Positif
+"['jokowi', 'pembangunan', 'infrastruktur', 'membuahkan', 'hasil', 'hindari']",Positif
+"['presiden', 'joko', 'widodo', 'beberkan', 'capaian', 'global', 'menyebut', 'capaian', 'dipuji', 'puji', 'pemimpin', 'negara', 'pemimpin', 'melanjutkan', 'reputasi', 'global', 'pembangunan']",Positif
+"['berandai', 'andai', 'opung', 'andaikan', 'bener', 'ogah', 'mampir', 'atap', 'covid', 'udah', 'bebas', 'opung']",Positif
+"['pengamat', 'risiko']",Positif
+"['masyarakat', 'jokowi', 'waspada', 'ancaman', 'global', 'sulit', 'diprediksi']",Positif
+"['takut', 'namanya', 'pemerintah', 'memikirkan', 'matang', 'hadapi', 'jokowipresidenku', 'pembangunanuntukrakyat', 'presidenjokowihebat', 'jokowimembangunnegeri', 'jokowimajubersamaindonesia', 'jokowibapakinfrastruktur']",Positif
+"['negara', 'alami', 'jokowi', 'ingatkan', 'mesti', 'waspada', 'terbaru', 'alami', 'berita']",Positif
+"['populer', 'ruf', 'amin', 'selamat', 'ulamanya', 'berdoa', 'wirid', 'video', 'amin', 'berdoa']",Positif
+"['jokowi', 'ditengah', 'global', 'tumbuh', 'persen']",Negatif
+"['negara', 'alami', 'jokowi', 'ingatkan', 'waspada']",Positif
+"['kondisi', 'global', 'negara', 'dunia', 'kesulitan', 'beruntungnya', 'mengendalikan']",Positif
+"['jokowi', 'negara', 'tumbuh', 'beritasatu', 'mediainformasi', 'omkamidi']",Positif
+['pengamat'],Positif
+"['presiden', 'tumbuh', 'persen', 'global']",Positif
+"['jokowi', 'negara', 'negara', 'tumbuh', 'persen', 'sariagri', 'pertanian']",Negatif
+"['berharap', 'dunia', 'meramalkan', 'semangat', 'berjuang', 'kadinjabar', 'kadinkarasa', 'kamardagangindustri', 'kadinjabardaily', 'informasiterupdate', 'umkmnaikkelas']",Negatif
+"['presiden', 'tumbuh', 'global']",Positif
+"['aman', 'ancaman']",Positif
+"['udah', 'brarti', 'tugas', 'utama', 'dijalankan', 'ngurus', 'negara', 'dijalanin', 'mngkn', 'skrg', 'dah', 'negara', 'kena', 'bersyukur', 'nikmat', 'skrg', 'tinggal', 'jga', 'tikus', 'koruptor']",Positif
+"['pengamat', 'risiko']",Positif
+"['presiden', 'joko', 'widodo', 'jokowi', 'negara', 'negara', 'tumbuh', 'kuartal', 'ketiga']",Positif
+"['ancaman', 'nyata', 'strategi']",Positif
+"['presiden', 'jokowi', 'negara', 'tumbuh', 'persen']",Positif
+"['orang', 'slowdown', 'masyarakat', 'gapunya', 'duit', 'ngapa', 'udh', 'seminggu', 'gua', 'hunting', 'kek', 'org', 'gila', 'beli', 'ginian', 'gabisa', 'miliar', 'itungan', 'detik', 'abis', 'sinting']",Negatif
+"['udah', 'duet', 'prabowo', 'prabowo', 'menang', 'telak', 'pilpres', 'putaran', 'adem', 'lewati']",Positif
+"['aman', 'ancaman', 'global']",Positif
+"['eks', 'ketua', 'wantimpres', 'aman', 'ancaman', 'global', 'terbaru', 'aman', 'ancaman']",Positif
+"['global', 'mengancam', 'ekonom', 'aman']",Positif
+"['pangsa', 'pasar', 'dinilai', 'aman', 'ancaman', 'global']",Positif
+"['aman', 'ancaman', 'global']",Positif
+"['top', 'news', 'koran', 'rakyat', 'merdeka', 'nwapres', 'kebal', 'doa', 'wali', 'nresesi', 'prediksi', 'manusia', 'urusan', 'rezeki', 'allah', 'atur']",Negatif
+"['sejujurnya', 'terdampak', 'global', 'cari', 'undervalued', 'discount', 'property', 'dijual', 'ketemu', 'property', 'agent', 'kebanyakan', 'nawarin', 'cluster', 'barang', 'investor']",Negatif
+"['bener', 'bener', 'global', 'nalias', 'nmaret', 'event', 'musik', 'jakarta', 'musisi', 'top', 'tier', 'negeri', 'xaf']",Negatif
+"['pengamat', 'aman', 'ancaman', 'global', 'terbaru', 'aman', 'ancaman']",Positif
+"['hitung', 'mundur', 'dugaan', 'saldo', 'tembus', 'triliunan', 'uang', 'tunai', 'illegal', 'masuk', 'rupiah', 'palsu', 'melejit']",Positif
+"['tingginya', 'nilai', 'produksi', 'komoditi', 'pangan', 'negeri', 'lanyalla', 'melewati', 'sulit', 'npelambatan', 'lanyalla']",Positif
+"['percayalah', 'aman', 'ancaman', 'global']",Positif
+"['percayalah', 'aman', 'ancaman', 'global', 'resesiglobal']",Positif
+"['ancaman', 'dampaknya']",Positif
+"['pengamat', 'aman', 'ancaman', 'global']",Positif
+"['pengamat', 'aman', 'ancaman', 'global']",Negatif
+"['miliki', 'pangsa', 'pasar', 'aman', 'ancaman', 'global']",Negatif
+"['eks', 'wantimpres', 'aman', 'ancaman', 'global']",Negatif
+"['kerja', 'kerja', 'prioritas', 'penanganan', 'banjir', 'pengendalian', 'kemacetan', 'antisipasi', 'pemprov', 'dki', 'digalakkan', 'nmenuju', 'jakarta', 'maju', 'sejahtera', 'makmur', 'warganya', 'nsukses', 'jakarta']",Negatif
+"['lihat', 'amerika', 'warganya', 'menggelandang', 'rumah', 'susah', 'makan', 'pongah', 'pakar', 'handal', 'dlm', 'negara', 'menjamin', 'pdbnya', 'dunia', 'global']",Positif
+"['rakyat', 'cerdas', 'ngene', 'kena']",Positif
+"['arsjad', 'rasjid', 'fundamental', 'kuat', 'trenasia']",Positif
+"['lapor', 'menteri', 'pendidikan', 'kasian', 'president', 'pusing', 'mikirin', 'gimana', 'thn', 'cengkeraman']",Positif
+"['faisal', 'basri']",Positif
+"['wapres', 'ruf', 'amin', 'kena', 'salah', 'satunya', 'wali', 'doa', 'wirid', 'kumparanbisnis', 'dailyupdate']",Positif
+"['rakyat', 'sangar', 'ngene', 'mosok', 'enek', 'bingung']",Positif
+"['diyakini', 'mengalami', 'tergambar', 'proyeksi', 'pertumbuhan', 'jokowihebat', 'jokowibapakinfrastruktur', 'harigurunasional']",Positif
+"['chat', 'topiknya', 'dampak', 'global']",Negatif
+"['bye', 'nekonomi', 'tumbuh', 'npertumbuhan', 'mencapai', 'global', 'dibayangi', 'jokowihebat']",Positif
+"['berita', 'melintas', 'beranda', 'bersyukur', 'lahir', 'hidup', 'negara', 'dimana', 'negara', 'bertahan', 'ditengah', 'keterpurukan', 'dunia', 'adh', 'salah', 'negara', 'kenal']",Negatif
+"['maruf', 'amin', 'alami', 'wali', 'suka', 'berdoa', 'wirid', 'via']",Positif
+"['sektor', 'umkm', 'perisai', 'menghadapi', 'tekanan', 'maklumlah', 'gaes', 'serapan', 'tenaga', 'kerja', 'umkm', 'khususny', 'sektor', 'mikro', 'kinerjabriq']",Positif
+"['saksikan', 'podcast', 'terbaru', 'pekan', 'tema', 'hadapi', 'host', 'gilang', 'bhaskara', 'narasumber', 'manulife', 'william', 'soetrisno', 'premier', 'youtube', 'manulife', 'nlink', 'tayang']",Positif
+"['didapuk', 'ketua', 'asean', 'bentuk', 'kepercayaan', 'masyarakat', 'asean', 'kemampuan', 'dlm', 'menghadapi', 'dihadapi', 'dunia', 'thn', 'jokowipemimpinglobal']",Positif
+"['laporan', 'khusus', 'muncul', 'dunia', 'bangkitlah', 'umkm', 'sariagri', 'pertanian']",Positif
+"['hadapi', 'global', 'ketua', 'dpd', 'produksi', 'komoditas', 'lokal', 'ditingkatkan', 'nsurabaya', 'ancaman', 'global', 'prioritas', 'program', 'kerja', 'pemerintah', 'mitigasi', 'antisipasi', 'cermat', 'lanyalla', 'lanyalla']",Positif
+"['jurang', 'bullish']",Positif
+"['bisnis', 'bersaing', 'nbiasanya', 'import', 'barang', 'jual', 'nsekarang', 'orang', 'import', 'barang', 'pabrik', 'diluar', 'nterus', 'bersaing']",Positif
+"['rakyat', 'happy', 'happy', 'dunia', 'menghadapi', 'global', 'suka', 'presiden', 'jokowi', 'kebanyakan', 'keluh', 'kesahnya', 'kek', 'kek', 'emangnya', 'presiden', 'jokowi', 'kakekmu', 'loe', 'diturutin', 'yaa', 'orang', 'ikhlas']",Positif
+"['kota', 'bogor', 'kota', 'hujan', 'nkota', 'bekasi', 'npenerimaan', 'pnbp', 'menggembirakan', 'ntanda', 'hadapi', 'ancaman', 'nupdate', 'apbn', 'apbnkita', 'npnbp', 'sda', 'migas', 'npnbp', 'sda', 'non', 'migas', 'npnbp', 'knd', 'npnbp', 'npendapatan', 'blu']",Negatif
+"['nanyak', 'nii', 'skrg', 'kyknya', 'isu', 'gembar', 'gemborkan', 'rekayasa', 'jabatan', 'tertinggi', 'perpanjang', 'info', 'penjelasan', 'fifaworldcup']",Positif
+"['wapres', 'ruf', 'amin', 'jatuh', 'negara', 'negara', 'wali', 'alim', 'ulama', 'kerap', 'berdoa', 'wirid', 'nakibat', 'mengganti', 'makan', 'nasi', 'pisang', 'kebal']",Positif
+"['pemerintah', 'memikirkan', 'solusi', 'holistik', 'sektor', 'industri', 'terjaga', 'ancaman', 'dunia', 'hadapi', 'arsjadrasjid', 'kadinindonesia', 'inklusifkolaboratif']",Positif
+"['xad', 'xbc', 'xba', 'xbc', 'xbb', 'xae', 'xae', 'xbc', 'xba', 'xbc', 'xbb', 'xaf', 'iknmajukansektorumkm', 'iknmajukansektorumkm']",Positif
+"['ekonom', 'pengangguran', 'harap', 'tenang', 'dilarang', 'berisik', 'xbc', 'xef', 'nmenteri', 'keuangan', 'sri', 'mulyani', 'indrawati', 'pertumbuhan', 'mencapai', 'global', 'dibayangi']",Positif
+['iknmajukansektorumkm'],Positif
+['iknmajukansektorumkm'],Positif
+"['badai', 'pandemi', 'covid', 'hadapi', 'mari', 'jaga', 'daya', 'beli', 'produk', 'produk', 'umkm', 'bangsa', 'tahan', 'global', 'umkm', 'jaya', 'nlove', 'tweet', 'dukung', 'umkm', 'tetenmasduki', 'kemenkopukm', 'padiumkm', 'resesiglobal']",Positif
+"['kebayang', 'skripsi', 'judulnya', 'pengaruh', 'banyaknya', 'wali', 'doa', 'wirid', 'pembimbing', 'gue', 'langsung', 'gideg']",Positif
+"['antisipasi', 'global', 'kader', 'pdip', 'depok', 'bercocok', 'tanam', 'kebun', 'rakyat', 'nkader', 'partai', 'demokrasi', 'perjuangan', 'pdip', 'kota', 'depok', 'cocok', 'tanam', 'wilayah', 'tapos', 'minggu', 'november']",Positif
+"['pemerintah', 'memikirkan', 'solusi', 'holistik', 'sektor', 'industri', 'terjaga', 'ancaman', 'arsjadrasjid', 'kadinindonesia', 'inklusifkolaboratif']",Positif
+"['prestasi', 'jawa', 'kian', 'melejit', 'dibawah', 'kepemimpinan', 'ganjar', 'delegasi', 'swiss', 'sepakat', 'kerjasama', 'hadapi', 'dunia', 'fifaworldcup', 'nkorsel', 'pagii', 'jepang', 'haji', 'muhammad', 'son', 'pengendalian', 'imei', 'diogo', 'costa', 'cianjur', 'first', 'love', 'brazil', 'selamat', 'guru', 'japan']",Negatif
+"['sayangnya', 'spesifik', 'isu', 'komjen', 'agus', 'nisu', 'denis', 'selingkuh', 'lakinya', 'ayu', 'dewi', 'isu', 'isu', 'lgbt', 'piala', 'dunia', 'isu', 'hitler', 'mati', 'garut']",Positif
+"['ganjar', 'pranowo', 'memiliki', 'strategi', 'tersendiri', 'menghadapi', 'ramalan', 'global', 'nindonesia', 'nargentina', 'nneymar', 'njapan', 'ndiogo', 'costa', 'nbrazil', 'njepang', 'njongdae', 'fifaworldcup', 'jinfesta', 'arigatoindonesia']",Negatif
+"['hah', 'nlantas', 'yuk', 'simak', 'informasi']",Negatif
+"['pelayaran', 'nasional', 'optimistis', 'hadapi', 'ancaman', 'global']",Positif
+"['maaf', 'mah', 'tetep', 'kena', 'separah', 'eropa', 'masyarakat', 'konsumtif', 'ekspor', 'produk', 'pertanian']",Positif
+"['kebal', 'xbb']",Positif
+"['bye', 'nmenurut', 'sri', 'mulyani', 'pertumbuhan', 'pemulihan', 'negara', 'nbahkan', 'dibandingkan', 'negara', 'maju', 'nyang', 'diaminkan']",Positif
+"['kekuatan', 'doa', 'semoga', 'bangkitkan', 'terhindar', 'nsetelah', 'doa', 'langsung', 'belanja', 'semangat', 'kerja', 'makan', 'tidur']",Positif
+"['kab', 'kota', 'hrs', 'siapkan', 'lahan', 'tanam', 'pangan', 'lokal', 'non', 'beras', 'gandum', 'shg', 'kurangi', 'impor', 'beras', 'gandum', 'gula', 'rafinasi', 'kedelai', 'jagung', 'dll', 'syukur', 'swasembada', 'ekspor', 'global', 'mempan', 'mandiri', 'pangan', 'lokal', 'ebt', 'biofuel', 'biogas']",Positif
+['iknmajukansektorumkm'],Positif
+"['jaduh', 'iknmajukansektorumkm']",Positif
+"['kadrun', 'kroninya', 'dunia', 'hancur', 'belom', 'liat', 'puncaknya', 'lolos', 'nggak', 'membaik', 'meningkat']",Negatif
+"['phk', 'negara', 'eropa', 'muali', 'terdampak', 'pengimpor', 'barang', 'diproduksi', 'bbrp', 'pabrik', 'memutarbalikan', 'fakta', 'cebong', 'kadrun', 'emang', 'hobinya']",Negatif
+"['pemerintah', 'republik', 'uda', 'ngutang', 'tax', 'amnesty', 'kali', 'terima', 'duit', 'segitu', 'pertumbuhan', 'rakyat', 'nasional', 'loyo', 'thn', 'thn', 'berjalan', 'nyungsep', 'sounding', 'thn']",Negatif
+"['bawa', 'bawa', 'dunia', 'pemain', 'global', 'terhindar', 'ancaman', 'prestasi', 'membanggakan', 'org', 'paham', 'coba', 'utangnya', 'jor', 'joran', 'dampak', 'ekonominya', 'menurtmu', 'sesuai']",Negatif
+"['negara', 'udah', 'bahas', 'global', 'mengatasinya', 'negara', 'bahas', 'agama']",Negatif
+"['sebentar', 'berpendapat', 'khawatir', 'umkm', 'tulang', 'punggung', 'perekonomian', 'umkm', 'dioptimalisasi', 'bridukungg']",Negatif
+"['kpopers', 'sibuk', 'jualan', 'belanja']",Negatif
+"['tunjukin', 'bukti', 'you', 'miskin', 'komentar', 'sisi', 'orang', 'bersyukur', 'lihat', 'negara', 'pandemi', 'perang', 'bertahan', 'ngga', 'bersyukur', 'you']",Negatif
+"['waah', 'waah', 'putin', 'ajar', 'menghina', 'sistem', 'pengamanan', 'rusia', 'kekuatan', 'pengamanan', 'hebat', 'sekalee', 'dlm', 'mengamankan', 'negara', 'alias', 'negara', 'calon', 'bangkrut', 'berkumpul', 'bali', 'nbuuahahahahahaha']",Negatif
+"['dipikir', 'sebenernya', 'sikap', 'russia', 'china', 'windfall', 'menyakinkan', 'eropa', 'barat']",Negatif
+"['berita', 'pernyataan', 'dicermati', 'mendalam']",Negatif
+"['rokok', 'dilarang']",Negatif
+"['bos', 'mudah', 'aman', 'ancaman', 'global']",Negatif
+"['gerombolan', 'kadrun', 'laknat', 'suka', 'hoaks', 'dengerin', 'ngga', 'yaoo']",Negatif
+"['penyesuaian', 'harga', 'bbm', 'picu', 'bbmsubsidi', 'bbmbersubsidi', 'bantuanbbmuntukrakyat', 'bltbbmtepatsasaran', 'subsiditepatsasaran', 'semuademikesejahteraan', 'cerdaspakaibbm', 'bijakpakaibbm', 'banten']",Negatif
+"['anies', 'biadab', 'berjuang', 'terhindar', 'deklarasi', 'nasdem', 'sarang', 'koruptor', 'sumatera', 'utara', 'htidukunganies', 'aniesdidukungkhilafah', 'aniesnasdemout', 'tenggelamkananiesnasdem', 'tenggelamkanpartainasdem', 'goodbyenasdemanies']",Negatif
+"['kiro', 'muk', 'nang', 'tok', 'ninflasi', 'ngamuk', 'krisis', 'ngamuk', 'niku', 'durung', 'faham', 'nsenajan', 'isih', 'kudu', 'iso', 'syukur', 'urip', 'nang', 'janji', 'iso', 'nandur', 'iso', 'panen', 'patek', 'urus', 'iso', 'mangan']",Negatif
+"['tweetnya', 'mas', 'video', 'kebakaran', 'ngasih', 'gambaran', 'rakyat', 'santuy', 'kayak', 'video', 'orang', 'santuy', 'kebakaran']",Negatif
+"['salah', 'bukti', 'kalow', 'mempan']",Negatif
+"['tahan', 'jual', 'wording']",Negatif
+"['bebas', 'yekan', 'xad', 'donasi', 'doa', 'gampang']",Negatif
+"['mah', 'miskiinn', 'pulak', 'ngarep', 'duit', 'arab', 'arab', 'mah', 'negara', 'tajiir', 'cebong', 'kekii']",Negatif
+"['gelaran', 'bali', 'sejarah', 'menciptakan', 'perdamaian', 'dunia', 'dunia', 'ketidakpastian', 'ancaman', 'krisis', 'pangan', 'energi', 'ancaman', 'perang', 'dunia', 'ketiga', 'nyata', 'njokowi', 'tokoh', 'perdamaian', 'worldpeace']",Negatif
+"['guwe', 'membantu', 'menahan', 'rabi', 'adat', 'jawa', 'melayu']",Negatif
+"['bentar', 'nemu', 'judul', 'skripsi', 'ttg', 'pola', 'konsumsi', 'masyarakat', 'pelaksanaan', 'kegiatan', 'berbasis', 'adat', 'upaya', 'ketahan', 'ancaman', 'nbtw', 'duitnya', 'darimana', 'yaahh', 'xad', 'xad']",Negatif
+"['setuju', 'memberantas', 'koruptor', 'setuju', 'demo', 'guncang', 'cocok', 'dunia', 'mati', 'bertahan', 'jatuh', 'terperosok', 'ekonominya', 'negara', 'wise', 'brader']",Negatif
+"['koyok', 'ngene', 'ngomonge', 'rakyat', 'sugih', 'kabeh']",Negatif
+['mah'],Negatif
+"['sapa', 'kemaren', 'bacot']",Negatif
+"['rupiah', 'anjlok', 'dana', 'asing', 'kabur', 'kuat', 'sistem', 'moneter', 'melawan', 'eksport', 'amerika', 'dunia', 'khozinudin', 'nsastrawan', 'politik', 'tintamedia', 'islam', 'rahmat', 'istiqomah', 'dakwahkan', 'islam', 'islammensejahterakandunia']",Negatif
+"['kait', 'mengkait', 'papua', 'timor', 'leste', 'boss', 'papua', 'merdeka', 'melarat', 'sampah']",Negatif
+"['khabarnya', 'menimpa', 'khabar', 'cemas', 'cemas', 'demokrasi', 'jatuh', 'ketimpa', 'tangga', 'semoga', 'kecemasan', 'kenyataan', 'rakyatmonitor']",Negatif
+"['serang', 'eropa', 'ekspor', 'sepatu', 'loyo']",Negatif
+"['orang', 'bodoh', 'nlogika', 'emang', 'kepemimpinan', 'pakde', 'bagus', 'negara', 'ancur', 'ancuran', 'makan', 'nasi', 'nkebebasan', 'berpendapat', 'liat', 'orang', 'orang', 'anti', 'jokowi', 'video', 'napas']",Negatif
+"['risau', 'dibayangi', 'pemerintah', 'cerah', 'hargabahanpokok', 'bahanpokokstabil', 'stockbahanpokok', 'bbmterkendali']",Negatif
+"['iphone', 'sold', 'out', 'dimana']",Negatif
+"['gitu', 'norg', 'bergaji', 'ntinggal', 'serukan', 'jajan', 'negri', 'pake', 'commers', 'toko', 'offline', 'tradisional', 'negri', 'njadi', 'perputaran', 'uang', 'negri', 'lancar']",Negatif
+"['airlangga', 'hartarto']",Negatif
+"['ekonom', 'senior', 'imf', 'yan', 'carri', 'swallow', 'majalahtempo']",Negatif
+"['rakyat', 'terkena', 'rakyat', 'bergantung', 'negara', 'negara', 'berperang', 'ato', 'apalah', 'makan']",Negatif
+"['menaker', 'ida', 'fauziyah', 'membeberkan', 'tantangan', 'ketenagakerjaan', 'gejolak', 'potensi', 'global']",Negatif
+"['core', 'insight', 'badai', 'phk', 'menghantui', 'nbadai', 'pemutusan', 'hubungan', 'kerja', 'phk', 'menyasar', 'tenaga', 'kerja', 'tanah', 'air', 'situasi', 'bertambah', 'buruk', 'ramalan', 'dunia', 'jatuh', 'jurang']",Negatif
+"['efeknya', 'kerasa', 'kerasa', 'sektor', 'konsumsi', 'rumah', 'tangga', 'adem', 'ayem']",Negatif
+"['inflasi', 'pertumbuhan', 'minus', 'nresesi', 'mengancam', 'turki', 'nmasa', 'bandingkan', 'turki', 'xad', 'xad', 'nindonesia', 'skrg', 'track', 'terbesar', 'dunia', 'kedepan']",Negatif
+"['gdp', 'yoy', 'nindonesia', 'anti', 'nkadrun', 'bangsat', 'teriak', 'perekonomian', 'susah', 'kepalanya', 'nyungsep', 'jurang', 'kejebur', 'kotoran', 'onta', 'nwkwkwkwkwk']",Negatif
+"['kom', 'grab', 'tantangan', 'asing', 'kondisi', 'perekonomian', 'dunia', 'stabil', 'inflasi', 'risiko', 'ancaman', 'teknologi', 'tech', 'winter']",Negatif
+"['kenal', 'sanggup', 'beli', 'tiket', 'konser', 'xbb']",Negatif
+"['baca', 'berita', 'ego', 'dampak', 'cma', 'doang', 'negara', 'bego']",Negatif
+"['ancaman', 'global', 'dinilai', 'berdampak', 'ekspor', 'kaburnya', 'dana', 'asing']",Negatif
+"['kepastian', 'halau', 'cadangan', 'devisa', 'terendah', 'april']",Negatif
+"['dunia', 'kiamat', 'orang', 'santai']",Negatif
+"['orang', 'orang', 'beli', 'minum', 'harganya', 'cuman', 'xad', 'ragu', 'pas', 'ketar', 'ketir', 'gajinya', 'foya', 'foya', 'gaya', 'emang', 'diciptakan', 'survive']",Negatif
+"['perdebatan', 'kebelakang', 'info', 'diumumkan', 'presiden', 'jokowi', 'menteri', 'sri', 'mulyani', 'dianggap', 'menakut', 'nakuti', 'masyarakat', 'diharapkan', 'menghadapi', 'ancaman']",Negatif
+"['bertahan', 'ditengah', 'dunia', 'jokowipresidenku', 'pembangunanuntukrakyat', 'presidenjokowihebat', 'jokowimembangunnegeri', 'jokowimajubersamaindonesia', 'nkrimajubersamajokowi', 'nkalimantan', 'selatan']",Negatif
+"['perekonomian', 'global', 'mengalami', 'krisis', 'lembaga', 'perekonomian', 'global', 'masuk', 'jurang', 'pemerintah', 'langkah', 'mengantisipasi']",Negatif
+"['ancaman', 'global', 'masyarakat', 'rela', 'antre', 'iphone', 'resmi', 'dijual', 'jumat']",Negatif
+"['tiket', 'kongser', 'pop', 'ludes', 'mulu', 'itungan', 'menit', 'ketipu', 'tiket', 'kayaknya', 'mah', 'jauuhh', 'bangeett']",Negatif
+"['mah', 'bos']",Negatif
+"['percaya', 'orang', 'takut', 'noh', 'ipon', 'terbaru', 'mesti', 'sold', 'out']",Negatif
+"['pengen', 'gue', 'muka', 'hamzah', 'ribut', 'nbacot', 'nmending', 'kerja', 'pikirin', 'beneran', 'bacotan', 'kaloan', 'beli', 'sebungkus', 'rokok', 'secangkir', 'kopi', 'nemenin', 'ribut']",Negatif
+"['halah', 'macet', 'bukti', 'demo', 'mahasiswa', 'kemarin', 'macet', 'negara', 'amerika', 'menghadapi', 'inflasi', 'inggris', 'menghadapi', 'krisis', 'pangan', 'inflasi', 'doang', 'hidup', 'enak', 'enak', 'tros']",Negatif
+"['selagi', 'beli', 'tiket', 'nonton', 'konser', 'kpop', 'tandanya']",Negatif
+"['menghantui', 'the', 'bright', 'spot']",Negatif
+"['phk', 'pengangguran', 'meningkat', 'cari', 'kerja', 'susah', 'rupiah', 'lemah', 'daya', 'beli', 'turun', 'sembako', 'otomatis', 'acara', 'sembako', 'dimanfaatkan', 'beli', 'gratis', 'tis', 'tis', 'smpe', 'pdip', 'duitnya', 'hbs']",Negatif
+"['kabupaten', 'pacitan', 'ujung', 'barat', 'provinsi', 'jawa', 'timur', 'daerah', 'daerah', 'merasakan', 'dampak', 'akibat', 'pandemi', 'situasi', 'dunia', 'konflik', 'kenaikan', 'harga', 'minyak', 'dunia', 'dll', 'ruwatjagat', 'kangenpacitan', 'ruwatjagatpacitan']",Negatif
+"['gelombang', 'masuk', 'ribuan', 'puluhan', 'ribu', 'pekerja', 'sektor', 'industri', 'terpaksa', 'kena', 'phk', 'nterus', 'program', 'kartu', 'pra', 'kerja', 'diluncurkan', 'jokowi', 'gunanya', 'nkatanya', 'mengatisipasi', 'phk', 'njelas', 'ngibul']",Negatif
+"['masyarakat', 'dimana', 'diingetin', 'beli', 'rumah', 'ambil', 'cicilan', 'konser', 'kpop', 'kali', 'ludes']",Negatif
+"['ngefek', 'komoditas', 'eksport', 'import', 'hubungannya', 'perbedaan', 'mata', 'uang', 'nindonesia', 'bayar', 'utang', 'mata', 'uang', 'rupiah', 'kena', 'dampak', 'negara', 'kena', 'dampak', 'inflasi', 'dll', 'nini', 'karangan', 'yaa']",Negatif
+"['setuju', 'pusinglah', 'pengusaha', 'pekerja', 'menuntut', 'kenaikan', 'gaji', 'alasan', 'terkena', 'mengabaikan', 'perlambatan', 'pandemi']",Negatif
+"['gelombang', 'covid', 'kontraksi', 'nrekan', 'situasi', 'angka', 'penyebaran', 'covid', 'meningkat', 'daerah', 'sisi', 'negara', 'negara', 'maju', 'dilanda', 'dampak', 'kontraksi', 'dirasakan']",Negatif
+"['bertahan', 'dunia', 'iknsemangatbarunkri']",Negatif
+"['udah', 'tiket', 'mahal', 'udah', 'dibeli', 'trus', 'ngerusuh', 'betapa', 'menyia', 'uang', 'perusuh', 'lihat', 'liat', 'situasi']",Negatif
+"['haa', 'ngehek', 'manusia', 'pendukung', 'anies', 'gobllok', 'dunia', 'paham', 'dunia']",Negatif
+"['investor', 'investor', 'ayok', 'investasi', 'ikn', 'diprediksi', 'investor', 'nyali', 'berinvestasi']",Negatif
+"['gelombang', 'phk', 'global', 'mengurangi', 'permintaan', 'ekspor', 'industri', 'seret', 'pilihan', 'pahitnya', 'kurangi', 'karyawan', 'oktober', 'asosiasi', 'pengusaha', 'apindo', 'mencatat']",Negatif
+"['renungkanlah', 'dunia', 'kaum', 'kilifahfuck', 'kadrun', 'kekacauan', 'faktor', 'berbarengan', 'terkena', 'dampak', 'tugasnya', 'sok', 'ahli', 'menciptakan', 'kerusuhan']",Negatif
+"['renungkanlah', 'menyambut', 'ramalan', 'dunia', 'kaum', 'kilifahfuck', 'kadrun', 'berkeinginam', 'kekacauan', 'diiringi', 'melemahnya', 'faktor', 'berbarengan', 'terkena', 'dampak']",Negatif
+"['intinya', 'gini', 'menyambut', 'ramalan', 'dunia', 'kaum', 'kilifahfuck', 'kadrun', 'berkeinginam', 'kekacauan', 'diiringi', 'melemahnya', 'faktor', 'berbarengan', 'terkena', 'dampak']",Negatif
+"['kadrun', 'goblok', 'negara', 'kolap', 'nbentar', 'mengalami', 'krismon', 'salahkan', 'pemerintahan', 'kerja', 'bener', 'bisanya', 'dema', 'demo']",Negatif
+"['tuandanpuan', 'peringatan', 'presiden', 'joko', 'widodo', 'ancaman', 'global', 'menakut', 'nakuti', 'waspada', 'kondisi', 'pasar', 'global', 'npasalnya', 'krisis', 'energi', 'pangan', 'keuangan', 'global', 'berdampak', 'ekonomitumbuh', 'ksp']",Negatif
+"['artis', 'korea', 'giat', 'konser', 'fanmeeting', 'pundi', 'keuangan', 'dunia', 'bang', 'xca', 'xcc', 'xca']",Negatif
+"['gelombang', 'masuk', 'ribuan', 'puluhan', 'ribu', 'pekerja', 'sektor', 'industri', 'terpaksa', 'kena', 'phk', 'ironisnya', 'jaminan', 'kehilangan', 'pekerjaan', 'jkp', 'presiden', 'konfederasi', 'serikat', 'pekerja']",Negatif
+"['bbm', 'harga', 'barang', 'barang', 'pegawai', 'berharap', 'kenaikan', 'gaji', 'sisi', 'banyan', 'perusahaan', 'mengurangi', 'pengeluaran', 'kudu', 'piye', 'jal']",Negatif
+"['berfikir', 'positif', 'keutuhan', 'nkri', 'tifa', 'maunya', 'caos', 'keinginannya', 'hancurnya', 'terujud', 'jahat', 'bener', 'kaum', 'pesimis', 'maju']",Negatif
+"['krisis', 'buktinya', 'warganya', 'ganti', 'profesi', 'pekerjaan', 'kemana', 'pemerintah']",Negatif
+"['phk', 'massal', 'perusahaan']",Negatif
+"['mengalami', 'kontraksi', 'kuartal', 'eifisiensi', 'industri', 'terdampak', 'nyuk', 'saksikan', 'video', 'yuk']",Negatif
+"['diumumkannya', 'menghantam', 'masyarakat', 'panik', 'harga', 'pangan', 'energi', 'mengalami', 'kenaikan', 'salah', 'biaya', 'peningkatannya', 'listrik']",Negatif
+"['blg', 'kadrun', 'ngk', 'lolos']",Negatif
+"['ancaman', 'menghantui', 'dunia', 'terkecuali', 'negara', 'berkembang']",Negatif
+"['bertahan', 'soeharto', 'menempatkan', 'sektor', 'pertanian', 'peternakan', 'sektor', 'kerakyatan', 'era', 'menempatkan', 'sektor', 'umkm', 'massal', 'era', 'jokowi', 'gue', 'ragu', 'infrakstruktur', 'gunanya']",Negatif
+"['dampak', 'perekonomian']",Negatif
+"['tangan', 'jokowi', 'tukang', 'kayu', 'kurus', 'nbayangkan', 'presiden', 'kadrun', 'anie', 'jkt', 'diobok', 'smp', 'anccuur', 'berantakan', 'apbd', 'nguap', 'tnp', 'bekas', 'tnp', 'pembangunan', 'nhalo', 'fakar', 'qadrun']",Negatif
+"['voc', 'jaya', 'sbg', 'penjajah', 'kekuasaan', 'terbatas', 'menguras', 'sumber', 'daya', 'sesuka', 'suka', 'hatinya', 'hancur', 'berantakan', 'gara', 'kkn', 'gila', 'gilaan', 'ndemikian', 'nkri', 'kkn', 'terkendali', 'nkri', 'gulung', 'tikar']",Negatif
+"['ahli', 'paham', 'mata', 'uang', 'dunia', 'stabil', 'contoh', 'kadrun', 'muji', 'turki', 'giliran', 'nilai', 'kurs', 'lira', 'anjlok', 'kadrun', 'bisu', 'ancaman', 'dunia', 'kadrun', 'makar', 'tinggal', 'menyalahkan', 'pemerintah']",Negatif
+"['bahasannya', 'financial', 'freedom', 'besok', 'saham', 'beneran']",Negatif
+"['beruntung', 'produktivitas', 'komoditas', 'skrg', 'surplus', 'nnamun', 'global', 'mengalami', 'beli', 'komoditas', 'harga', 'komoditas', 'turun', 'nsekarang', 'harga', 'minyak', 'bumi', 'cenderung', 'turun', 'permintaan', 'turun', 'ntanda']",Negatif
+"['celaka', 'nbegini', 'orang', 'kerja', 'negara', 'autopilot', 'nkan', 'dibilang', 'periode', 'gemilang', 'nnamun', 'periode', 'global', 'bertumbuh', 'dlm', 'gelembung', 'nbeda', 'proyeksi']",Negatif
+"['tingkat', 'inflasi', 'tahunan', 'turun', 'persen', 'oktober', 'ekonom', 'menilai', 'jaminan', 'bebas', 'ancaman', 'analisis', 'cnnindonesia']",Negatif
+"['rencana', 'tunda', 'pemilu', 'dunia', 'berdampak', 'corona', 'nbaru', 'isu', 'lihat', 'menutupi', 'periode', 'gagal', 'national', 'security', 'tambahan', 'isu']",Negatif
+"['sumber', 'data', 'disajikan', 'dana', 'moneter', 'internasional', 'imf', 'memasukkan', 'daftar', 'negara', 'terbesar', 'dunia', 'patokan', 'bertenang', 'potensi', 'semakun', 'nyata']",Negatif
+"['mentri', 'keuangannya', 'disana', 'bicara', 'waspada', 'ngotot', 'bangun', 'ikn', 'kereta', 'cepat', 'merugikan', 'keuangan', 'negara']",Negatif
+"['salah', 'satunya', 'menyebabkan', 'nperang', 'ukraina', 'russia', 'pemantik', 'perang', 'sesungguhnya', 'menyebabkan', 'gejolak', 'taiwan', 'invasi', 'tiongkok', 'ncovid', 'memainkan', 'tebak', 'sndiri']",Negatif
+"['teknis', 'mengalami', 'kwartal', 'ketiga', 'nkalau', 'respon', 'kebijakannya', 'dampaknya', 'diminimalisir', 'nkalau', 'teori', 'konspirasi', 'embuh', 'cak', 'said', 'xad']",Negatif
+"['kegelapan', 'udah', 'presiden', 'proyek', 'mangkrak', 'kegelapan', 'demokrat', 'parah', 'pemilu', 'digelar', 'jual', 'ahy', 'cawapresnya', 'anies']",Negatif
+"['potensi', 'pemilu', 'ditunda', 'wasekjen', 'demokrat', 'butuh', 'pemimpin', 'kegelapan']",Negatif
+"['ahli', 'paham', 'mata', 'uang', 'dunia', 'stabil', 'contoh', 'kadrun', 'muji', 'turki', 'giliran', 'nilai', 'kurs', 'lira', 'anjlok', 'kadrun', 'bisu', 'ancaman', 'dunia', 'kadrun', 'makar', 'tinggal', 'menyalahkan', 'pemerintah', 'xae']",Negatif
+"['tingkat', 'pengangguran', 'terbuka', 'tercatat', 'persen', 'turun', 'persen', 'periode', 'bayang', 'bayang', 'global', 'mengancam', 'lapangan', 'kerja', 'cnnindonesia']",Negatif
+"['potensi', 'pemilu', 'ditunda', 'wasekjen', 'demokrat', 'butuh', 'pemimpin', 'kegelapan', 'jansensitindaon', 'pemiluditunda', 'resesiekonomi', 'wasekjendemokrat']",Negatif
+"['kom', 'ruukepariwisataan', 'eselon', 'kemenparekraf', 'ketiga', 'terkait', 'krisis', 'keuangan', 'ancaman', 'global', 'terkait', 'nyata', 'dihadapi', 'negara', 'dunia', 'berpengaruh', 'kepariwisataan']",Negatif
+"['infonya', 'batal', 'pemilu', 'akibat', 'terjd', 'awan', 'gelap', 'menyelimuti']",Negatif
+"['kebanyakan', 'konser', 'anjir', 'nini', 'mah', 'dompet', 'gue', 'krisis']",Negatif
+"['klw', 'dampaknya', 'signifikan', 'nini', 'ditakuti', 'caplin', 'komplotan', 'caplin', 'kehilangan', 'bahan', 'utama', 'serang', 'pemerintah', 'sri', 'mulyani', 'biang', 'kerok', 'berkurangnya', 'ladang', 'pencaharian']",Negatif
+"['gelap', 'nkayaknya', 'lupa', 'nyalain', 'saklar', 'listrik']",Negatif
+"['npak', 'ambil', 'kesimpulan', 'mengabaikan', 'kalimat', 'lengkapnya', 'donk', 'nbu', 'diawal', 'posisi', 'kuat', 'peringatan', 'global', 'tsb', 'sbg', 'awasan', 'ndisampaikan', 'salah', 'ntidak', 'salah']",Negatif
+"['krisis', 'nsaranmu', 'piye', 'rek', 'stay', 'left']",Negatif
+"['sbn', 'dipegang', 'asing', 'udah', 'angka', 'dah', 'seburuk', 'udah', 'buruk', 'wkwkwk', 'njago', 'rakyat', 'hidup', 'pemerintah', 'amatiran']",Negatif
+"['india', 'keren', 'salah', 'negara', 'terdepan', 'dlam', 'mengadopsi', 'mata', 'uang', 'digital', 'npertanyaannya', 'kpan', 'mnunggu', 'krisis', 'global', 'regulasinya']",Negatif
+"['mengurusi', 'jawa', 'mengurusi', 'hutang', 'menumpuk', 'tantangan', 'dunia']",Negatif
+"['top', 'ambang', 'cebong', 'goblok']",Negatif
+"['abis', 'ngeliat', 'thread', 'orang', 'orang', 'nunjukin', 'history', 'gojek', 'shopee', 'gue']",Negatif
+"['nggak', 'ngerasa', 'santai', 'aza', 'musisi', 'ekonom', 'beda', 'pendididikannya', 'tanggung', 'nggak', 'ngerti', 'blas', 'hayoo', 'anis', 'ngebet', 'oleciden', 'baek', 'aza', 'coba', 'lihat', 'kena', 'nggak', 'negara', 'mudah', 'bsa', 'pencerahan']",Negatif
+"['berlaku', 'karna', 'warga', 'trus', 'puter', 'uangnya']",Negatif
+"['paripurna', 'puan', 'jateng', 'ancaman', 'global', 'diwaspadai', 'menurunnya', 'permintaan', 'ekspor', 'produk', 'tekstil', 'kerajinan', 'ndari', 'amerika', 'serikat', 'eropa', 'tiongkok']",Negatif
+"['single', 'narative', 'bahaya', 'ncontoh', 'ngomongin', 'pre', 'order', 'iphone', 'rame', 'haha', 'hihi', 'ngeser', 'dikit', 'kemampuan', 'membeli', 'property', 'langsung', 'keringet', 'dingin', 'wekekekek']",Negatif
+"['woii', 'dollar', 'brp', 'duit', 'coba', 'luh', 'cek', 'namanya', 'perekonomian', 'blm', 'perekonomian', 'negara', 'anjlok', 'imbasnya', 'diuntungkan', 'dng', 'krisis', 'eropa', 'melanda', 'eropa', 'nohh', 'jembatan', 'tomang', 'belok', 'kiri', 'duh', 'inul']",Negatif
+"['wkwkwk', 'kek', 'negara', 'sibuk', 'persiapan', 'datangnya', 'covid', 'sibuk', 'laen', 'wkwkwk', 'beda']",Negatif
+"['eropa', 'amerika', 'serikat', 'masuk', 'fase', 'depresi', 'nsiapa', 'membeli', 'produk', 'komoditas', 'nsekarang', 'krisis', 'sisi', 'supply', 'nmungkin', 'des', 'udah', 'krisis', 'sisi', 'demand', 'nhanya', 'komoditas', 'diapain', 'barang']",Negatif
+"['paripurna', 'puan', 'maharani', 'jateng', 'ancaman', 'global', 'diwaspadai', 'menurunnya', 'permintaan', 'ekspor', 'produk', 'tekstil', 'kerajinan', 'amerika', 'serikat', 'eropa']",Negatif
+"['bro', 'dengar', 'periode', 'diambang', 'tenang', 'ribu', 'dikantong']",Negatif
+"['ancaman', 'menghantui', 'negara', 'kemerosotan', 'dampak']",Negatif
+"['melanda', 'takut', 'negara', 'dipenuhi', 'orang', 'miskin', 'kena', 'dah', 'makan', 'seminggu']",Negatif
+"['pakar', 'kena', 'terdampak']",Negatif
+"['uang', 'subsidi', 'bbm', 'menggerakan', 'nasional', 'potensi', 'pemasukan', 'negara', 'digratiskan', 'ningat', 'dunia', 'terkena']",Negatif
+"['alah', 'beban', 'negara', 'wkwkwk', 'the', 'real', 'penjaga', 'benteng', 'negara', 'umkm', 'mempertahankan', 'abdi', 'negara', 'umkm', 'dibayar', 'negara', 'membiayai', 'negara', 'pajak', 'kadang', 'negara', 'melindungi', 'preman', 'berseragam', 'mah', 'beban', 'apbn']",Negatif
+"['duluan', 'devisa', 'hutang', 'menggunung', 'diwariskan', 'anak', 'cucu']",Negatif
+"['badai', 'rawan', 'pangan', 'gelap', 'insya', 'allah', 'ditunda', 'dihindari', 'nallah', 'melaknat', 'org', 'org', 'berputus', 'asa', 'terjerumus', 'kedalam', 'neraka', 'jahanam']",Negatif
+"['salty', 'sbt', 'mengalami', 'kepikiran', 'rest']",Negatif
+"['habis', 'diwejangi', 'langsung', 'beritanya', 'ntapi', 'dikabarkan', 'mendadak', 'nyungsep', 'parah', 'dibanding', 'negara', 'nkabar']",Negatif
+"['terbesar', 'iya', 'teratas', 'blm', 'pemain', 'international', 'banding', 'negara', 'pemain', 'international', 'bangga', 'kelas', 'beda']",Negatif
+['gan'],Negatif
+"['isu', 'sebenernya', 'isu', 'terkena', 'badai', 'krisis', 'masalalu', 'contohnya', 'krisis', 'moneter', 'masalalu', 'lakukan', 'sabi', 'next', 'time', 'bahas']",Negatif
+"['nsilahkan', 'klu', 'bahas', 'persatu', 'xba', 'xef', 'ttp', 'bergerak', 'positif', 'dunia', 'dlm', 'akibat', 'pandemi', 'perang', 'nkeren', 'jokowi', 'hati', 'busuk']",Negatif
+"['negara', 'maju', 'berimbas', 'negara', 'npasalnya', 'negara', 'maju', 'mrpkn', 'negara', 'penyumbang', 'sepertiga', 'global', 'nabungkriptodinobi', 'investasilawanresesi', 'chillajadinobi']",Negatif
+"['nobi', 'percaya', 'dilanda', 'nsaya', 'inggris', 'berita', 'saking', 'kelaparan', 'anak', 'anak', 'inggris', 'mengunyah', 'karet', 'pura', 'pura', 'makan', 'nabungkriptodinobi', 'investasilawanresesi', 'chillajadinobi', 'thread']",Negatif
+"['daerah', 'menampakkan']",Negatif
+"['berita', 'labor', 'institute', 'phk', 'masif', 'dipicu', 'ancaman', 'global']",Negatif
+"['menaker', 'ida', 'khawatir', 'ancaman', 'global', 'picu', 'phk', 'massal', 'menteri', 'ketenagakerjaan', 'menaker', 'ida', 'fauziyah', 'khawatir', 'ancaman', 'global', 'berdampak', 'sektor', 'ketenagakerjaan', 'salah', 'satunya', 'pemutusan', 'hubungan']",Negatif
+"['mimpi', 'bangun', 'ketinggalan', 'negara', 'kinerjanya', 'nakuti', 'nakuti', 'rakyat', 'pengin', 'mimpi', 'buknya', 'gedein', 'partai', 'doang', 'presiden', 'petugas', 'partai']",Negatif
+"['dunia', 'mengalami', 'hebat', 'ntermasuk', 'ntahun', 'pemilu', 'ditiadakan', 'karna', 'dana', 'nkalau', 'paksakan', 'kiamat', 'ndah', 'penerawangan']",Negatif
+"['buset', 'ahli', 'makroekonom', 'reply', 'section', 'tigor', 'pas', 'ngedebunk', 'gorengan', 'bermunculan', 'njir', 'takut']",Negatif
+"['rantai', 'pasokan', 'biang', 'kerok']",Negatif
+"['pandangan', 'tight', 'money', 'policy', 'pemerintah', 'terpaksa', 'menekan', 'inflasi', 'nimport', 'export', 'turun', 'tajam', 'effect', 'covid', 'invasi', 'russia']",Negatif
+"['astaga', 'mahasiswa', 'mikir', 'dunia', 'pandemi', 'perang', 'rusia', 'ukraina', 'bagus', 'kontrol', 'inflasi', 'utang', 'jaga', 'ketahanan', 'pangan', 'kritik', 'kontribusi', 'bantu', 'negara']",Negatif
+"['pks', 'dunia', 'diantisipasi', 'pemerintah', 'terdampak', 'parah']",Negatif
+"['ancaman', 'global', 'bsa', 'kena', 'llo', 'who', 'knows', 'sangka', 'inggris', 'kuatnya', 'poundsterling', 'dkondisi', 'skrg', 'ancaman', 'global']",Negatif
+"['keluarin', 'data', 'sri', 'mul']",Negatif
+"['semenjak', 'covid']",Negatif
+"['tren', 'seakan', 'membuktikan', 'beneran', 'keuangan', 'khsusunya', 'salah', 'terdampak', 'tech', 'company']",Negatif
+"['terdampak', 'parah', 'dunia', 'pemerintah', 'antisipasi']",Negatif
+"['pandemi', 'berakibat', 'meningkatnya', 'masyarakat', 'miskin', 'aktivitas', 'terhambat', 'diharapkan', 'aktivitas', 'berangsur', 'pulih', 'angka', 'menyusut', 'kemiskinan', 'referensiteruji', 'infografis', 'validnews']",Negatif
+"['buk', 'sapa', 'miskin', 'lambemu', 'jare', 'dokter', 'pekok', 'eram', 'coba', 'baca', 'jurnal', 'negeri', 'dunia', 'negara', 'survive', 'cocotmu', 'nek', 'nyonyor', 'ngopo', 'karma', 'ucapan', 'burukmu', 'monggo', 'ditenggoke', 'mawon']",Negatif
+"['menghadapi', 'ancaman', 'badai', 'global', 'gejalanya', 'rasakan', 'dimana', 'inflasi', 'menghantam', 'negara']",Negatif
+"['udah', 'usut', 'tuntas', 'kelar', 'sambo', 'kelar', 'muncul', 'wtf']",Negatif
+"['event', 'membuktikan', 'orang', 'orang', 'jakarta', 'takut', 'tiket', 'konser', 'bodong', 'ajaa', 'masi', 'dibeli', 'wkwkwk']",Negatif
+"['dipicu', 'kebijakan', 'berpotensi', 'berdampak', 'perekonomian', 'salah', 'harga', 'komoditas', 'energi']",Negatif
+"['lhoo', 'lak', 'mestii', 'negaranya', 'kolep', 'virus', 'coba', 'maksudnya', 'china', 'gais', 'ngaruh', 'bombastis', 'berita', 'dunia', 'gelap', 'kegiatan', 'masyarakat', 'perbolehkan', 'covid', 'wasalam']",Negatif
+"['berita', 'musti', 'xbc', 'xef', 'patahkan', 'narasi', 'kadrun', 'sllu', 'blow', 'negara', 'bnyak', 'hutang', 'dll', 'xae', 'nekonomi', 'terbesar', 'tujuh', 'sedunia', 'salip', 'inggris', 'xaa', 'xae', 'xae', 'xae', 'nkadrun', 'anjeng', 'liat', 'fakta', 'sperti', 'langsung', 'mata', 'ketutupan', 'taek', 'xbc', 'xef']",Negatif
+"['denger', 'denger']",Negatif
+"['mengalami', 'rakyat', 'tinggal', 'turun', 'kejalan', 'cari', 'kebenaran', 'mengepung', 'istana', 'negara', 'berkumpulnya', 'oligarki', 'mafia', 'bangsa', 'pengecut', 'menguras', 'habis', 'harta', 'kekayaan', 'revolusi', 'harga', 'mati', 'rakyat']",Negatif
+"['ngapain', 'cape', 'ngurusin', 'taliban', 'mending', 'urusin', 'orang', 'susah', 'sengsara', 'udah', 'dunia']",Negatif
+"['global', 'berdampak']",Negatif
+"['the', 'imf', 'predicts', 'that', 'the', 'indonesian', 'economy', 'will', 'grow', 'but', 'the', 'influencers', 'here', 'nakut', 'nakutin', 'sampe', 'meminjam', 'diksi', 'kiamat', 'hahaha']",Negatif
+"['anggota', 'komisi', 'dpr', 'anis', 'byarwati', 'menilai', 'terdampak', 'parah', 'pemerintah', 'antisipasi']",Negatif
+"['video', 'judulnya', 'emg', 'rada', 'takut', 'sihh', 'isinya', 'berat', 'bgtt', 'ngomongin', 'perekonomian', 'dunia', 'impact', 'video', 'gegara', 'video', 'melek', 'ttg', 'dunia', 'ajaa', 'efek', 'kena', 'perekonomian']",Negatif
+"['aman', 'ngomong', 'nda', 'terdampak', 'skrg', 'mengurangi', 'pengeluaran', 'berjaga', 'terburuk', 'menghemat', 'dah']",Negatif
+"['kiamat', 'dibilang', 'sri', 'mulyani', 'nkocak', 'nyth']",Negatif
+"['subsidi', 'sasaran', 'memeberikan', 'nafas', 'miskin', 'pemerintah', 'mencari', 'jalan', 'terhindar', 'resesiekonomi', 'refrensiteruji', 'infografis', 'validnews']",Negatif
+"['pks', 'dunia', 'diantisipasi', 'pemerintah', 'terdampak', 'parah']",Negatif
+"['kanwil', 'kemenkumham', 'sumsel', 'menkumham', 'menyebabkan', 'ter', 'expose', 'resiko', 'global', 'inflasi', 'kompetisi', 'politik', 'efek', 'domino', 'pandemi', 'covid', 'nharun', 'sulianto', 'kumhamsumsel', 'harunsulianto']",Negatif
+"['lanjutan', 'menghadapi', 'ancaman', 'badai', 'global', 'gejalanya', 'rasakan', 'dimana', 'inflasi', 'menghantam', 'negara', 'papar', 'nlanyalla', 'ketua', 'pemuda', 'pancasila', 'jatim', 'next']",Negatif
+['bagus'],Negatif
+"['pks', 'terdampak', 'global', 'parah', 'pemerintah', 'kejar', 'proyek', 'mercusuar']",Negatif
+"['suku', 'bunga', 'udah', 'kenaikan', 'kali', 'ditahun']",Negatif
+"['ooo', 'takut', 'oposisi', 'musnah', 'thn', 'anteng', 'nkenapa', 'takut']",Negatif
+"['takut', 'belanjain', 'duit', 'nbelanja', 'usahakan', 'belanja', 'ukm', 'kurangi', 'konsumsi', 'produk', 'impor', 'insyaallah']",Negatif
+"['anis', 'byarwati', 'terdampak', 'parah', 'dunia', 'pemerintah', 'antisipasi']",Negatif
+"['menteri', 'keuangan', 'kaki', 'tangan', 'imf', 'digembar', 'gemborkan', 'perputaran', 'mandeg', 'takut', 'takutin', 'kiamat', 'sengaja', 'ucapkan', 'masuk', 'skenario', 'imf']",Negatif
+"['well', 'negara', 'mengalami', 'common', 'thing', 'lumrah', 'pertanyaannya', 'parah', 'warning', 'for', 'mikir', 'pengeluaran', 'ntar', 'kasih', 'cek', 'out', 'trs', 'pake', 'paylater']",Negatif
+"['staff', 'kemarin', 'sore', 'kerja', 'dipanggil', 'atasan', 'mohon', 'aware', 'nngeliat', 'pic', 'kepikiran', 'wkwk']",Negatif
+"['ngefek', 'kayanya', 'semalem', 'acara', 'konser', 'berbayar', 'alun', 'serang', 'rame', 'dateng', 'wkwkwk']",Negatif
+"['menteri', 'keuangan', 'sri', 'mulyani', 'indrawati', 'tekanan', 'global', 'kaleng', 'kaleng', 'tahan', 'goncangan', 'akibatkan', 'global', 'apbn', 'jebol', 'menteri', 'keuangan', 'sri', 'mulyani']",Negatif
+"['sri', 'nnakut', 'orang', 'maunya', 'merembet', 'berusaha', 'cuci', 'tangan', 'duluan', 'rakyat', 'memaklumi']",Negatif
+"['sby', 'bodoh', 'ngerti', 'dengerin', 'sri', 'kompres', 'dunia', 'kuat', 'covid', 'dunia', 'lupuh', 'tumbuh', 'sby', 'rakyat', 'bodoh']",Negatif
+"['ketua', 'dpp', 'pks', 'dunia', 'diantisipasi', 'pemerintah', 'terdampak', 'parah']",Negatif
+"['otak', 'mikir', 'mas', 'negara', 'kena', 'coba', 'hidup', 'obyektive', 'berdasarkan', 'kebencian', 'org', 'sukses', 'dlm', 'hidup', 'sll', 'benci', 'org', 'sukses']",Negatif
+"['ancaman', 'global', 'negara', 'negara', 'mewaspadai', 'ancaman']",Negatif
+"['preorder', 'udah', 'sold', 'out', 'nfixed']",Negatif
+"['terima', 'kasih', 'sby', 'tweet', 'nskdr', 'opini', 'blm', 'duga', 'warga', 'terpengaruh', 'dunia', 'terkena', 'duga', 'sosok', 'spt', 'lbp', 'mgkn', 'bumn', 'oligarki', 'sejenis', 'rakyat', 'mah', 'negeri', 'msh', 'mkn', 'genjer', 'ganyong']",Negatif
+"['bener', 'mah']",Negatif
+"['bingung', 'namanya', 'utang', 'triliyunan', 'nyuruh', 'peruri', 'cetak', 'uang', 'tukar', 'dollar', 'bayarin', 'utang', 'namanya', 'negara', 'matoknya', 'dollar']",Negatif
+"['perang', 'ukraina', 'rusia', 'ancaman', 'dunia', 'lakukan', 'pengendalian', 'inflasi']",Negatif
+[],Negatif
+"['berita', 'hoax', 'berita', 'palsu', 'nredaksi', 'bertanggung', 'ntau', 'kah', 'negeri', 'hancur', 'mengalami', 'kemunduran', 'sulit', 'hutang', 'meroket', 'penguasanya', 'oligarki', 'rakyatnya', 'sengsara', 'menderita', 'ambruk', 'bubar', 'nini', 'berita', 'hoax']",Negatif
+"['harga', 'minyak', 'dunia', 'ancaman', 'dunia', 'akibat', 'perang', 'rusia', 'ukraina', 'nharga', 'bbm', 'nkadrun', 'diem', 'ngasih', 'apresiasi', 'gimana', 'kek']",Negatif
+"['kena', 'imbas', 'covid', 'tergantung', 'survive', 'enggk', 'bagus', 'luas', 'jml', 'penduduk', 'bnyk', 'sampe', 'krisis', 'org', 'msh', 'bnyk', 'bertahan', 'mskipun', 'mudah']",Negatif
+"['menteri', 'pertahanan', 'prabowo', 'subianto', 'ingatkan', 'waspada', 'menghadapi', 'krisis', 'global', 'prabowo', 'subianto', 'mengantisipasi', 'negara', 'menilai', 'berat']",Negatif
+"['salah', 'sektor', 'terdampak', 'ancaman', 'kenaikan', 'suku', 'bunga', 'bank', 'sektor', 'properti', 'lantas', 'perhitungan', 'ideal', 'mengambil', 'kpr', 'situasi', 'simak', 'selengkapnya', 'infografis', 'focus', 'kpr', 'infog']",Negatif
+"['salahsatu', 'gadanya']",Negatif
+"['jokowi', 'tumbang', 'ombak', 'menghantam']",Negatif
+"['dpr', 'nilai', 'parah', 'terdampak', 'antisipasi']",Negatif
+"['faktor', 'negara', 'gagal', 'bayar', 'utang', 'waspada', 'ancaman', 'resesiekonomi', 'seokjin', 'blackpink', 'rihanna', 'bankmandiri']",Negatif
+"['kali', 'mengalahkan', 'kondisi', 'digadang', 'menghadapi', 'resesiekonomi', 'waspadaresesi', 'referensiteruji', 'infografis', 'validnews']",Negatif
+"['anggota', 'dpr', 'terdampak', 'parah', 'dunia', 'pemerintah', 'antisipasi']",Negatif
+"['pernyataan', 'sikap', 'gabungan', 'serikat', 'buruh', 'gsbi', 'nomor', 'dpp', 'gsbi', 'jkt', 'nmenentang', 'gelombang', 'phk', 'menuntut', 'kenaikan', 'upah', 'buruh', 'stagfasi', 'global']",Negatif
+"['tiktok', 'nibox', 'beli', 'iphone', 'kudu', 'antri', 'beli', 'kebanyakan']",Negatif
+"['pemuter', 'roda', 'perekonomian']",Negatif
+[],Negatif
+"['iya', 'mikir']",Negatif
+"['kerja', 'pemerintahan', 'jokowi', 'amin', 'dianggap', 'sia', 'sia', 'bem', 'nindonesia', 'kuliah', 'tenang', 'pekerjaan', 'sia', 'sia', 'pemerintah', 'nmahasiswa', 'mahasewa']",Negatif
+"['orang', 'menengah', 'kebawa', 'wicis', 'pddk', 'mall', 'realita', 'kak', 'antri', 'kaya', 'gitu', 'kali', 'liat', 'nasional', 'liat', 'antri', 'sembako', 'loker', 'mekdi']",Negatif
+"['gajadi', 'kayaknya']",Negatif
+"['blackpink', 'world', 'tour', 'jakarta', 'concert', 'cplis', 'bantu', 'war', 'ticket', 'nbegitu', 'kpop', 'concert', 'lsg', 'lupa', 'burn', 'money', 'burn', 'nblackpink', 'pemersatu']",Negatif
+"['ribuan', 'relawan', 'berkumpul', 'tugu', 'proklamasi', 'memperingati', 'sumpah', 'pemuda', 'diisi', 'doa', 'bangsa', 'bangsa', 'lepas', 'ancaman', 'krisis', 'global', 'spt', 'dialami', 'negara', 'dukung', 'total', 'ganjar', 'pranowo', 'sumpahrelawan']",Negatif
+"['dibawah', 'jokowi', 'gaul', 'ndalam', 'perdagangan', 'dunia', 'njadi', 'global', 'nefek', 'melemahnya', 'export', 'minimal', 'ndibanding', 'besarnya', 'gdp', 'ntapi', 'krisis', 'perumahan', 'ndi', 'ihsg', 'drop', 'dlm', 'setahun']",Negatif
+"['antisipasi', 'terdampak', 'parah']",Negatif
+"['negara', 'konsumtif', 'kek', 'mencegah']",Negatif
+"['soroti', 'antrian', 'membludak', 'pre', 'order', 'iphone', 'series', 'netizen']",Negatif
+"['minder', 'masuk']",Negatif
+"['naahh', 'pemuda', 'pemudi', 'bersatu', 'melawan', 'eaa', 'xae', 'xae', 'xae']",Negatif
+"['ndibawah', 'jokowi', 'gaul', 'ndalam', 'perdagangan', 'dunia', 'njadi', 'global', 'nefek', 'melemahnya', 'export', 'minimal', 'ndibanding', 'besarnya', 'gdp', 'ntapi', 'krisis', 'perumahan', 'ndi', 'ihsg', 'drop', 'dlm', 'setahun']",Negatif
+"['outlier', 'npola', 'konsumtif', 'masyarakatnya', 'udah', 'terbukti', 'menyelamatkan', 'negara', 'ancaman', 'ncmiiw']",Negatif
+"['kuat', 'perilaku', 'konsumtif', 'uang', 'mutar', 'wkwkwk']",Negatif
+"['siaga', 'badai', 'phk', 'badai', 'cnbc']",Negatif
+[],Negatif
+"['paham', 'yak', 'dunia', 'terancam', 'coved', 'belajar', 'bkn', 'hny', 'drop', 'goblok']",Negatif
+"['orang', 'ngerasain', 'efek', 'retailer', 'barang', 'high', 'end', 'tetep', 'hidup', 'cuman', 'emang', 'influencer', 'fear', 'mongering', 'nakut', 'ngeselin']",Negatif
+"['ncelana', 'berlampu', 'fitur', 'gps', 'laku', 'pesan']",Negatif
+"['valid', 'ekonom', 'terdampak', 'lol']",Negatif
+"['gimana', 'foya', 'foya', 'duit', 'salah', 'menekan', 'emang', 'belanja', 'suruh', 'orang', 'kaya', 'belanja', 'menekan', 'untung', 'perilaku', 'konsumtifnya']",Negatif
+"['ditakutin', 'daya', 'beli', 'orang', 'kuat', 'khawatirin', 'udah', 'masuk', 'inflasi', 'beda', 'cerita']",Negatif
+"['mitos', 'orang']",Negatif
+"['pemerintah', 'hati', 'hati', 'nbahkan', 'udah', 'diramal']",Negatif
+"['dikata', 'doang']",Negatif
+"['kena', 'global', 'negara', 'negara', 'ngandelin', 'impor', 'ekspor', 'kayak', 'perusahaan', 'kena', 'ngandelin', 'ekspor', 'impo', 'perusahaan', 'start', 'ngincer', 'valuasi', 'keuntungan']",Negatif
+"['dampak', 'global', 'mantan', 'menkeu']",Negatif
+"['isu', 'akal', 'kali', 'wkwk', 'ngerasa', 'satrio', 'piningit']",Negatif
+"['pemberi', 'kerja', 'skrg', 'tim', 'background', 'diluar', 'pendidikan', 'aktifitas', 'sosial', 'medianya', 'palagi', 'skrg', 'jaman', 'dunia', 'manapun', 'pengurangan', 'pekerja', 'msh', 'kerja', 'baiknya']",Negatif
+"['semoga', 'bertahan', 'menghadapi', 'kedepan', 'amin', 'allah', 'ekonomirimenguat', 'nikitamirzani']",Negatif
+"['negara', 'menghadapi', 'ancaman', 'global', 'dibayangi', 'hantu', 'global', 'kemarin', 'harga', 'nikel', 'bertengger', 'angka', 'nklik', 'link', 'dibawah', 'lme']",Negatif
+"['financial', 'planner', 'niche', 'fearmongering', 'kehancuran', 'dunia', 'gelap', 'iphone', 'nmasa', 'kalah', 'ama', 'ditakut']",Negatif
+"['dengerin', 'saran', 'sri', 'mulyani', 'inflasi']",Negatif
+"['mengancam', 'fraksi', 'gib', 'gula', 'apbd', 'jember', 'pil', 'pahit', 'njember', 'fraksi', 'gerakan', 'berkarya', 'gib', 'dprd', 'kabupaten', 'jember', 'jawa', 'timur', 'politikpemerintahan', 'apbdjember', 'dprdjember', 'via']",Negatif
+"['terdampak', 'global', 'alami', 'koranjakarta', 'bisnis', 'inflasi', 'sosial', 'tiongkok', 'korea', 'singapura', 'amerikaserikat', 'vietnam', 'taiwan', 'unieropa', 'infoterkini', 'news', 'update']",Negatif
+"['global', 'diantisipasi', 'terdampak', 'parah']",Negatif
+['point'],Negatif
+"['ekonom', 'wajib', 'pertahankan', 'momentum', 'pemulihan', 'terhindar']",Negatif
+"['dunia', 'diprediksi', 'gelap', 'pemuda', 'pemudi', 'diharapkan', 'pelita', 'menerangi', 'gelapnya', 'ancaman', 'global', 'nmaju', 'generasi', 'muda', 'xae']",Negatif
+"['mengancam', 'bos', 'unilever', 'bicara', 'peluang', 'pertumbuhan', 'bisnis']",Negatif
+"['bank', 'hana', 'buka', 'bukaan', 'dampak', 'ancaman', 'global', 'aman', 'trenasia']",Negatif
+"['ancaman', 'kian', 'nyata', 'nasib', 'lapangan', 'kerja', 'opsiin']",Negatif
+"['terseret', 'jurang', 'resesiekonomi', 'ekonomiindonesia', 'povcorn', 'lpiifebunri']",Negatif
+"['badai', 'kerap', 'dikenang', 'mimpi', 'buruk', 'negara', 'dunia', 'pengaruh', 'nusantara', 'meruntuhkan', 'rezim', 'pemerintahan']",Negatif
+"['aisi', 'pelajari', 'dampak', 'penjualan', 'sepeda', 'motor']",Negatif
+"['komisiandaelshinta', 'jenis', 'bahan', 'pangan', 'golongan', 'cadangan', 'pangan', 'pemerintah', 'cpp', 'dikuasai', 'dikelola', 'pemerintah', 'tingkatkan', 'ketahanan', 'ancaman', 'global', 'nstreaming']",Negatif
+"['global', 'hape', 'puluhan', 'juta', 'tetep', 'ajah', 'laris', 'kayak', 'kacang', 'goreng', 'nindonesia']",Negatif
+"['upaya', 'kaum', 'pencinta', 'hoak', 'menwujudkan', 'dunia', 'kena', 'imbasnya', 'jahat', 'kaum', 'kadrun']",Negatif
+"['krisis', 'energy', 'jerman', 'engak', 'semoga', 'semi', 'yaa']",Negatif
+"['patut', 'bersyukur', 'krisis', 'melanda', 'dunia', 'perekonomian', 'kuartal', 'tumbuh', 'tertinggi', 'negara', 'negara']",Negatif
+"['diskusiinteraktifelshinta', 'jenis', 'bahan', 'pangan', 'golongan', 'cadangan', 'pangan', 'pemerintah', 'cpp', 'dikuasai', 'dikelola', 'pemerintah', 'tingkatkan', 'ketahanan', 'ancaman', 'global', 'ntalk', 'pengamat', 'irwan', 'ibrahim']",Negatif
+"['ancaman', 'perekonomian', 'global', 'unilever', 'tbk', 'unvr', 'optimistis', 'penjualan', 'produk', 'bertumbuh', 'perseroan', 'menargetkan', 'pertumbuhan', 'kisaran']",Negatif
+"['ditengah', 'himpitan', 'ancaman', 'mercy', 'maybach', 'mewah', 'miliar', 'ludes', 'diborong', 'orang', 'beli', 'cash']",Negatif
+"['diskusiinteraktifelshinta', 'jenis', 'bahan', 'pangan', 'golongan', 'cadangan', 'pangan', 'pemerintah', 'cpp', 'dikuasai', 'dikelola', 'pemerintah', 'tingkatkan', 'ketahanan', 'ancaman', 'global']",Negatif
+"['rantai', 'pasokan', 'momok', 'biang', 'kerok', 'jokowigaspolpemulihanekonomi']",Negatif
+"['global', 'mengancam', 'diprediksi', 'bertahan']",Negatif
+"['karunia', 'sda', 'tuhan', 'dikelola', 'eropa', 'dialami', 'kuncinya', 'serius', 'pemerintah', 'upaya', 'prefentif', 'ancaman']",Negatif
+"['negara', 'eropa', 'dirasa', 'kian', 'mengancam', 'negara', 'asia', 'dilaporkan', 'inggris', 'stok', 'pangan', 'sulit', 'akibat', 'harga', 'meroket']",Negatif
+"['terancam', 'andi', 'arief', 'jokowi', 'sisa', 'kekuasannya', 'njokowi', 'gancit', 'cebong', 'hasil', 'tes', 'otak', 'bnpt', 'nikita', 'mirzani', 'guling', 'tidur', 'leoniel', 'gen', 'yoona', 'bapakpewarisutang', 'ceweksange', 'megadikudeta', 'aniespresiden']",Negatif
+"['global', 'nitulah', 'plan', 'nwaspada']",Negatif
+"['badai', 'nimpa', 'dunia', 'butuh', 'kerjasama', 'masuk', 'pemerintah']",Negatif
+"['mendag', 'potensi', 'ancaman', 'dunia']",Negatif
+['fakkta'],Negatif
+"['amerika', 'amerika', 'nribet', 'dengerinnya', 'menkeu', 'bicara', 'global', 'nasional', 'diskursusnya', 'membingungkan']",Negatif
+"['amerika', 'beda', 'penyebabnya', 'beda', 'variabelnya', 'berbeda', 'efeknya', 'berbeda', 'nbingung', 'dengerin', 'menkeu', 'bicara', 'amerika']",Negatif
+"['presiden', 'direktur', 'unilever', 'ira', 'noviarti', 'memprediksi', 'sektor', 'fmcg', 'tumbuh', 'persen', 'ancaman', 'global']",Negatif
+"['daya', 'konsumsi', 'masyarakat', 'staf', 'ahli', 'menkop', 'ukm', 'eddy', 'satria', 'prediksi', 'umkm', 'selamatkan', 'ancaman', 'tempobisnis']",Negatif
+"['situasi', 'dunia', 'dilanda', 'akibat', 'pandemi', 'bertahan', 'perjuangan', 'nkalian', 'demokrat', 'sisi', 'kalianpun', 'sanggup', 'mengatasinya', 'pamer', 'ketololan']",Negatif
+"['yuk', 'intip', 'suasan', 'pertemuan', 'pemerintah', 'membangun', 'perekonomian', 'membaik', 'menghadapi', 'krisis', 'global', 'airlanggahartarto', 'golkar', 'krisisglobal']",Negatif
+"['ekonom', 'terkena', 'alasannya']",Negatif
+"['pemerintah', 'menyasar', 'pasar', 'ekspor', 'asia', 'selatan', 'asia', 'timur', 'antisipasi', 'tempobisnis']",Negatif
+"['terancam', 'andi', 'arief', 'jokowi', 'sisa', 'kekuasannya']",Negatif
+"['berani', 'orang', 'global', 'pelambatan', 'poltak', 'hotradero']",Negatif
+"['ancaman', 'mata', 'pengamat', 'kuat', 'menghadapi', 'sedia', 'payung', 'hujan', 'referensiteruji', 'infografis', 'validnews']",Negatif
+"['beneran', 'beliau', 'percaya', 'diuntungkan', 'eropa', 'krisis', 'energi', 'nsingkatnya', 'eropa', 'krisis', 'rusia', 'manfaatin', 'jual', 'batubara', 'mahal', 'eropa', 'susah', 'makan', 'duduk', 'santai', 'kipas', 'kipas', 'pake', 'dollar', 'hasil', 'jualan']",Negatif
+"['prabowo', 'indihome', 'nikita', 'mirzani', 'nostradamus']",Negatif
+"['kanwil', 'kemenkumham', 'sumsel', 'menkumham', 'menyebabkan', 'ter', 'expose', 'resiko', 'global', 'inflasi', 'kompetisi', 'politik', 'efek', 'domino', 'pandemi', 'covid', 'kumhamsumsel', 'harunsulianto', 'bapaslahat']",Negatif
+"['setuju', 'isu', 'tepis', 'papua']",Negatif
+"['welcome', 'menghantam', 'negara', 'dimana', 'kekuatanmu', 'menghancurkan', 'jokowi', 'kerbonya', 'jadikanlah', 'cebong', 'perisai', 'negara']",Negatif
+"['the', 'summit', 'bahas', 'strategi', 'peluang', 'hadapi', 'ancaman']",Negatif
+"['kadrun', 'darurat']",Negatif
+"['gue', 'percaya', 'bkl', 'kena']",Negatif
+"['hadapi', 'ancaman', 'global']",Negatif
+"['global', 'ancam', 'awalil', 'rizky', 'negara', 'diprediksi', 'mampus', 'hadapi', 'guncangan', 'dunia']",Negatif
+"['ancaman', 'tpfx', 'luncurkan', 'trading', 'central', 'alpha', 'generation']",Negatif
+"['ninasapti', 'triaswati', 'pembicara', 'ketiga', 'faktor', 'jatuh', 'harapannya']",Negatif
+"['poltak', 'faktor', 'sulit', 'masuk', 'sektor', 'lokal']",Negatif
+"['bisnis', 'kuliner', 'salah', 'terkena', 'dampak', 'mewabahnya', 'virus', 'corona', 'menurunnya', 'penjualan', 'bisnis', 'terpaksa', 'gulung', 'tikar', 'akibat']",Negatif
+"['dunia', 'dibayangi', 'mendag', 'ambil', 'peluang']",Negatif
+"['demo', 'ruu', 'perampasan', 'aset', 'koruptor', 'mahasiswa', 'cuman']",Negatif
+"['kanwil', 'kemenkumham', 'sumsel', 'menkumham', 'menyebabkan', 'ter', 'expose', 'resiko', 'global', 'inflasi', 'kompetisi', 'politik', 'efek', 'domino', 'dri', 'pandemi', 'covid', 'kumhamsumsel', 'lpmuaraenim', 'harunsulianto']",Negatif
+"['sby', 'dunia', 'berdampak']",Negatif
+"['batu', 'bara', 'bbm', 'inflasi', 'xef', 'nindonesia', 'berpotensi', 'puji', 'teruji', 'tunggu', 'lewati', 'kena']",Negatif
+"['krisis', 'ancaman', 'bisnis', 'tembakau', 'jember', 'njember', 'krisis', 'mengancam', 'pelaku', 'bisnis', 'ekbis', 'bupatihendysiswanto', 'cerutujember', 'fctc', 'via']",Negatif
+"['salah', 'alasan', 'terkena', 'dampak', 'kebijakan', 'jokowi', 'menguntungkan']",Negatif
+"['tur', 'karikatur', 'nkep', 'tur', 'militer', 'galak', 'pacifik', 'nnelayan', 'asing', 'bernafsu', 'perairan', 'natuna', 'curi', 'ikan', 'tuna', 'australia', 'incar', 'pasir', 'ninflasi', 'nsemua', 'negara', 'diuji', 'global', 'putin', 'action', 'xijinping', 'bidendeliversagain']",Negatif
+[],Negatif
+"['kanwil', 'kemenkumham', 'sumsel', 'menkumham', 'menyebabkan', 'ter', 'expose', 'resiko', 'global', 'inflasi', 'kompetisi', 'politik', 'efek', 'domino', 'pandemi', 'covid', 'bapasmuratara', 'kumhamsumsel']",Negatif
+"['salah', 'relasi', 'kerja', 'bos', 'gede', 'surabaya', 'gudangnya', 'gede', 'pake', 'supply', 'daerah', 'surabaya', 'skitarnya', 'kalimantan', 'sulawesi', 'timur', 'negri', 'kayaknya', 'hadapi', 'ambil', 'opsi', 'ngurangin', 'gudang']",Negatif
+"['solusi', 'menghadapi', 'pencegahan', 'sby', 'negara', 'upayakan', 'bahasa', 'kasarnya', 'tunggu', 'tunggu', 'mudah', 'negara', 'aman', 'ndasar', 'bego']",Negatif
+"['cargill', 'cocoa', 'and', 'chocolate', 'optimistis', 'menghindari', 'global', 'diprediksi', 'nbaca', 'ptcarg']",Negatif
+"['pemerintah', 'optimistis', 'memiliki', 'secercah', 'harapan', 'ancaman', 'global', 'dampak', 'gelapnya', 'situasi', 'dunia', 'berimbas', 'negeri', 'salah', 'dampaknya', 'ancaman', 'badai', 'phk']",Negatif
+"['hadeeh', 'udah', 'memasuki', 'ngapain', 'berobat', 'biayanya', 'tanggung', 'negara', 'membebani', 'apbn', 'emang', 'kah', 'misi', 'amrik', 'dibawa', 'kelurahan', 'cikeas', 'tukang', 'sabit', 'rumput', 'kebo']",Negatif
+"['ancaman', 'dunia', 'daya', 'tarik', 'investasi', 'terbukti', 'optimisme', 'perekonomian', 'depannya', 'kuat', 'investor', 'asing', 'memandang', 'surga', 'investasi', 'inflasi']",Negatif
+"['kabar', 'jombang', 'selamat', 'tanda', 'tandanya']",Negatif
+"['coba', 'belajar', 'nlagi', 'rajin', 'dengerin', 'pakar', 'berbicara', 'ttg', 'global', 'pengaruhnya', 'hasilnya', 'xab', 'xab', 'xab', 'nomongan', 'nyantol', 'kepalaku', 'xad', 'istilah', 'mudeng', 'xad', 'xad', 'noke']",Negatif
+"['setauku', 'apbn', 'lumayan', 'tebel', 'negara']",Negatif
+"['negara', 'masuk', 'krisis', 'utang', 'covid', 'takut', 'mesti', 'berteman']",Negatif
+"['ekonom', 'dunia', 'global', 'nindonesia', 'apresiasi', 'dunia', 'menahan', 'global']",Negatif
+"['ngomong', 'dul', 'ncoba', 'bantu', 'pemerintah', 'memikirkan', 'gimana', 'menghadapi', 'ancaman', 'nbukannya', 'ngoceh', 'ngalur', 'ngidul', 'rugi', 'negara', 'manusia']",Negatif
+"['melansir', 'cnbc', 'menteri', 'keuangan', 'sri', 'mulyani', 'pertemuannya', 'gubernur', 'bank', 'central', 'negara', 'negara', 'tumpukan', 'utang', 'sulit', 'menghadapi', 'situasi', 'dunia', 'alami', 'krisis', 'berujung', 'xac', 'xef']",Negatif
+['dunia'],Negatif
+"['prediksi', 'xiaomi', 'redmi', 'poco', 'miui', 'android', 'google', 'xiaomiintro', 'smartphone', 'apps']",Negatif
+"['ancaman', 'global']",Negatif
+"['pemerintah', 'cepat', 'lambat', 'berpotensi', 'mengalami', 'keuangan', 'dampaknya', 'finansial', 'rumah', 'tangga', 'yuk', 'simak']",Negatif
+"['berharap', 'menghampiri', 'letidakbecusan', 'rezim']",Negatif
+"['pos', 'industri', 'logistik', 'kuat', 'hadapi', 'ancaman']",Negatif
+"['usa', 'mikirin', 'global', 'nbiar', 'jokowi', 'mikir', 'nkalo', 'mengahadapi', 'global', 'nbisa', 'milik', 'amerika', 'njadi', 'paham', 'ndiem', 'rumah', 'ngelukis', 'lagu', 'ajarin', 'ahy', 'gmn', 'kerasnya', 'dunia', 'politik']",Negatif
+"['ancam', 'dunia', 'amankah', 'hantu', 'stagflasi']",Negatif
+"['seenggaknya', 'cuman', 'butuh', 'brp', 'ribu', 'mati', 'kelaparan', 'rakyat', 'sisa', 'ratusan', 'juta', 'semoga', 'amin']",Negatif
+"['tanda', 'tanda', 'nampak', 'bentuk']",Negatif
+"['lupa', 'sejatinya', 'dunia', 'pandemi', 'covid', 'mengalaminya', 'pengalaman', 'berguna', 'menangkal', 'terulangnya', 'deputy', 'director', 'institute', 'for']",Negatif
+"['masuk', 'akal', 'kena', 'dampaknya', 'konten', 'tntng', 'dilebih', 'lebihkan', 'namanya', 'scaremongering', 'anying']",Negatif
+"['the', 'summit', 'rebuild', 'the', 'economy', 'bahas', 'strategi', 'alarm', 'global', 'berbunyi']",Negatif
+"['negara', 'dunia', 'mengalami', 'gejolak', 'alias', 'terancam', 'negara', 'aman', 'rakyat', 'jiwa', 'petarung', 'manja']",Negatif
+"['cargill', 'cocoa', 'and', 'chocolate', 'optimistis', 'menghindari', 'global', 'diprediksi', 'jatimnow', 'ptcargillindonesia', 'kakao', 'coklat', 'manufaktur', 'gresik']",Negatif
+"['tsu', 'bang', 'gini', 'kerjaan', 'swasta', 'outsourcing', 'palagi', 'bumn', 'eksploitasi', 'pendapatan', 'orang', 'gini', 'ancaman', 'global', 'ato', 'sampek', 'dekade']",Negatif
+"['pikir', 'sederhana', 'jendral', 'sluruh', 'oerdagangan', 'mata', 'uang', 'perak', 'emas', 'alat', 'pembayaran', 'emas', 'karat', 'karat', 'uang', 'kertas', 'adlh', 'uang', 'dipermainkan', 'berfluktuasi']",Negatif
+"['gaspol', 'pemulihan', 'nmenteri', 'keuangan', 'sri', 'mulyani', 'indrawati', 'rantai', 'pasokan', 'biang', 'kerok', 'mencoba', 'mengatasi', 'inflasi', 'akar', 'rantai', 'pasokan', 'upaya', 'kolaborasi', 'tim', 'pengendalian', 'inflasi']",Negatif
+"['erik', 'tohir', 'ekonom', 'ancaman', 'dunia', 'berlaku', 'drun', 'faktor', 'pergantian', 'jabatan', 'presiden', 'jokowi', 'next', 'jokowi', 'memilih', 'calon', 'presiden', 'melanjutkan', 'pembangunan', 'ikn', 'paham', 'drun']",Negatif
+"['generasi', 'terkuat', 'kayanya', 'kelahiran', 'lahir', 'krisis', 'lulus', 'kuliah', 'pandemi', 'taun', 'disambut', 'pukpuk', 'sing', 'kuat', 'dek', 'ndari', 'ngereject', 'cumlaude', 'ptn', 'lulusan', 'terbaik', 'pts', 'duh', 'hatiku']",Negatif
+"['sambutannya', 'menkumham', 'masyarakat', 'internasional', 'terlibat', 'manajemen', 'global', 'menyebabkan', 'ter', 'expose', 'resiko', 'global', 'inflasi', 'kompetisi', 'politik']",Negatif
+"['mohon', 'kader', 'rajin', 'nongol', 'medsos', 'dikasih', 'pencerahan', 'situasi', 'sulit', 'dialami', 'imbas', 'pengaruh', 'global']",Negatif
+"['konon', 'neg', 'dunia', 'merasakan', 'terkecuali', 'ditangan', 'presiden', 'jokowi', 'melewati', 'badai', 'rakyat', 'negarawan', 'spt', 'mendukung', 'pemerintah']",Negatif
+"['dek', 'kadrun', 'kadrun', 'ngarep']",Negatif
+"['kesimpulannya', 'berdampak', 'signifikan', 'perkembangan', 'melambat', 'pulih', 'normal', 'napa']",Negatif
+"['jabatannya', 'diisi', 'boris', 'johnson', 'menjabat', 'menangani', 'perekonomian', 'inggris', 'resmi', 'kemarin', 'rishi', 'sunak', 'diangkat', 'inggris', 'napakah', 'menakutkan']",Negatif
+"['september', 'story', 'merespon', 'menakutkannya', 'akibat', 'korona', 'pemerintah', 'kebijakan', 'ditangani', 'problem', 'pengaruhnya', 'signifikan']",Negatif
+"['skrg', 'presidenci', 'presiden', 'orang', 'blm', 'bhkn', 'asia', 'tenggara', 'blm', 'tuk', 'memimpin', 'lbih', 'thun', 'negara', 'maju', 'hutang', 'kttpan', 'kinstitusi', 'inggris', 'jeman', 'skrg', 'pailit', 'indonsia', 'stgnan', 'aman', 'rkyt', 'brskur']",Negatif
+"['menkumham', 'masyarakat', 'internasional', 'terlibat', 'manajemen', 'global', 'menyebabkan', 'ter', 'expose', 'resiko', 'global', 'inflasi', 'kompetisi', 'politik', 'efek', 'domino', 'pandemi', 'covid']",Negatif
+"['menkumham', 'masyarakat', 'internasional', 'terlibat', 'dlm', 'manajemen', 'global', 'menyebabkan', 'ter', 'expose', 'resiko', 'global', 'inflasi', 'kompetisi', 'politik', 'efek', 'domino', 'pandemi', 'covid']",Negatif
+"['halo', 'sobat', 'bumn', 'nmuhamad', 'chatib', 'basri', 'mengalami', 'pertumbuhan', 'negatif', 'mengalami', 'pertumbuhan', 'negatif', 'perlambatan', 'bumnuntukg', 'soeinternationalconference']",Negatif
+"['pertanian', 'memperkuat', 'perekonomian', 'membawa', 'terseret', 'jurang', 'petani', 'aktor', 'utama', 'pembangunan', 'pertanianian', 'membutuhkan', 'peran']",Negatif
+"['menyebabkan', 'ter', 'expose', 'resiko', 'global', 'inflasi', 'kompetisi', 'politik', 'efek', 'domino', 'pandemi', 'covid', 'nkemenkumham', 'gorontalo', 'nheni', 'susila', 'wardoyo']",Negatif
+"['lihat', 'mobil', 'mewah', 'jalanan', 'menandakan', 'orang', 'kaya', 'peduli', 'pandemi', 'kesederhanaan', 'kepedulian', 'tai', 'ledig']",Negatif
+"['bbrp', 'faktor', 'bnyk', 'negara', 'gagal', 'bayar', 'utang', 'ttp', 'waspada', 'ancaman', 'investasicerdas', 'milenialinvestasi', 'sahamcuan', 'pintarinvestasi', 'srimulyani', 'hutang', 'faktorekonomi', 'gagalbayar', 'inflasi', 'nikita', 'mirzani']",Negatif
+"['unairnews', 'mahasiswa', 'unair', 'diskusikan', 'isu']",Negatif
+"['gawat', 'penduduk']",Negatif
+"['pertanian', 'memperkuat', 'perekonomian', 'membawa', 'terseret', 'jurang', 'petani', 'aktor', 'utama', 'pembangunan', 'pertanian', 'membutuhkan', 'peran']",Negatif
+"['marak', 'zona', 'euro', 'dollar', 'krisis', 'krisis', 'sungguh', 'berat', 'menimpa', 'amerika', 'serikat']",Negatif
+"['persiapannya', 'join', 'cendekia', 'econimic', 'recession', 'this', 'what', 'you', 'must', 'prepared', 'let', 'join', 'and', 'get', 'all', 'benefits', 'nfind', 'ticket', 'xef', 'webinar', 'gratis', 'viral', 'seminar']",Negatif
+"['berat', 'hidup', 'zaman', 'serkarang', 'yak', 'dunia', 'gelap', 'gelombang', 'hantam', 'radiqol', 'radiqul', 'etc', 'penebar', 'narasi', 'pemerintah']",Negatif
+"['rangkuman', 'proyeksi', 'ekonom', 'bankir', 'ihwal', 'wajah', 'tempobisnis']",Negatif
+"['eropa', 'tll', 'berdampak', 'significant', 'asia', 'nkita', 'sdg', 'memasuki', 'zaman', 'dimana', 'zaman', 'karma', 'dibalas', 'nenek', 'moyang', 'eropa', 'inggris', 'belanda', 'bnyk', 'dosa', 'nenek', 'moyang', 'menjarah', 'harta']",Negatif
+"['diprediksi', 'dampaknya']",Negatif
+"['rantai', 'pasokan', 'biang', 'kerok', 'jokowi', 'gaspolpemulihanekonomi', 'indonesiamaju']",Negatif
+"['kenali', 'penyebab', 'menghadapinya']",Negatif
+"['resesa', 'resesa', 'bolan', 'baleni', 'leh', 'medeni', 'nnyatanya', 'macet', 'macet']",Negatif
+"['covid', 'perang', 'rusia', 'ukraina', 'globa', 'kambing', 'hitam', 'perekonomian', 'merosot']",Negatif
+"['astaga', 'udh', 'mahasiswa', 'mikir', 'dunia', 'pandemi', 'perang', 'rusia', 'ukraina', 'msh', 'bagus', 'kontrol', 'inflasi', 'utang', 'jaga', 'ketahanan', 'pangan', 'kritik', 'kontribusi', 'bantu', 'negara']",Negatif
+"['udah', 'baca', 'steam', 'kenain', 'biaya', 'regional', 'mengatasi', 'kondisi', 'inflasi', 'dunia', 'kabarnya', 'charge', 'mahal', 'harga', 'original', 'devnya', 'nman']",Negatif
+"['jokowi', 'gas', 'pol', 'pemulihan', 'rental', 'pasokan', 'biang', 'kerok']",Negatif
+"['krisis', 'melanda', 'dunia', 'perekonomian', 'kuartal', 'tumbuh', 'tertinggi', 'negara', 'direktur', 'pelaksana', 'imf', 'menyebut', 'ctitik', 'terang', 'kesuraman', 'dunia']",Negatif
+['melanda'],Negatif
+"['negara', 'negara', 'kapital', 'berdampak', 'negara', 'dunia', 'ketiga', 'terbukti', 'pemangkasan', 'jam', 'kerja', 'ribu', 'buruh', 'tekstil', 'kemiskinan', 'meningkat', 'nserba', 'serbi', 'mmc', 'islamkaffah']",Negatif
+"['booming', 'paham', 'dasar', 'negara', 'udah', 'iya', 'harga', 'barang', 'jasa', 'inflasi', 'karna', 'kenaikan', 'harga', 'komoditas', 'coal', 'oil', 'gas']",Negatif
+"['rantai', 'pasokan', 'buang', 'kerok', 'jokowi', 'gas', 'pol', 'pemulihan']",Negatif
+"['eks', 'menkeu', 'pesimisme', 'trenasia']",Negatif
+"['ancaman', 'global', 'membangun', 'kota', 'negara', 'nusantara', 'berdampak', 'potensi', 'investasi', 'ikn']",Negatif
+"['mengerikan', 'nur', 'bintang', 'saputra', 'nfollow', 'ntele', 'nkhilafah', 'ajaran', 'islam', 'nkhilafah', 'janji', 'allah', 'khilafahbisyarahrasulullah', 'khilafahamalanislam']",Negatif
+"['membandingkan', 'era', 'sby', 'dunia', 'jaman', 'jokowi', 'covid', 'perang', 'negara', 'baratpun', 'skrg', 'jatuh', 'miskin', 'orang', 'goblok', 'utang', 'negara', 'maju', 'jepang', 'amerika', 'lihat', 'puluh', 'kali', 'lipat', 'hutangnya', 'goblok']",Negatif
+"['ketum', 'parpol', 'pemimpin', 'nmestinya', 'bahaya', 'menghadang', 'ntahu', 'risiko', 'perbankan', 'global', 'runtuh', 'nngerti', 'risiko', 'supply', 'side', 'terhenti', 'gimana', 'pengaruhnya', 'nngerti', 'global']",Negatif
+"['ancaman', 'ancaman', 'dolar', 'ancaman', 'phk', 'masal', 'masuk', 'teroris', 'bang', 'belom', 'bang', 'ancaman', 'hutang', 'sanggup', 'bayar', 'tarik', 'deler', 'bang', 'cegat', 'depcoletor']",Negatif
+"['gift', 'sampe']",Negatif
+"['bukti', 'bertahan', 'global', 'cmiiw']",Negatif
+"['menekan', 'negara', 'negara', 'kapital', 'berdampak', 'negara', 'dunia', 'ketiga', 'negara', 'kapital', 'lemah', 'ekspor', 'turun']",Negatif
+"['menekan', 'negara', 'kapital', 'berdampak', 'negara', 'dunia', 'ketiga', 'memiliki', 'keterikatan', 'kuat', 'negara', 'serba', 'serbi', 'mmc', 'pemangkasan', 'jam', 'kerja', 'islam', 'kaffah']",Negatif
+"['eropa', 'udah', 'krisis']",Negatif
+"['ono', 'paparkan', 'tantangan', 'bangsa', 'nketua', 'penasehat', 'dewan', 'koperasi', 'dekopin', 'ono', 'surono', 'kondisi', 'krisis', 'pangan', 'global', 'tantangan', 'bangsa']",Negatif
+"['rakyat', 'mahasiswa', 'demo', 'rakyat', 'menolak', 'memaksa', 'pemerintah', 'joko', 'eksekusi', 'undang', 'undang', 'mla', 'nga', 'order', 'kah', 'biaya', 'demo', 'bantu', 'siapkan', 'dana', 'rakyat', 'korban']",Negatif
+"['orang', 'stress', 'berat', 'lihat', 'bertahan']",Negatif
+"['serba', 'serbi', 'mmc', 'npilar', 'sistem', 'kapitalisme', 'mnyebabkan', 'bubble', 'economic', 'effect', 'berdampak', 'negara', 'dunia', 'ketiga', 'sprti', 'pemutusan', 'jam', 'kerja', 'phk']",Negatif
+"['alami', 'pelemahan', 'rupiah', 'akibat', 'pengetatan', 'likuiditas', 'global', 'bundacorla', 'nac', 'milan', 'antam', 'nlrt', 'palembang', 'krisisglobal', 'ancamanglobal', 'indonesiaantiresesi']",Negatif
+"['cerita', 'dibawah', 'menggambarkan', 'amerika', 'neropa', 'china', 'mengalami', 'nindonesia', 'kena']",Negatif
+"['rantai', 'pasokan', 'biang', 'kerok', 'nmenkeu', 'sri', 'mulyani', 'akar', 'penyebab', 'inflasi', 'adlh', 'rantai', 'pasokan', 'berulang', 'harga', 'bahan', 'pokok', 'akibat', 'mismanagement', 'rantai', 'pasok', 'gas', 'pol', 'pemulihan']",Negatif
+"['akn', 'kasih', 'tips', 'tipsnya', 'nberuntungnya', 'hidup', 'nkarena', 'dampak', 'krisis', 'perang', 'rusia', 'ukraina', 'berujung', 'menyebabkan', 'berhentinya', 'pasokan', 'bersifat', 'komoditas', 'minyak', 'gandum']",Negatif
+"['kena', 'nxixixixihihihuuahahahahahahahahahahahahahahahaha']",Negatif
+"['ojk', 'bank', 'kementerian', 'keuangan', 'menghadapi', 'ancaman', 'global', 'korantempo']",Negatif
+"['ngga', 'bbm', 'naek', 'listrik', 'naek', 'negara', 'dunia', 'mengalama', 'sulit', 'global', 'udah', 'dateng', 'angka', 'drastis', 'minimal', 'baca', 'berita', 'rakyat', 'nyinyir', 'presiden', 'sehari', 'doang', 'tamat', 'rakyat', 'beban']",Negatif
+"['bang', 'jonis', 'payah', 'terpayah', 'npayah', 'penegakan', 'hukum', 'ngadepin', 'covid', 'ngadepin', 'global', 'ntapi', 'terpayah', 'ndia', 'hrs', 'pny', 'kebanggaan', 'tinggal', 'suriah', 'somalia', 'korut']",Negatif
+"['presiden', 'patut', 'bersyukur', 'krisis', 'melanda', 'dunia', 'perekonomian', 'kuartal', 'tumbuh', 'tertinggi', 'negara', 'negara', 'nfoto', 'bpmi', 'setpres']",Negatif
+"['toko', 'madura', 'jualan', 'jam', 'bersasumsi', 'ngga', 'ngefek', 'bangsa', 'sarinah', 'nbanyaknya', 'sektor', 'umkm', 'informal', 'terdata', 'pemerintah', 'salah', 'ketahanan', 'njadi', 'info', 'bisnis', 'lolos', 'pajak']",Negatif
+"['hadapi', 'ancaman', 'rektor', 'keunggulan', 'bertahan']",Negatif
+"['pemangkasan', 'jam', 'kerja', 'ribu', 'orang', 'buruh', 'pabrik', 'tekstil', 'tpt', 'nresesi', 'kapital', 'mmberikan', 'dampak', 'negara', 'terkait', 'dgnnya', 'ekspor', 'akn', 'turun', 'harga', 'komoditas', 'primer', 'akn', 'turun', 'umat', 'akn', 'komplek', 'nserba', 'serbi', 'mmc']",Negatif
+"['prediksi', 'imf', 'ancaman']",Negatif
+"['nder', 'topik', 'anget', 'pengaruh', 'non', 'block', 'world', 'war']",Negatif
+"['sri', 'mulyani', 'negara', 'ancaman', 'salah', 'satunya']",Negatif
+['nggak'],Negatif
+"['umkm', 'simbol', 'kebangkitan', 'hadapi', 'hargabahanpokok', 'bahanpokokstabil', 'stockbahanpokok', 'bbmterkendali']",Negatif
+"['umkm', 'penyelamat', 'hargabahanpokok', 'bahanpokokstabil', 'stockbahanpokok', 'bbmterkendali']",Negatif
+"['aman', 'bukti', 'ngerinya']",Negatif
+"['menepati', 'janji', 'penjualan', 'paket', 'ditawarkan', 'konsumen', 'dirugikan', 'hukum', 'tumpul', 'tajam', 'semoga', 'cepat', 'semoga', 'terulang', 'amin', 'lelah', 'jaman', 'rezim']",Negatif
+"['memaksimalkan', 'penerimaan', 'negara', 'pajak', 'lanyalla', 'apbn', 'pnbp']",Negatif
+"['gila', 'gila', 'dunia', 'buruk', 'hebatnya', 'menekan', 'angka', 'inflasi', 'mencegah', 'kurs', 'dollar', 'seanjlok', 'takut', 'psikologis', 'rakyat', 'turunkan', 'panutan', 'rakyat', 'bro', 'menghancurkan', 'negeri']",Negatif
+"['beda', 'ambruk', 'terburuk', 'amerika', 'dekade', 'ambruk', 'dlm', 'tempo', 'dekade', 'amerika', 'bangkit', 'negara', 'terkuat', 'dunia', 'pake', 'syariah', 'lho', 'nmasyarakat', 'minat', 'bank', 'syariah', 'emang', 'keunggulan', 'riil', 'islam']",Negatif
+"['terkena', 'setidakny', 'persiapan']",Negatif
+"['kebayang', 'besok', 'kondisi', 'skrg', 'lesuu']",Negatif
+"['menghantui', 'dunia', 'keketuaan', 'diharapkan', 'mengurai', 'rumitnya', 'global', 'dicegah', 'sanggupkah', 'nsaksikan', 'economicchallengesmetrotv', 'ketar', 'ketir', 'selasa', 'wib']",Negatif
+"['diprediksi', 'bertahan', 'hadapi', 'ancaman', 'global']",Negatif
+"['melawan', 'noptimisme', 'dlm', 'apapun', 'public', 'figur', 'media', 'massa', 'memberitakan', 'ketakutan', 'lawan', 'optimisme', 'nbuat', 'persiapan', 'menyerah', 'kampanye', 'melawan', 'njgn', 'menebar', 'ketakutan', 'ntebar', 'optimisme', 'mediamassa', 'publicfigur', 'motivator']",Negatif
+"['harga', 'barang', 'jasa', 'kawula', 'muda', 'kabar', 'gelap', 'panik', 'nsebenernya', 'panik', 'ikuti', 'nabung', 'ala', 'orang', 'jepang', 'ntips', 'nabung', 'kakeibo', 'thread']",Negatif
+"['presiden', 'bersyukur', 'daftar', 'antrean', 'pertumbuhan', 'produk', 'domestik', 'bruto', 'kuartal', 'menyentuh', 'persen', 'year', 'year', 'yoy']",Negatif
+"['bingung', 'org', 'berusaha', 'menjatuhkan', 'negara', 'konsen', 'krisis', 'energi']",Negatif
+"['lebay', 'jaman', 'belanda', 'udah', 'trem', 'berbahan', 'bakar', 'listrik', 'knp', 'dikembangkan', 'nkrn', 'mmg', 'butuh', 'penumpangnya', 'penumpangnya', 'operasionalnya', 'pake', 'dana', 'nkita', 'masuk', 'akal', 'ngembangin', 'proyek']",Negatif
+"['ancaman', 'global', 'diprediksi', 'pil', 'pahit', 'sektor', 'kolaps', 'akibat', 'pandemik', 'pariwisata', 'salah', 'satunya', 'strategi', 'pelaku', 'sektor', 'pariwisata', 'tanah', 'air', 'menghadapi', 'utas', 'thread']",Negatif
+"['direktur', 'utama', 'bank', 'negara', 'persero', 'tbk', 'bni', 'royke', 'tumilaar', 'mengakui', 'global', 'menghadapi', 'potensi', 'strategi', 'bni', 'menghadapinya']",Negatif
+"['dibayangi', 'global', 'sektor', 'properti', 'prospektif', 'inews', 'opsiin']",Negatif
+"['menteri', 'investasi', 'kepala', 'bkpm', 'bahlil', 'lahadalia', 'investadi', 'tumbuh', 'ancaman']",Negatif
+"['alhamdulillah', 'tingkat', 'inflasi', 'terendah', 'nomor', 'dunia', 'diprediksi', 'lolos', 'ambil', 'langkah', 'faktapertalite']",Negatif
+"['prediksi', 'dampak', 'global', 'karna', 'konser']",Negatif
+"['penyelamatan', 'hasilnya', 'kinerjajokowimantap']",Negatif
+"['sektor', 'terancam', 'kinerjajokowimantap']",Negatif
+"['opo', 'tenan', 'terdampak']",Negatif
+"['bayang', 'global', 'menghantui', 'perekonomian', 'dunia', 'terkecuali', 'kinerjajokowimantap']",Negatif
+"['isu', 'berkembang', 'ketakutan', 'ketidakpastian', 'ketua', 'perhimpunan', 'pengusaha', 'jasa', 'kantor', 'optimisme', 'dibangun']",Negatif
+"['prediksi', 'lolos', 'mengambil', 'langkah', 'krisis', 'keuangan', 'pangan', 'energi', 'global', 'ditambah', 'inflasi', 'menjadikan', 'dunia', 'dibayangi', 'ancaman', 'bbmsubsidiuntukwongcilik', 'tingkatinflasiterjaga']",Negatif
+"['industri', 'nikel', 'bahan', 'baku', 'baterai', 'kendaraan', 'listrik', 'penopang', 'ancaman', 'global', 'pemerintah', 'mendorong', 'percepatan', 'hilirisasi', 'nikel', 'besarnya', 'potensi', 'komoditas', 'jokowi']",Negatif
+"['menerawang', 'dunia', 'jatuh', 'jurang']",Negatif
+"['bayang', 'bayang', 'global', 'menghantui', 'perekonomian', 'dunia', 'terkecuali', 'kinerjajokowimantap']",Negatif
+"['selamat', 'pelengseran', 'presiden', 'dibolehkan', 'disegerakan', 'sesuai', 'konstitusi']",Negatif
+"['kekhawatiran', 'kayanya', 'mempelajari', 'mendalam', 'kondisi', 'global', 'xae']",Negatif
+"['dunia', 'was', 'was', 'strategi', 'grab', 'pasar', 'uzoneid', 'startup', 'elektronik']",Negatif
+"['perekonomian', 'sehat', 'aman', 'ancaman']",Negatif
+"['mengintai', 'erick', 'thohir', 'khawatir', 'umkm', 'erickthohir', 'bumn', 'bkpm']",Negatif
+"['gelombang', 'panas', 'mendekat', 'mengendalikan', 'perusahaan', 'anthony', 'leong', 'ketua', 'perhimpunan', 'pengusaha', 'jasa', 'kantor', 'perjakbi']",Negatif
+"['momok', 'hantu', 'tantangan', 'tersendiri', 'pengusaha', 'anthony', 'leong', 'ketua', 'perhimpunan', 'pengusaha', 'jasa', 'kantor', 'perjakbi', 'menghadapi']",Negatif
+"['dunia', 'moncer', 'nsiapa', 'jokowi', 'ijazah', 'encer', 'otaknya', 'nkadrun', 'ncnbc']",Negatif
+"['lembaga', 'survei', 'publik', 'ukuran', 'parameter', 'dlm', 'menilai', 'kinerja', 'pemerintahan', 'jokowi', 'maruf', 'bahan', 'bully', 'ditengah', 'masyarakat', 'thn', 'diprediksi', 'mengalami']",Negatif
+"['ekonom', 'senior', 'universitas', 'faisal', 'basri', 'mengalami', 'krisis', 'akibat', 'ancaman', 'global', 'tempobisnis']",Negatif
+"['dampak', 'global', 'srimulyani']",Negatif
+"['ekonom', 'global', 'menekan', 'lapangan', 'kerja', 'sektor', 'berpengaruh', 'napa', 'pemerintah', 'analisis', 'cnnindonesia']",Negatif
+"['bertahan', 'melawan', 'inflasi', 'indoesia']",Negatif
+"['sektor', 'usaha', 'memasang', 'kuda', 'kuda', 'gelombang', 'panas', 'mendekat', 'kejadian', 'bertaraf', 'global', 'pandemi', 'perang', 'negara', 'mendobrak', 'habis', 'pertahanan']",Negatif
+"['dunia', 'drun', 'rupiah', 'jafi', 'dollar', 'rupiahkan', 'uang', 'yeea', 'noh', 'yaa', 'presidenmu', 'emangnya']",Negatif
+"['from', 'ufo', 'edan', 'kekurangan', 'konten']",Negatif
+"['stress', 'nder', 'hadapi', 'setahuku', 'insyaallah', 'aman']",Negatif
+"['just', 'published', 'kebal']",Negatif
+"['webinar', 'cancaman', 'global', 'transisi', 'hijau', 'persimpangan', 'jalan', 'nkolaborasi', 'lab', 'csis', 'nsenin', 'oktober', 'wib', 'nregistrasi']",Negatif
+"['presiden', 'susilo', 'bambang', 'yudhoyono', 'sby', 'resah', 'dunia', 'hambat', 'upaya', 'atasi', 'global', 'warming', 'demokratproperubahan', 'ahy']",Negatif
+"['muhamad', 'chatib', 'basri', 'mengalami', 'pertumbuhan', 'negatif', 'mengalami', 'pertumbuhan', 'negatif', 'perlambatan']",Negatif
+"['global', 'berpengaruh', 'relevansinya', 'berinteraksi', 'kepemimpinan']",Negatif
+"['mengalami', 'terselamatkan', 'sektor', 'pertanian', 'ukm', 'nsemoga', 'menghadapi', 'dunia', 'sektor', 'pertanian', 'ukm', 'perhatian', 'khusus', 'pemerintah', 'pemikiran', 'sederhana', 'debat']",Negatif
+"['char', 'see', 'disaat', 'ancaman', 'global', 'kali', 'bertahan', 'kontraksi', 'ditopang', 'konsumsi', 'domestik', 'salah', 'pendorong', 'konsumsi', 'domestik', 'harga', 'komoditas', 'masyakat', 'jawa', 'salahs', 'satunya', 'cpo']",Negatif
+"['yups', 'belanda', 'jepang', 'berkuasa', 'mengalami', 'terburuk', 'amerika', 'bantuan', 'menjajah']",Negatif
+"['masuk', 'perijinannya', 'berbelit', 'belit', 'orangnya', 'rajin', 'minum', 'jamu']",Negatif
+"['kaya', 'pejabat', 'mental', 'miskin', 'global', 'rekayasa', 'globalis', 'nindonesia', 'agenda', 'putuskan', 'hubungan', 'imf', 'mandiri']",Negatif
+"['dunia', 'kali', 'nbukan', 'pelecehan', 'indoneshit', 'nakutin', 'stress']",Negatif
+"['sebenernya', 'kuat', 'bertahan', 'taun', 'pertahanin', 'laju', 'jdi', 'hiperbolain', 'semenakutkan', 'memperlambat', 'perputaran', 'dngn', 'tujuan', 'membeli', 'properti', 'saham', 'harga', 'murah']",Negatif
+"['stop', 'demo', 'stop', 'tawuran', 'memgancam', 'dunia', 'bersatu', 'lawan', 'bapakpolitikidentitas']",Negatif
+"['nyesal', 'nasrun', 'butuh', 'pilot', 'berkualitas', 'sekedar', 'ngomong', 'basa', 'basi', 'nnyawa', 'taruhannya', 'mata']",Negatif
+"['terintegrasi', 'dunia', 'dunia', 'aman', 'singapore', 'dll']",Negatif
+"['emg', 'kampret', 'finansial', 'planner', 'fear', 'mongering', 'udah', 'settle', 'finansial', 'menyarankan', 'menahan', 'uang', 'membatasi', 'konsumsi', 'heeyy', 'contoh', 'negara', 'maju', 'iya', 'berhasil', 'lawak', 'luh']",Negatif
+"['surya', 'pallo', 'mendingan', 'cabut', 'koalisi', 'rezim', 'jokowi', 'udah', 'ujung', 'tanduk', 'sebentar', 'menghantam', 'meruntuh', 'rezim', 'jokowi', 'kepercayaan', 'rakyat', 'pemerintah', 'pudar']",Negatif
+"['muhamad', 'chatib', 'basri', 'mengalami', 'pertumbuhan', 'negatif', 'mengalami', 'pertumbuhan', 'negatif', 'perlambatan', 'disisi', 'fisikal', 'prioritas']",Negatif
+"['alasan', 'faisal', 'basri', 'pede', 'selamat', 'global']",Negatif
+"['maksudnya', 'dunia', 'sdg', 'terancam', 'global', 'hrs', 'mengantisipasinya', 'terseret', 'diuntungkan', 'krisis', 'energi', 'eropa', 'export', 'sektor', 'energi', 'industri', 'kimia', 'pupuk', 'ammonia', 'meningkat', 'harga', 'fantastis', 'berkah', 'windfall']",Negatif
+"['jakarta', 'kompas', 'sulawesi', 'wakil', 'menteri', 'perdagangan', 'jerry', 'sambuaga', 'kementerian', 'perdagangan', 'menjalankan', 'arahan', 'presiden', 'joko', 'widodo', 'berjalan', 'tumbuh', 'negara', 'mengalami']",Negatif
+"['menunggu', 'karya', 'ilmiah', 'judul', 'ikn', 'sukses', 'hilang', 'ikn', 'memperkuat', 'menghadapi']",Negatif
+"['orang', 'orang']",Negatif
+"['omicron', 'xbb', 'memeriahkan', 'napakah', 'event', 'flash', 'sal']",Negatif
+"['presiden', 'joko', 'widodo', 'patut', 'bersyukur', 'ancaman', 'global', 'pertumbuhan', 'tercatat', 'kuartal']",Negatif
+"['live', 'resiko', 'global', 'nyata']",Negatif
+"['penjelasan', 'gamblang', 'dunia', 'ngaruh', 'kebanyakan', 'orang']",Negatif
+"['dasar', 'penghianat', 'ngarep', 'terseret', 'nterus', 'keprok', 'tangan', 'nkalo', 'nda', 'betah', 'nkri', 'pergi', 'kau', 'angkat', 'keluargamuu']",Negatif
+"['negara', 'importir', 'mengimpor', 'rakyat', 'susahkan', 'ngutang', 'andalan', 'inflasi', 'pemicu', 'imbasnya', 'menggoyahkan', 'kekuasaan']",Negatif
+"['lha', 'terpuruk', 'coy', 'negara', 'udah', 'krisis', 'keuangan', 'untung', 'fondasi', 'kuat', 'sabar', 'coy', 'jokowi', 'mundur', 'tahan', 'tahan', 'sakit', 'hatinya', 'coy', 'wkwkwk']",Negatif
+"['negara', 'diproyeksikan', 'terhindar', 'masuk', 'daftar']",Negatif
+"['pasien', 'imf', 'dihantam', 'pandemi', 'ancur', 'bener', 'mencurigakan', 'oke', 'kalopun', 'kalah', 'permainan', 'dunia', 'akhirat', 'pertanggung']",Negatif
+"['terhindar', 'tsunami', 'langkah', 'move', 'partai', 'gelora']",Negatif
+"['heboh', 'ancaman', 'prof', 'rhenald', 'kasali', 'melebih', 'lebihkan']",Negatif
+"['belajar', 'dululah', 'arti', 'digubris', 'turun', 'truk', 'sampah', 'ind', 'susah', 'bagus', 'menjd', 'titik', 'terang', 'dlm', 'kegelapan', 'dunia', 'imf', 'nklo', 'jkw', 'turun', 'menteri', 'turun', 'bubar', 'negara', 'faham']",Negatif
+"['penurunan', 'kegiatan', 'naiknya', 'harga', 'pangan', 'pemutusan', 'kerja', 'meningkatnya', 'pengangguran', 'ndampak', 'kalangan', 'next', 'people', 'membantu', 'menghadapi', 'lho']",Negatif
+"['informasi', 'beredar', 'sebenernya', 'apasih', 'nresesi', 'dampak', 'pandemi', 'berjalan']",Negatif
+"['kabar', 'global', 'njangan', 'menghantui', 'gabisa', 'makan', 'tidur', 'nbersatu', 'bangkit', 'xbe', 'nperlambatan', 'pulih', 'butuh', 'ntonron', 'video', 'lenglapnya']",Negatif
+"['ancaman', 'global', 'dana', 'moneter', 'internasional', 'menyebut', 'titik', 'terang', 'suramnya', 'dunia']",Negatif
+"['pulih', 'pascapandemi', 'ancaman', 'global', 'negara', 'dermawan', 'menyumbang', 'bermanfaat', 'sosial', 'kesehatan', 'dikbud', 'adadikompas']",Negatif
+"['pulih', 'pascapandemi', 'ancaman', 'global', 'negara', 'dermawan', 'menyumbang', 'bermanfaat', 'sosial', 'kesehatan', 'humaniora', 'adadikompas']",Negatif
+"['imbas', 'global']",Negatif
+"['kabar', 'gelap', 'bergulir', 'media', 'sosial', 'nmeskipun', 'pemerintah', 'optimis', 'inflasi', 'mash', 'ditangani']",Negatif
+"['yap', 'kebijakan', 'survive', 'ditengah', 'ancaman', 'global', 'ngorontalo', 'dukung', 'bantuanbbmuntukrakyat', 'subsiditepatsasaran', 'semuademikesejahteraan', 'cerdaspakaibbm', 'bijakpakaibbm']",Negatif
+"['kabarnya', 'melanda', 'dunia', 'terdampak', 'serok', 'tipis', 'tipis', 'saham', 'produk', 'minum', 'tol', 'xad']",Negatif
+"['wamendag', 'jerry', 'sambuaga', 'optimistis', 'bertahan', 'langkah', 'kemendag']",Negatif
+"['badai', 'nasib', 'dosen', 'sbm', 'itb']",Negatif
+"['presiden', 'joko', 'widodo', 'patut', 'bersyukur', 'ancaman', 'global', 'pertumbuhan', 'tercatat', 'kuartal', 'xbc', 'xbc', 'xae', 'xbc', 'xba', 'xae', 'xbb', 'xbc', 'xbb', 'xbc', 'xba']",Negatif
+"['ancaman', 'kian', 'nyata', 'nasib', 'lapangan', 'kerja']",Negatif
+"['aman', 'bukti', 'ngerinya']",Negatif
+"['gelap', 'china', 'beneran', 'menginvasi', 'taiwan', 'china', 'menginvasi', 'gua']",Negatif
+"['gua', 'suka', 'statement', 'prof', 'terkait', 'dampak', 'global', 'kasarnya', 'ngerasain', 'perceraian', 'gapernah', 'menikah', 'emang', 'domestik', 'terintegrasi', 'global']",Negatif
+"['negara', 'kebutuhan', 'pokok', 'terpenuhi', 'pemerintah', 'fokus', 'infrastruktur', 'pertanian', 'kelistrikan', 'kelebihan', 'pasokan']",Negatif
+"['nmaen', 'dongok', 'ndunia', 'mengakui', 'kehebatan', 'enkonomi', 'nindonesia', 'menghadapi', 'global', 'jokowi', 'dipuji', 'dunia', 'ncuma', 'grombolan', 'dongok', 'nyang', 'matanya', 'picekk']",Negatif
+"['krisis', 'pangan', 'nmau', 'nmau', 'dolar', 'melejit', 'nmau', 'inflasi', 'nkehidupan', 'desa', 'bersahaja', 'real', 'power']",Negatif
+"['patut', 'bersyukur', 'krisis', 'kuartal', 'tumbuh', 'persen']",Negatif
+"['orang', 'rame', 'bahas', 'pekan', 'pernikahan', 'xixixi', 'nhepi', 'wiken', 'ges', 'xbc']",Negatif
+"['rakyat', 'usd', 'sbg', 'alat', 'tukar', 'nbiarkan', 'ntidak', 'menguras', 'cadangan', 'devisa', 'operasi', 'pasar', 'nkita', 'hemat', 'berjaga', 'menghadapi', 'global']",Negatif
+"['rupiahanjlokjkwmundur', 'nrupiah', 'anjlok', 'dana', 'asing', 'kabur', 'kuat', 'sistem', 'moneter', 'melawan', 'eksport', 'amerika', 'dunia']",Negatif
+"['yup', 'global', 'berdampak', 'surga', 'umkm', 'tebar', 'fear', 'takut', 'pelaku', 'umkm', 'usaha', 'sebenernya', 'memicu', 'beneran']",Negatif
+"['kecebong', 'bawa']",Negatif
+"['gue', 'gue', 'tangkep', 'video', 'kena', 'iya', 'dampaknya', 'nggak', 'negara', 'indo', 'harga', 'kebutuhan', 'pokok', 'emang', 'harga', 'bensin', 'emang', 'daya', 'beli', 'masyarakat', 'far', 'bagus']",Negatif
+"['kunci', 'menghindari', 'buatlah', 'janji', 'kenaikan', 'gaji']",Negatif
+"['mimpikan', 'bumn', 'mendominasi', 'usaha', 'raup', 'keuntungan', 'bangun', 'infrastruktur', 'hedon', 'mesti', 'cerdas', 'cari', 'peluang', 'kerja', 'keras', 'hedon', 'nindef', 'ekspor', 'sawit', 'selamatkan', 'ancaman']",Negatif
+"['eropa', 'merana', 'inggris', 'krisis', 'prancis', 'kiamat', 'jerman', 'halaman', 'cnbc', 'opsiin']",Negatif
+"['orang', 'radikal', 'bandar', 'sabu', 'judi', 'napakah', 'orang', 'radikal', 'menyebabkan', 'rupiah', 'terpuruk', 'napakah', 'orang', 'radikal', 'menyebabkan', 'terancam']",Negatif
+"['warning', 'cipratan', 'efek', 'pembiayaan', 'infrastruktur', 'sindonews', 'bukanberitabiasa']",Negatif
+"['waspada', 'hadapi', 'global']",Negatif
+"['patut', 'bersyukur', 'krisis', 'melanda', 'dunia', 'perekonomian', 'kuartal', 'tumbuh', 'tertinggi', 'negara', 'negara', 'pdiperjuangan', 'bangunlahjiwadanbadannya', 'solidbergerak']",Negatif
+"['dpet', 'insight', 'alasan', 'pemerintah', 'kemarin', 'kemarin', 'naikin', 'pajak', 'naikin', 'harga', 'nkatany', 'apbn', 'ttep', 'stabil', 'surplus', 'ttep', 'bertahan', 'ditengah', 'negara', 'mengalami', 'ttep', 'bertahan', 'ngasih', 'subsidi', 'nkatanya']",Negatif
+"['waspada', 'bentuk', 'antisipasi', 'berbasiskan', 'metodologi', 'saintifik', 'ketakutan', 'berdasarkan', 'perasaan', 'contoh', 'pdhal', 'depresi', 'politik', 'kacau', 'balau', 'pandemi', 'global', 'postur', 'ind', 'ditopang']",Negatif
+"['takut', 'berpengaruh', 'dimana', 'harga', 'jual', 'menurun']",Negatif
+"['kabar', 'gelap', 'bergulir', 'media', 'sosial', 'pemerintah', 'optimis', 'inflasi', 'ditangani']",Negatif
+"['kali', 'mengalami', 'lho']",Negatif
+"['ancaman', 'nasib', 'proyek', 'infrastruktur', 'lengkapcepatberitanya', 'keuangan', 'infoproperty', 'property']",Negatif
+"['gimana', 'squad', 'bahas', 'agenda']",Negatif
+"['ancaman', 'nasib', 'proyek', 'infrastruktur']",Negatif
+"['ilmu', 'cocologi', 'menyerang', 'ngerti', 'global', 'wae', 'ora']",Negatif
+"['jkw', 'menghindari', 'terburuk', 'banned', 'krna', 'beliau', 'blg', 'gelap', 'dimana', 'sepakbola', 'banned', 'bnyak', 'kehilangan', 'pekerjaan', 'berdampak']",Negatif
+"['gejolak', 'global', 'sri', 'mulyani', 'klaim', 'tumbuh', 'ekonomiindonesia', 'ekonomiglobal', 'srimulyani', 'penanamanmodalasing']",Negatif
+"['titik', 'terang', 'kesuraman', 'dunia', 'nperekonomian', 'kuartal', 'tumbuh', 'nindonesia', 'patut', 'bersyukur', 'krisis', 'pdiperjuangan', 'bangunlahjiwadanbadannya', 'solidbergerak']",Negatif
+"['prediksi', 'terdampak']",Negatif
+"['aman', 'salahnya', 'jokowi', 'drun', 'kabar']",Negatif
+"['terlepas', 'buzzer', 'militan', 'pecundang', 'nampak', 'hati', 'nurani', 'dampak', 'gejolak', 'global', 'salah', 'negara', 'kebal', 'dunia', 'fix', 'nasdrun', 'empaty']",Negatif
+"['pendukung', 'jokowi', 'pura', 'pura', 'bahagia', 'nindonesia', 'prediksi', 'negara', 'gagal', 'bayar', 'masuk', 'krisis']",Negatif
+"['efek', 'china', 'terseretkah']",Negatif
+"['pemerintah', 'waspadai', 'ancaman', 'global', 'berimbas', 'pendanaan', 'proyek', 'infrastruktur']",Negatif
+"['kemenkeu', 'mewaspadai', 'laju', 'ekspor', 'ancaman', 'global', 'sektor', 'manufaktur', 'perhatian', 'negara']",Negatif
+"['nii', 'salah', 'presiden', 'warga', 'ndan', 'presidennya', 'anies', 'salah', 'anis', 'warga', 'ndan', 'presidennya', 'ganjar', 'slah', 'ganjar', 'warga']",Negatif
+"['negara', 'dunia', 'mengalami', 'ancaman', 'bertahan', 'nsemua', 'capaian', 'wujud', 'kerja', 'keras', 'pemerintahan', 'presiden', 'jokowi', 'menerus', 'mencari', 'solusi', 'moeldokountukindonesia']",Negatif
+"['gelap', 'dampak', 'apakabar', 'pedalaman', 'nkejadian', 'siang', 'bayar', 'print', 'dokumen', 'lembar', 'beli', 'materai', 'total', 'pembayaran', 'dinamakan', 'ala', 'pedalaman']",Negatif
+"['beeuuh', 'ngerii', 'buruh', 'dirumahkan', 'gara', 'pasar', 'eksport', 'menurun', 'ngebacot', 'kebal', 'kasian', 'nbuuahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaha']",Negatif
+"['kadrun', 'lokal', 'mempertontokan', 'kebodohannya', 'nditengah', 'dunia', 'terkuat', 'ngerti', 'dungu', 'akut']",Negatif
